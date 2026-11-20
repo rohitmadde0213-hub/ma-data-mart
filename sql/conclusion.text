@@ -1,0 +1,22 @@
+### conclusion 
+
+#1. Core Findings (What Happened?)
+
+#Summarize the biggest patterns uncovered in Sections 1–3 using concrete numbers from your queries
+
+#Packaging Change Impact (4-Week & 12-Week Windows): Highlight the immediate dip right after 2020-06-15 (4 weeks before vs. after) and whether sales recovered or continued slipping over the longer 12-week window.
+#Seasonality Check (2018 & 2019 Comparison): Contrast 2020 against the exact same mid-June periods in 2018 and 2019. Point out whether the post-June 15 drop was unique to the 2020 packaging change or if mid-June normally fluctuates.
+#Channel Divergence (Retail vs. Shopify): Note which channel absorbed the biggest drop (typically brick-and-mortar Retail accounts for the overwhelming majority of total revenue and saw the steepest drop, whereas Shopify online sales often grew or stayed far more resilient).
+#Regional & Customer Segment Concentration: Call out which regions (such as Oceania/Asia or specific hard-hit markets) and which customer groups (Families, Retirees, Middle Aged, or unknown age bands) drove the largest revenue losses or gains.
+
+
+#Root-Cause Hypotheses
+#Unknown Demographics Gap: A large share of sales often sits under unknown age bands and demographics (unregistered / guest checkouts), limiting targeted retention campaigns.
+#Channel Behavior: Online Shopify buyers may respond more positively to eco-friendly packaging or have higher average basket sizes than in-store Retail shoppers.
+
+
+#Actionable Recommendations for Danny's Team
+#Targeted Promotions in Hard-Hit Regions & Segments
+#In-Store Retail Communication
+#Double Down on Shopify Growth
+#Fix Data Capture for unknown Customers
