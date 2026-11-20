@@ -1,0 +1,1001 @@
+dates,week_number,month_number,calendar_year,age_band,demographic,avg_sales
+2020-08-31,33,8,2031,Retirees,Couples,30.31
+2020-08-31,33,8,2031,"Young Adults",Family,31.56
+2020-08-31,33,8,2031,unknown,unknown,31.20
+2020-08-31,33,8,2031,"Young Adults",Couples,31.42
+2020-08-31,33,8,2031,"Middle Aged",Couples,30.29
+2020-08-31,33,8,2031,"Middle Aged",Family,182.54
+2020-08-31,33,8,2031,Retirees,Family,206.64
+2020-08-31,33,8,2031,"Young Adults",Family,172.11
+2020-08-31,33,8,2031,"Middle Aged",Family,155.84
+2020-08-31,33,8,2031,Retirees,Couples,35.02
+2020-08-31,33,8,2031,"Young Adults",Family,186.53
+2020-08-31,33,8,2031,"Middle Aged",Couples,189.38
+2020-08-31,33,8,2031,"Middle Aged",Couples,37.67
+2020-08-31,33,8,2031,Retirees,Couples,152.83
+2020-08-31,33,8,2031,Retirees,Family,306.22
+2020-08-31,33,8,2031,Retirees,Family,55.03
+2020-08-31,33,8,2031,Retirees,Couples,190.11
+2020-08-31,33,8,2031,"Young Adults",Family,53.13
+2020-08-31,33,8,2031,"Middle Aged",Couples,26.80
+2020-08-31,33,8,2031,"Young Adults",Family,39.23
+2020-08-31,33,8,2031,Retirees,Family,48.22
+2020-08-31,33,8,2031,Retirees,Couples,50.64
+2020-08-31,33,8,2031,"Middle Aged",Family,30.88
+2020-08-31,33,8,2031,"Young Adults",Family,178.77
+2020-08-31,33,8,2031,Retirees,Couples,150.86
+2020-08-31,33,8,2031,Retirees,Family,56.29
+2020-08-31,33,8,2031,"Young Adults",Family,47.85
+2020-08-31,33,8,2031,unknown,unknown,43.81
+2020-08-31,33,8,2031,"Young Adults",Family,225.57
+2020-08-31,33,8,2031,Retirees,Couples,34.81
+2020-08-31,33,8,2031,"Young Adults",Family,36.99
+2020-08-31,33,8,2031,"Middle Aged",Couples,297.59
+2020-08-31,33,8,2031,"Middle Aged",Family,268.20
+2020-08-31,33,8,2031,"Middle Aged",Couples,42.44
+2020-08-31,33,8,2031,"Middle Aged",Couples,174.93
+2020-08-31,33,8,2031,Retirees,Couples,147.62
+2020-08-31,33,8,2031,Retirees,Family,61.05
+2020-08-31,33,8,2031,Retirees,Couples,203.69
+2020-08-31,33,8,2031,unknown,unknown,190.63
+2020-08-31,33,8,2031,"Young Adults",Couples,125.82
+2020-08-31,33,8,2031,"Young Adults",Couples,113.25
+2020-08-31,33,8,2031,"Young Adults",Couples,43.47
+2020-08-31,33,8,2031,"Middle Aged",Family,159.94
+2020-08-31,33,8,2031,"Middle Aged",Family,36.23
+2020-08-31,33,8,2031,Retirees,Couples,45.25
+2020-08-31,33,8,2031,"Young Adults",Family,38.27
+2020-08-31,33,8,2031,unknown,unknown,33.05
+2020-08-31,33,8,2031,"Young Adults",Family,54.11
+2020-08-31,33,8,2031,unknown,unknown,233.80
+2020-08-31,33,8,2031,Retirees,Family,61.28
+2020-08-31,33,8,2031,Retirees,Couples,175.00
+2020-08-31,33,8,2031,unknown,unknown,173.26
+2020-08-31,33,8,2031,Retirees,Couples,49.81
+2020-08-31,33,8,2031,"Young Adults",Family,32.89
+2020-08-31,33,8,2031,Retirees,Family,50.31
+2020-08-31,33,8,2031,unknown,unknown,25.19
+2020-08-31,33,8,2031,"Middle Aged",Couples,135.06
+2020-08-31,33,8,2031,Retirees,Family,138.50
+2020-08-31,33,8,2031,"Middle Aged",Couples,48.88
+2020-08-31,33,8,2031,"Middle Aged",Couples,39.04
+2020-08-31,33,8,2031,unknown,unknown,174.25
+2020-08-31,33,8,2031,Retirees,Couples,45.22
+2020-08-31,33,8,2031,Retirees,Couples,160.08
+2020-08-31,33,8,2031,"Middle Aged",Family,189.17
+2020-08-31,33,8,2031,Retirees,Family,229.09
+2020-08-31,33,8,2031,"Young Adults",Family,56.71
+2020-08-31,33,8,2031,Retirees,Couples,223.14
+2020-08-31,33,8,2031,unknown,unknown,145.86
+2020-08-31,33,8,2031,Retirees,Couples,33.27
+2020-08-31,33,8,2031,"Middle Aged",Couples,199.64
+2020-08-31,33,8,2031,Retirees,Couples,36.16
+2020-08-31,33,8,2031,Retirees,Couples,174.28
+2020-08-31,33,8,2031,unknown,unknown,32.66
+2020-08-31,33,8,2031,Retirees,Couples,50.77
+2020-08-31,33,8,2031,"Young Adults",Family,58.48
+2020-08-31,33,8,2031,Retirees,Family,56.24
+2020-08-31,33,8,2031,"Young Adults",Family,218.23
+2020-08-31,33,8,2031,"Middle Aged",Family,54.00
+2020-08-31,33,8,2031,Retirees,Family,40.13
+2020-08-31,33,8,2031,"Young Adults",Family,135.24
+2020-08-31,33,8,2031,unknown,unknown,169.11
+2020-08-31,33,8,2031,"Young Adults",Family,35.59
+2020-08-31,33,8,2031,"Young Adults",Family,49.83
+2020-08-31,33,8,2031,Retirees,Couples,48.94
+2020-08-31,33,8,2031,"Young Adults",Couples,156.61
+2020-08-31,33,8,2031,"Middle Aged",Family,36.38
+2020-08-31,33,8,2031,"Young Adults",Couples,25.87
+2020-08-31,33,8,2031,"Young Adults",Couples,170.36
+2020-08-31,33,8,2031,"Middle Aged",Couples,33.19
+2020-08-31,33,8,2031,unknown,unknown,38.39
+2020-08-31,33,8,2031,"Young Adults",Couples,128.23
+2020-08-31,33,8,2031,"Middle Aged",Family,229.00
+2020-08-31,33,8,2031,"Middle Aged",Couples,36.64
+2020-08-31,33,8,2031,Retirees,Couples,30.75
+2020-08-31,33,8,2031,"Middle Aged",Couples,47.55
+2020-08-31,33,8,2031,Retirees,Couples,407.00
+2020-08-31,33,8,2031,Retirees,Couples,168.51
+2020-08-31,33,8,2031,"Young Adults",Couples,27.45
+2020-08-31,33,8,2031,"Middle Aged",Family,48.14
+2020-08-31,33,8,2031,unknown,unknown,185.30
+2020-08-31,33,8,2031,Retirees,Couples,163.59
+2020-08-31,33,8,2031,"Young Adults",Couples,120.26
+2020-08-31,33,8,2031,"Young Adults",Family,42.77
+2020-08-31,33,8,2031,"Middle Aged",Couples,198.16
+2020-08-31,33,8,2031,Retirees,Couples,182.50
+2020-08-31,33,8,2031,"Young Adults",Couples,41.52
+2020-08-31,33,8,2031,"Young Adults",Couples,156.57
+2020-08-31,33,8,2031,"Middle Aged",Family,159.67
+2020-08-31,33,8,2031,Retirees,Family,159.28
+2020-08-31,33,8,2031,Retirees,Couples,200.38
+2020-08-31,33,8,2031,Retirees,Couples,118.76
+2020-08-31,33,8,2031,"Middle Aged",Family,33.92
+2020-08-31,33,8,2031,Retirees,Couples,41.32
+2020-08-31,33,8,2031,Retirees,Family,37.83
+2020-08-31,33,8,2031,"Middle Aged",Family,144.98
+2020-08-31,33,8,2031,Retirees,Couples,48.64
+2020-08-31,33,8,2031,Retirees,Couples,247.45
+2020-08-31,33,8,2031,Retirees,Family,192.41
+2020-08-31,33,8,2031,Retirees,Couples,166.86
+2020-08-31,33,8,2031,"Young Adults",Couples,33.12
+2020-08-31,33,8,2031,"Middle Aged",Family,199.93
+2020-08-31,33,8,2031,"Young Adults",Couples,22.98
+2020-08-31,33,8,2031,"Middle Aged",Couples,139.94
+2020-08-31,33,8,2031,Retirees,Family,35.39
+2020-08-31,33,8,2031,Retirees,Couples,28.53
+2020-08-31,33,8,2031,"Young Adults",Couples,21.26
+2020-08-31,33,8,2031,unknown,unknown,34.56
+2020-08-31,33,8,2031,Retirees,Family,169.64
+2020-08-31,33,8,2031,"Middle Aged",Family,198.12
+2020-08-31,33,8,2031,"Middle Aged",Family,53.71
+2020-08-31,33,8,2031,"Middle Aged",Family,164.70
+2020-08-31,33,8,2031,unknown,unknown,204.25
+2020-08-31,33,8,2031,"Young Adults",Couples,171.80
+2020-08-31,33,8,2031,unknown,unknown,28.10
+2020-08-31,33,8,2031,"Middle Aged",Family,37.20
+2020-08-31,33,8,2031,"Middle Aged",Couples,43.42
+2020-08-31,33,8,2031,unknown,unknown,26.25
+2020-08-31,33,8,2031,unknown,unknown,231.37
+2020-08-31,33,8,2031,Retirees,Family,213.49
+2020-08-31,33,8,2031,unknown,unknown,175.21
+2020-08-31,33,8,2031,Retirees,Family,36.06
+2020-08-31,33,8,2031,"Middle Aged",Family,41.75
+2020-08-31,33,8,2031,Retirees,Family,33.81
+2020-08-31,33,8,2031,unknown,unknown,207.86
+2020-08-31,33,8,2031,Retirees,Couples,56.32
+2020-08-31,33,8,2031,Retirees,Couples,53.86
+2020-08-31,33,8,2031,unknown,unknown,40.49
+2020-08-31,33,8,2031,Retirees,Family,124.00
+2020-08-31,33,8,2031,Retirees,Couples,187.06
+2020-08-31,33,8,2031,Retirees,Couples,140.03
+2020-08-31,33,8,2031,unknown,unknown,187.78
+2020-08-31,33,8,2031,Retirees,Family,166.68
+2020-08-31,33,8,2031,Retirees,Couples,33.29
+2020-08-31,33,8,2031,Retirees,Couples,181.45
+2020-08-31,33,8,2031,"Middle Aged",Couples,173.08
+2020-08-31,33,8,2031,Retirees,Couples,144.02
+2020-08-31,33,8,2031,"Young Adults",Couples,127.49
+2020-08-31,33,8,2031,unknown,unknown,165.44
+2020-08-31,33,8,2031,"Young Adults",Couples,21.27
+2020-08-31,33,8,2031,Retirees,Family,30.85
+2020-08-31,33,8,2031,Retirees,Family,207.55
+2020-08-31,33,8,2031,"Young Adults",Couples,164.39
+2020-08-31,33,8,2031,unknown,unknown,172.94
+2020-08-31,33,8,2031,Retirees,Couples,150.77
+2020-08-31,33,8,2031,Retirees,Couples,44.53
+2020-08-31,33,8,2031,unknown,unknown,157.33
+2020-08-31,33,8,2031,unknown,unknown,48.89
+2020-08-31,33,8,2031,"Middle Aged",Family,222.22
+2020-08-31,33,8,2031,"Young Adults",Couples,27.83
+2020-08-31,33,8,2031,Retirees,Family,171.53
+2020-08-31,33,8,2031,unknown,unknown,43.75
+2020-08-31,33,8,2031,Retirees,Couples,133.63
+2020-08-31,33,8,2031,Retirees,Couples,44.42
+2020-08-31,33,8,2031,unknown,unknown,28.66
+2020-08-31,33,8,2031,"Young Adults",Family,186.62
+2020-08-31,33,8,2031,"Young Adults",Family,171.09
+2020-08-31,33,8,2031,Retirees,Couples,211.53
+2020-08-31,33,8,2031,Retirees,Couples,36.44
+2020-08-31,33,8,2031,unknown,unknown,38.64
+2020-08-31,33,8,2031,"Middle Aged",Couples,147.70
+2020-08-31,33,8,2031,unknown,unknown,38.22
+2020-08-31,33,8,2031,unknown,unknown,41.94
+2020-08-31,33,8,2031,"Middle Aged",Couples,157.27
+2020-08-31,33,8,2031,"Young Adults",Family,154.52
+2020-08-31,33,8,2031,"Young Adults",Couples,36.97
+2020-08-31,33,8,2031,"Young Adults",Couples,159.49
+2020-08-31,33,8,2031,unknown,unknown,40.55
+2020-08-31,33,8,2031,"Young Adults",Family,145.61
+2020-08-31,33,8,2031,"Young Adults",Couples,35.69
+2020-08-31,33,8,2031,"Middle Aged",Family,61.29
+2020-08-31,33,8,2031,"Young Adults",Couples,235.02
+2020-08-31,33,8,2031,"Young Adults",Couples,24.81
+2020-08-31,33,8,2031,Retirees,Family,140.95
+2020-08-31,33,8,2031,unknown,unknown,35.15
+2020-08-31,33,8,2031,"Young Adults",Family,103.83
+2020-08-31,33,8,2031,Retirees,Couples,37.78
+2020-08-31,33,8,2031,Retirees,Couples,35.44
+2020-08-31,33,8,2031,Retirees,Couples,54.62
+2020-08-31,33,8,2031,"Middle Aged",Couples,195.14
+2020-08-31,33,8,2031,"Middle Aged",Couples,25.61
+2020-08-31,33,8,2031,unknown,unknown,167.29
+2020-08-31,33,8,2031,Retirees,Couples,208.21
+2020-08-31,33,8,2031,Retirees,Couples,225.95
+2020-08-31,33,8,2031,Retirees,Couples,51.88
+2020-08-31,33,8,2031,unknown,unknown,166.48
+2020-08-31,33,8,2031,"Middle Aged",Family,35.10
+2020-08-31,33,8,2031,unknown,unknown,46.95
+2020-08-31,33,8,2031,unknown,unknown,168.82
+2020-08-31,33,8,2031,"Young Adults",Family,217.50
+2020-08-31,33,8,2031,"Middle Aged",Family,57.53
+2020-08-31,33,8,2031,"Young Adults",Couples,174.22
+2020-08-31,33,8,2031,"Middle Aged",Family,44.55
+2020-08-31,33,8,2031,unknown,unknown,33.78
+2020-08-31,33,8,2031,Retirees,Couples,55.05
+2020-08-31,33,8,2031,"Middle Aged",Couples,183.74
+2020-08-31,33,8,2031,Retirees,Family,194.67
+2020-08-31,33,8,2031,"Young Adults",Family,146.53
+2020-08-31,33,8,2031,"Middle Aged",Couples,28.22
+2020-08-31,33,8,2031,unknown,unknown,49.11
+2020-08-31,33,8,2031,unknown,unknown,194.86
+2020-08-31,33,8,2031,"Middle Aged",Family,192.25
+2020-08-31,33,8,2031,"Young Adults",Couples,40.87
+2020-08-31,33,8,2031,"Middle Aged",Family,52.32
+2020-08-31,33,8,2031,unknown,unknown,180.96
+2020-08-31,33,8,2031,"Middle Aged",Couples,30.75
+2020-08-31,33,8,2031,Retirees,Couples,184.05
+2020-08-31,33,8,2031,Retirees,Family,35.50
+2020-08-31,33,8,2031,"Young Adults",Couples,132.34
+2020-08-31,33,8,2031,"Young Adults",Family,36.08
+2020-08-31,33,8,2031,"Middle Aged",Couples,137.65
+2020-08-31,33,8,2031,"Young Adults",Family,137.39
+2020-08-31,33,8,2031,Retirees,Couples,32.03
+2020-08-31,33,8,2031,"Middle Aged",Couples,37.97
+2020-08-31,33,8,2031,Retirees,Couples,160.33
+2020-08-31,33,8,2031,unknown,unknown,187.76
+2020-08-31,33,8,2031,Retirees,Couples,34.99
+2020-08-31,33,8,2031,"Middle Aged",Family,150.91
+2020-08-31,33,8,2031,"Middle Aged",Couples,196.96
+2020-08-24,33,8,2024,unknown,unknown,28.48
+2020-08-24,33,8,2024,"Middle Aged",Family,209.28
+2020-08-24,33,8,2024,"Young Adults",Family,188.93
+2020-08-24,33,8,2024,"Middle Aged",Family,191.40
+2020-08-24,33,8,2024,"Middle Aged",Family,37.88
+2020-08-24,33,8,2024,unknown,unknown,166.81
+2020-08-24,33,8,2024,"Young Adults",Couples,26.15
+2020-08-24,33,8,2024,"Young Adults",Couples,179.05
+2020-08-24,33,8,2024,unknown,unknown,45.69
+2020-08-24,33,8,2024,Retirees,Couples,49.94
+2020-08-24,33,8,2024,unknown,unknown,34.27
+2020-08-24,33,8,2024,Retirees,Couples,33.09
+2020-08-24,33,8,2024,Retirees,Couples,194.65
+2020-08-24,33,8,2024,Retirees,Couples,197.60
+2020-08-24,33,8,2024,"Middle Aged",Couples,170.07
+2020-08-24,33,8,2024,Retirees,Couples,30.87
+2020-08-24,33,8,2024,"Young Adults",Family,43.16
+2020-08-24,33,8,2024,"Middle Aged",Family,219.50
+2020-08-24,33,8,2024,"Young Adults",Family,199.71
+2020-08-24,33,8,2024,unknown,unknown,158.13
+2020-08-24,33,8,2024,Retirees,Couples,50.63
+2020-08-24,33,8,2024,"Middle Aged",Family,44.54
+2020-08-24,33,8,2024,Retirees,Family,35.57
+2020-08-24,33,8,2024,"Middle Aged",Family,35.23
+2020-08-24,33,8,2024,unknown,unknown,179.01
+2020-08-24,33,8,2024,"Middle Aged",Couples,38.69
+2020-08-24,33,8,2024,Retirees,Couples,170.08
+2020-08-24,33,8,2024,Retirees,Couples,235.36
+2020-08-24,33,8,2024,"Middle Aged",Family,201.06
+2020-08-24,33,8,2024,"Young Adults",Couples,131.69
+2020-08-24,33,8,2024,"Young Adults",Couples,176.36
+2020-08-24,33,8,2024,"Young Adults",Couples,145.15
+2020-08-24,33,8,2024,"Young Adults",Couples,166.63
+2020-08-24,33,8,2024,"Middle Aged",Family,38.98
+2020-08-24,33,8,2024,unknown,unknown,42.57
+2020-08-24,33,8,2024,"Middle Aged",Family,198.00
+2020-08-24,33,8,2024,Retirees,Couples,183.28
+2020-08-24,33,8,2024,Retirees,Family,59.84
+2020-08-24,33,8,2024,"Middle Aged",Couples,31.23
+2020-08-24,33,8,2024,"Middle Aged",Couples,165.55
+2020-08-24,33,8,2024,"Middle Aged",Couples,39.15
+2020-08-24,33,8,2024,"Young Adults",Family,58.42
+2020-08-24,33,8,2024,Retirees,Couples,140.22
+2020-08-24,33,8,2024,"Young Adults",Couples,135.03
+2020-08-24,33,8,2024,"Middle Aged",Couples,173.71
+2020-08-24,33,8,2024,"Young Adults",Couples,163.15
+2020-08-24,33,8,2024,Retirees,Couples,152.39
+2020-08-24,33,8,2024,unknown,unknown,163.00
+2020-08-24,33,8,2024,Retirees,Couples,165.63
+2020-08-24,33,8,2024,unknown,unknown,152.00
+2020-08-24,33,8,2024,Retirees,Family,125.44
+2020-08-24,33,8,2024,"Middle Aged",Family,192.46
+2020-08-24,33,8,2024,Retirees,Couples,45.74
+2020-08-24,33,8,2024,unknown,unknown,226.83
+2020-08-24,33,8,2024,Retirees,Couples,183.19
+2020-08-24,33,8,2024,Retirees,Couples,54.35
+2020-08-24,33,8,2024,"Young Adults",Couples,22.38
+2020-08-24,33,8,2024,"Young Adults",Family,40.19
+2020-08-24,33,8,2024,"Middle Aged",Couples,311.47
+2020-08-24,33,8,2024,unknown,unknown,29.85
+2020-08-24,33,8,2024,Retirees,Couples,48.85
+2020-08-24,33,8,2024,Retirees,Couples,218.63
+2020-08-24,33,8,2024,Retirees,Couples,313.25
+2020-08-24,33,8,2024,"Middle Aged",Couples,42.78
+2020-08-24,33,8,2024,Retirees,Couples,28.98
+2020-08-24,33,8,2024,"Young Adults",Couples,21.89
+2020-08-24,33,8,2024,"Middle Aged",Couples,153.87
+2020-08-24,33,8,2024,"Young Adults",Couples,160.92
+2020-08-24,33,8,2024,Retirees,Couples,53.93
+2020-08-24,33,8,2024,unknown,unknown,201.87
+2020-08-24,33,8,2024,"Young Adults",Couples,27.09
+2020-08-24,33,8,2024,"Middle Aged",Couples,150.88
+2020-08-24,33,8,2024,"Middle Aged",Family,51.95
+2020-08-24,33,8,2024,"Young Adults",Family,38.93
+2020-08-24,33,8,2024,"Young Adults",Family,56.21
+2020-08-24,33,8,2024,unknown,unknown,34.20
+2020-08-24,33,8,2024,"Middle Aged",Family,44.90
+2020-08-24,33,8,2024,"Young Adults",Family,38.01
+2020-08-24,33,8,2024,Retirees,Couples,190.27
+2020-08-24,33,8,2024,"Young Adults",Couples,42.09
+2020-08-24,33,8,2024,unknown,unknown,195.50
+2020-08-24,33,8,2024,"Young Adults",Couples,35.72
+2020-08-24,33,8,2024,Retirees,Couples,125.88
+2020-08-24,33,8,2024,"Young Adults",Family,158.15
+2020-08-24,33,8,2024,Retirees,Family,34.93
+2020-08-24,33,8,2024,Retirees,Couples,35.87
+2020-08-24,33,8,2024,Retirees,Couples,38.47
+2020-08-24,33,8,2024,unknown,unknown,35.68
+2020-08-24,33,8,2024,"Young Adults",Family,184.57
+2020-08-24,33,8,2024,Retirees,Family,223.22
+2020-08-24,33,8,2024,Retirees,Couples,159.39
+2020-08-24,33,8,2024,"Middle Aged",Family,58.04
+2020-08-24,33,8,2024,Retirees,Family,37.46
+2020-08-24,33,8,2024,"Young Adults",Couples,215.48
+2020-08-24,33,8,2024,unknown,unknown,178.82
+2020-08-24,33,8,2024,"Middle Aged",Family,56.51
+2020-08-24,33,8,2024,unknown,unknown,161.48
+2020-08-24,33,8,2024,"Young Adults",Couples,42.22
+2020-08-24,33,8,2024,"Middle Aged",Couples,36.44
+2020-08-24,33,8,2024,"Middle Aged",Family,128.20
+2020-08-24,33,8,2024,"Middle Aged",Family,35.54
+2020-08-24,33,8,2024,"Young Adults",Family,48.42
+2020-08-24,33,8,2024,"Middle Aged",Family,53.13
+2020-08-24,33,8,2024,"Middle Aged",Couples,43.64
+2020-08-24,33,8,2024,"Young Adults",Couples,36.66
+2020-08-24,33,8,2024,"Middle Aged",Family,145.31
+2020-08-24,33,8,2024,Retirees,Couples,30.76
+2020-08-24,33,8,2024,Retirees,Family,31.28
+2020-08-24,33,8,2024,"Middle Aged",Family,52.45
+2020-08-24,33,8,2024,Retirees,Family,41.30
+2020-08-24,33,8,2024,Retirees,Couples,181.95
+2020-08-24,33,8,2024,Retirees,Family,202.25
+2020-08-24,33,8,2024,unknown,unknown,259.29
+2020-08-24,33,8,2024,"Young Adults",Couples,40.25
+2020-08-24,33,8,2024,unknown,unknown,205.81
+2020-08-24,33,8,2024,unknown,unknown,178.89
+2020-08-24,33,8,2024,"Middle Aged",Couples,192.10
+2020-08-24,33,8,2024,Retirees,Family,260.99
+2020-08-24,33,8,2024,"Middle Aged",Couples,152.23
+2020-08-24,33,8,2024,Retirees,Family,48.16
+2020-08-24,33,8,2024,Retirees,Couples,165.78
+2020-08-24,33,8,2024,unknown,unknown,26.35
+2020-08-24,33,8,2024,"Young Adults",Couples,170.71
+2020-08-24,33,8,2024,unknown,unknown,173.76
+2020-08-24,33,8,2024,"Young Adults",Family,50.47
+2020-08-24,33,8,2024,Retirees,Couples,33.10
+2020-08-24,33,8,2024,"Middle Aged",Couples,47.69
+2020-08-24,33,8,2024,"Young Adults",Couples,178.81
+2020-08-24,33,8,2024,Retirees,Couples,48.43
+2020-08-24,33,8,2024,Retirees,Couples,271.96
+2020-08-24,33,8,2024,"Middle Aged",Family,48.20
+2020-08-24,33,8,2024,Retirees,Family,55.82
+2020-08-24,33,8,2024,Retirees,Family,50.71
+2020-08-24,33,8,2024,"Young Adults",Family,36.12
+2020-08-24,33,8,2024,"Young Adults",Family,234.50
+2020-08-24,33,8,2024,"Middle Aged",Couples,34.67
+2020-08-24,33,8,2024,Retirees,Couples,170.45
+2020-08-24,33,8,2024,Retirees,Family,173.04
+2020-08-24,33,8,2024,Retirees,Couples,193.41
+2020-08-24,33,8,2024,unknown,unknown,40.14
+2020-08-24,33,8,2024,"Middle Aged",Couples,36.71
+2020-08-24,33,8,2024,"Young Adults",Family,214.28
+2020-08-24,33,8,2024,"Young Adults",Couples,23.75
+2020-08-24,33,8,2024,"Young Adults",Couples,202.57
+2020-08-24,33,8,2024,"Middle Aged",Couples,180.19
+2020-08-24,33,8,2024,Retirees,Family,175.71
+2020-08-24,33,8,2024,Retirees,Couples,41.54
+2020-08-24,33,8,2024,"Young Adults",Family,53.91
+2020-08-24,33,8,2024,unknown,unknown,27.73
+2020-08-24,33,8,2024,Retirees,Family,213.36
+2020-08-24,33,8,2024,"Young Adults",Family,53.03
+2020-08-24,33,8,2024,"Middle Aged",Couples,29.66
+2020-08-24,33,8,2024,"Young Adults",Family,43.54
+2020-08-24,33,8,2024,"Middle Aged",Couples,273.33
+2020-08-24,33,8,2024,Retirees,Couples,55.91
+2020-08-24,33,8,2024,Retirees,Couples,53.75
+2020-08-24,33,8,2024,Retirees,Family,201.65
+2020-08-24,33,8,2024,"Young Adults",Couples,130.84
+2020-08-24,33,8,2024,"Middle Aged",Couples,203.18
+2020-08-24,33,8,2024,Retirees,Couples,38.23
+2020-08-24,33,8,2024,Retirees,Couples,40.28
+2020-08-24,33,8,2024,"Young Adults",Couples,33.46
+2020-08-24,33,8,2024,unknown,unknown,43.56
+2020-08-24,33,8,2024,"Middle Aged",Couples,31.70
+2020-08-24,33,8,2024,Retirees,Family,208.64
+2020-08-24,33,8,2024,"Young Adults",Family,137.22
+2020-08-24,33,8,2024,Retirees,Couples,205.63
+2020-08-24,33,8,2024,Retirees,Couples,32.99
+2020-08-24,33,8,2024,"Middle Aged",Couples,27.99
+2020-08-24,33,8,2024,Retirees,Couples,36.69
+2020-08-24,33,8,2024,"Young Adults",Couples,28.56
+2020-08-24,33,8,2024,unknown,unknown,53.03
+2020-08-24,33,8,2024,Retirees,Couples,35.44
+2020-08-24,33,8,2024,"Young Adults",Family,32.78
+2020-08-24,33,8,2024,"Middle Aged",Couples,190.75
+2020-08-24,33,8,2024,"Young Adults",Family,193.63
+2020-08-24,33,8,2024,"Young Adults",Couples,29.92
+2020-08-24,33,8,2024,Retirees,Couples,160.13
+2020-08-24,33,8,2024,unknown,unknown,40.81
+2020-08-24,33,8,2024,unknown,unknown,166.42
+2020-08-24,33,8,2024,"Middle Aged",Family,219.14
+2020-08-24,33,8,2024,unknown,unknown,47.83
+2020-08-24,33,8,2024,"Young Adults",Family,173.97
+2020-08-24,33,8,2024,Retirees,Couples,162.18
+2020-08-24,33,8,2024,Retirees,Family,153.65
+2020-08-24,33,8,2024,"Middle Aged",Couples,39.06
+2020-08-24,33,8,2024,Retirees,Couples,121.50
+2020-08-24,33,8,2024,unknown,unknown,25.56
+2020-08-24,33,8,2024,"Middle Aged",Family,34.42
+2020-08-24,33,8,2024,"Middle Aged",Family,155.79
+2020-08-24,33,8,2024,"Young Adults",Family,159.12
+2020-08-24,33,8,2024,unknown,unknown,31.10
+2020-08-24,33,8,2024,Retirees,Family,206.07
+2020-08-24,33,8,2024,"Young Adults",Family,153.41
+2020-08-24,33,8,2024,"Young Adults",Family,191.74
+2020-08-24,33,8,2024,unknown,unknown,242.37
+2020-08-24,33,8,2024,Retirees,Couples,50.46
+2020-08-24,33,8,2024,unknown,unknown,169.99
+2020-08-24,33,8,2024,Retirees,Family,208.88
+2020-08-24,33,8,2024,"Young Adults",Couples,24.92
+2020-08-24,33,8,2024,unknown,unknown,187.27
+2020-08-24,33,8,2024,Retirees,Family,55.02
+2020-08-24,33,8,2024,"Middle Aged",Couples,195.70
+2020-08-24,33,8,2024,Retirees,Couples,198.62
+2020-08-24,33,8,2024,"Young Adults",Couples,140.54
+2020-08-24,33,8,2024,Retirees,Couples,47.75
+2020-08-24,33,8,2024,"Middle Aged",Family,169.75
+2020-08-24,33,8,2024,Retirees,Couples,204.74
+2020-08-24,33,8,2024,"Young Adults",Family,156.17
+2020-08-24,33,8,2024,Retirees,Couples,48.57
+2020-08-24,33,8,2024,"Young Adults",Family,37.81
+2020-08-24,33,8,2024,Retirees,Couples,120.36
+2020-08-24,33,8,2024,unknown,unknown,189.92
+2020-08-24,33,8,2024,Retirees,Family,33.69
+2020-08-24,33,8,2024,Retirees,Family,159.00
+2020-08-24,33,8,2024,Retirees,Couples,44.73
+2020-08-24,33,8,2024,Retirees,Family,60.26
+2020-08-24,33,8,2024,Retirees,Family,34.81
+2020-08-24,33,8,2024,"Middle Aged",Family,166.79
+2020-08-24,33,8,2024,Retirees,Family,158.08
+2020-08-24,33,8,2024,Retirees,Couples,50.70
+2020-08-24,33,8,2024,unknown,unknown,180.60
+2020-08-24,33,8,2024,unknown,unknown,266.94
+2020-08-24,33,8,2024,Retirees,Couples,35.03
+2020-08-24,33,8,2024,"Middle Aged",Couples,49.99
+2020-08-24,33,8,2024,unknown,unknown,38.70
+2020-08-24,33,8,2024,"Middle Aged",Couples,136.63
+2020-08-24,33,8,2024,unknown,unknown,34.47
+2020-08-24,33,8,2024,unknown,unknown,43.17
+2020-08-24,33,8,2024,Retirees,Family,54.17
+2020-08-24,33,8,2024,unknown,unknown,40.32
+2020-08-24,33,8,2024,Retirees,Couples,204.22
+2020-08-24,33,8,2024,"Middle Aged",Family,32.20
+2020-08-24,33,8,2024,"Young Adults",Family,178.56
+2020-08-24,33,8,2024,"Middle Aged",Family,156.02
+2020-08-24,33,8,2024,unknown,unknown,38.89
+2020-08-24,33,8,2024,"Middle Aged",Family,168.60
+2020-08-17,34,8,2017,"Middle Aged",Couples,30.47
+2020-08-17,34,8,2017,unknown,unknown,30.91
+2020-08-17,34,8,2017,Retirees,Family,99.50
+2020-08-17,34,8,2017,Retirees,Couples,34.63
+2020-08-17,34,8,2017,"Middle Aged",Couples,38.41
+2020-08-17,34,8,2017,Retirees,Couples,160.04
+2020-08-17,34,8,2017,Retirees,Couples,42.13
+2020-08-17,34,8,2017,unknown,unknown,27.67
+2020-08-17,34,8,2017,Retirees,Family,30.64
+2020-08-17,34,8,2017,Retirees,Family,256.47
+2020-08-17,34,8,2017,Retirees,Couples,197.01
+2020-08-17,34,8,2017,"Middle Aged",Couples,188.21
+2020-08-17,34,8,2017,"Young Adults",Family,185.51
+2020-08-17,34,8,2017,Retirees,Family,203.52
+2020-08-17,34,8,2017,Retirees,Couples,136.73
+2020-08-17,34,8,2017,"Middle Aged",Couples,316.76
+2020-08-17,34,8,2017,"Young Adults",Family,185.20
+2020-08-17,34,8,2017,"Middle Aged",Family,176.50
+2020-08-17,34,8,2017,unknown,unknown,184.64
+2020-08-17,34,8,2017,Retirees,Couples,38.05
+2020-08-17,34,8,2017,"Middle Aged",Family,154.86
+2020-08-17,34,8,2017,"Middle Aged",Family,34.49
+2020-08-17,34,8,2017,"Middle Aged",Family,203.82
+2020-08-17,34,8,2017,Retirees,Family,54.66
+2020-08-17,34,8,2017,unknown,unknown,40.29
+2020-08-17,34,8,2017,"Young Adults",Family,52.17
+2020-08-17,34,8,2017,Retirees,Couples,45.07
+2020-08-17,34,8,2017,"Middle Aged",Couples,188.86
+2020-08-17,34,8,2017,"Young Adults",Family,30.83
+2020-08-17,34,8,2017,"Middle Aged",Family,30.22
+2020-08-17,34,8,2017,"Middle Aged",Family,195.47
+2020-08-17,34,8,2017,"Middle Aged",Family,166.68
+2020-08-17,34,8,2017,Retirees,Family,56.03
+2020-08-17,34,8,2017,Retirees,Couples,202.62
+2020-08-17,34,8,2017,"Middle Aged",Family,35.82
+2020-08-17,34,8,2017,"Middle Aged",Family,34.86
+2020-08-17,34,8,2017,"Young Adults",Family,42.16
+2020-08-17,34,8,2017,Retirees,Couples,172.23
+2020-08-17,34,8,2017,"Young Adults",Couples,152.26
+2020-08-17,34,8,2017,Retirees,Couples,52.97
+2020-08-17,34,8,2017,Retirees,Couples,45.96
+2020-08-17,34,8,2017,unknown,unknown,40.82
+2020-08-17,34,8,2017,unknown,unknown,215.71
+2020-08-17,34,8,2017,unknown,unknown,33.88
+2020-08-17,34,8,2017,"Young Adults",Family,52.82
+2020-08-17,34,8,2017,unknown,unknown,176.31
+2020-08-17,34,8,2017,unknown,unknown,25.14
+2020-08-17,34,8,2017,"Middle Aged",Family,34.08
+2020-08-17,34,8,2017,Retirees,Family,60.40
+2020-08-17,34,8,2017,Retirees,Family,50.08
+2020-08-17,34,8,2017,"Young Adults",Family,32.27
+2020-08-17,34,8,2017,Retirees,Family,55.82
+2020-08-17,34,8,2017,Retirees,Couples,242.71
+2020-08-17,34,8,2017,"Young Adults",Family,171.76
+2020-08-17,34,8,2017,"Middle Aged",Family,166.64
+2020-08-17,34,8,2017,Retirees,Family,33.33
+2020-08-17,34,8,2017,"Young Adults",Couples,122.74
+2020-08-17,34,8,2017,Retirees,Couples,49.68
+2020-08-17,34,8,2017,"Young Adults",Couples,163.37
+2020-08-17,34,8,2017,Retirees,Couples,199.03
+2020-08-17,34,8,2017,Retirees,Couples,35.51
+2020-08-17,34,8,2017,Retirees,Couples,39.25
+2020-08-17,34,8,2017,Retirees,Couples,180.37
+2020-08-17,34,8,2017,unknown,unknown,34.59
+2020-08-17,34,8,2017,unknown,unknown,185.33
+2020-08-17,34,8,2017,"Young Adults",Family,42.11
+2020-08-17,34,8,2017,unknown,unknown,250.16
+2020-08-17,34,8,2017,Retirees,Family,42.73
+2020-08-17,34,8,2017,"Middle Aged",Family,53.27
+2020-08-17,34,8,2017,Retirees,Couples,125.62
+2020-08-17,34,8,2017,"Young Adults",Family,213.60
+2020-08-17,34,8,2017,"Young Adults",Family,49.51
+2020-08-17,34,8,2017,unknown,unknown,167.01
+2020-08-17,34,8,2017,"Middle Aged",Family,187.68
+2020-08-17,34,8,2017,Retirees,Couples,149.52
+2020-08-17,34,8,2017,Retirees,Couples,30.39
+2020-08-17,34,8,2017,"Middle Aged",Couples,47.77
+2020-08-17,34,8,2017,Retirees,Couples,296.50
+2020-08-17,34,8,2017,Retirees,Couples,150.10
+2020-08-17,34,8,2017,"Middle Aged",Couples,33.91
+2020-08-17,34,8,2017,"Young Adults",Family,34.84
+2020-08-17,34,8,2017,"Middle Aged",Couples,32.45
+2020-08-17,34,8,2017,unknown,unknown,38.80
+2020-08-17,34,8,2017,Retirees,Family,180.44
+2020-08-17,34,8,2017,"Middle Aged",Couples,141.66
+2020-08-17,34,8,2017,Retirees,Couples,28.20
+2020-08-17,34,8,2017,"Young Adults",Couples,21.34
+2020-08-17,34,8,2017,"Middle Aged",Couples,38.60
+2020-08-17,34,8,2017,"Young Adults",Family,56.41
+2020-08-17,34,8,2017,"Middle Aged",Couples,48.47
+2020-08-17,34,8,2017,"Middle Aged",Couples,42.41
+2020-08-17,34,8,2017,"Middle Aged",Couples,37.68
+2020-08-17,34,8,2017,Retirees,Couples,144.98
+2020-08-17,34,8,2017,unknown,unknown,167.27
+2020-08-17,34,8,2017,Retirees,Family,229.68
+2020-08-17,34,8,2017,Retirees,Couples,34.25
+2020-08-17,34,8,2017,Retirees,Couples,208.31
+2020-08-17,34,8,2017,Retirees,Family,177.00
+2020-08-17,34,8,2017,"Young Adults",Couples,41.39
+2020-08-17,34,8,2017,Retirees,Family,207.23
+2020-08-17,34,8,2017,"Young Adults",Couples,43.79
+2020-08-17,34,8,2017,"Middle Aged",Couples,176.96
+2020-08-17,34,8,2017,unknown,unknown,179.31
+2020-08-17,34,8,2017,Retirees,Couples,48.17
+2020-08-17,34,8,2017,"Young Adults",Family,47.20
+2020-08-17,34,8,2017,"Young Adults",Couples,123.73
+2020-08-17,34,8,2017,Retirees,Couples,50.44
+2020-08-17,34,8,2017,"Middle Aged",Couples,35.59
+2020-08-17,34,8,2017,Retirees,Couples,172.77
+2020-08-17,34,8,2017,"Young Adults",Couples,22.50
+2020-08-17,34,8,2017,unknown,unknown,45.89
+2020-08-17,34,8,2017,"Young Adults",Family,168.81
+2020-08-17,34,8,2017,Retirees,Family,187.54
+2020-08-17,34,8,2017,"Middle Aged",Couples,206.45
+2020-08-17,34,8,2017,Retirees,Couples,50.87
+2020-08-17,34,8,2017,unknown,unknown,165.10
+2020-08-17,34,8,2017,"Young Adults",Couples,169.38
+2020-08-17,34,8,2017,unknown,unknown,168.11
+2020-08-17,34,8,2017,"Middle Aged",Couples,158.68
+2020-08-17,34,8,2017,"Middle Aged",Couples,195.16
+2020-08-17,34,8,2017,"Young Adults",Family,231.09
+2020-08-17,34,8,2017,"Middle Aged",Family,33.03
+2020-08-17,34,8,2017,"Young Adults",Couples,25.17
+2020-08-17,34,8,2017,"Young Adults",Couples,171.56
+2020-08-17,34,8,2017,unknown,unknown,181.18
+2020-08-17,34,8,2017,Retirees,Couples,44.13
+2020-08-17,34,8,2017,"Young Adults",Couples,247.15
+2020-08-17,34,8,2017,Retirees,Couples,33.17
+2020-08-17,34,8,2017,Retirees,Couples,55.78
+2020-08-17,34,8,2017,Retirees,Family,34.40
+2020-08-17,34,8,2017,unknown,unknown,32.80
+2020-08-17,34,8,2017,Retirees,Couples,50.41
+2020-08-17,34,8,2017,"Young Adults",Family,57.26
+2020-08-17,34,8,2017,"Young Adults",Family,138.45
+2020-08-17,34,8,2017,Retirees,Couples,55.08
+2020-08-17,34,8,2017,"Young Adults",Couples,24.59
+2020-08-17,34,8,2017,unknown,unknown,169.31
+2020-08-17,34,8,2017,"Middle Aged",Family,60.13
+2020-08-17,34,8,2017,Retirees,Family,38.41
+2020-08-17,34,8,2017,"Middle Aged",Couples,146.64
+2020-08-17,34,8,2017,"Young Adults",Family,146.20
+2020-08-17,34,8,2017,"Middle Aged",Family,199.88
+2020-08-17,34,8,2017,"Young Adults",Couples,32.86
+2020-08-17,34,8,2017,Retirees,Couples,45.29
+2020-08-17,34,8,2017,Retirees,Couples,34.45
+2020-08-17,34,8,2017,Retirees,Family,167.00
+2020-08-17,34,8,2017,Retirees,Couples,182.23
+2020-08-17,34,8,2017,unknown,unknown,26.25
+2020-08-17,34,8,2017,unknown,unknown,41.91
+2020-08-17,34,8,2017,unknown,unknown,34.89
+2020-08-17,34,8,2017,"Young Adults",Family,134.63
+2020-08-17,34,8,2017,"Middle Aged",Couples,25.62
+2020-08-17,34,8,2017,unknown,unknown,30.77
+2020-08-17,34,8,2017,Retirees,Family,194.19
+2020-08-17,34,8,2017,"Young Adults",Family,156.48
+2020-08-17,34,8,2017,Retirees,Couples,32.07
+2020-08-17,34,8,2017,Retirees,Couples,180.03
+2020-08-17,34,8,2017,Retirees,Couples,188.10
+2020-08-17,34,8,2017,"Middle Aged",Couples,146.58
+2020-08-17,34,8,2017,Retirees,Family,170.61
+2020-08-17,34,8,2017,"Middle Aged",Family,47.69
+2020-08-17,34,8,2017,unknown,unknown,161.59
+2020-08-17,34,8,2017,unknown,unknown,187.22
+2020-08-17,34,8,2017,Retirees,Family,165.12
+2020-08-17,34,8,2017,"Middle Aged",Family,190.41
+2020-08-17,34,8,2017,Retirees,Couples,148.75
+2020-08-17,34,8,2017,"Young Adults",Couples,27.14
+2020-08-17,34,8,2017,Retirees,Couples,37.22
+2020-08-17,34,8,2017,unknown,unknown,46.11
+2020-08-17,34,8,2017,"Young Adults",Family,242.63
+2020-08-17,34,8,2017,unknown,unknown,38.72
+2020-08-17,34,8,2017,"Young Adults",Family,146.94
+2020-08-17,34,8,2017,unknown,unknown,93.50
+2020-08-17,34,8,2017,Retirees,Couples,31.89
+2020-08-17,34,8,2017,Retirees,Couples,358.38
+2020-08-17,34,8,2017,"Young Adults",Family,181.37
+2020-08-17,34,8,2017,"Middle Aged",Family,41.99
+2020-08-17,34,8,2017,unknown,unknown,198.17
+2020-08-17,34,8,2017,unknown,unknown,166.61
+2020-08-17,34,8,2017,"Young Adults",Couples,173.63
+2020-08-17,34,8,2017,unknown,unknown,28.65
+2020-08-17,34,8,2017,"Young Adults",Family,32.97
+2020-08-17,34,8,2017,"Middle Aged",Couples,214.57
+2020-08-17,34,8,2017,Retirees,Family,37.23
+2020-08-17,34,8,2017,"Young Adults",Couples,170.93
+2020-08-17,34,8,2017,"Young Adults",Couples,21.29
+2020-08-17,34,8,2017,"Middle Aged",Family,52.94
+2020-08-17,34,8,2017,Retirees,Family,35.16
+2020-08-17,34,8,2017,"Young Adults",Couples,210.07
+2020-08-17,34,8,2017,Retirees,Family,166.60
+2020-08-17,34,8,2017,"Middle Aged",Family,156.48
+2020-08-17,34,8,2017,"Middle Aged",Family,185.82
+2020-08-17,34,8,2017,"Middle Aged",Family,51.66
+2020-08-17,34,8,2017,"Middle Aged",Family,215.72
+2020-08-17,34,8,2017,unknown,unknown,49.26
+2020-08-17,34,8,2017,"Young Adults",Family,35.75
+2020-08-17,34,8,2017,"Middle Aged",Couples,174.49
+2020-08-17,34,8,2017,Retirees,Couples,53.55
+2020-08-17,34,8,2017,"Middle Aged",Couples,154.99
+2020-08-17,34,8,2017,"Young Adults",Family,154.71
+2020-08-17,34,8,2017,Retirees,Family,60.63
+2020-08-17,34,8,2017,Retirees,Family,47.93
+2020-08-17,34,8,2017,Retirees,Couples,310.09
+2020-08-17,34,8,2017,"Middle Aged",Family,43.64
+2020-08-17,34,8,2017,Retirees,Couples,29.99
+2020-08-17,34,8,2017,unknown,unknown,165.52
+2020-08-17,34,8,2017,unknown,unknown,45.08
+2020-08-17,34,8,2017,"Middle Aged",Couples,29.68
+2020-08-17,34,8,2017,"Middle Aged",Family,200.25
+2020-08-17,34,8,2017,"Young Adults",Couples,155.82
+2020-08-17,34,8,2017,"Middle Aged",Family,56.72
+2020-08-17,34,8,2017,"Middle Aged",Couples,142.31
+2020-08-17,34,8,2017,"Young Adults",Couples,35.60
+2020-08-17,34,8,2017,Retirees,Couples,170.95
+2020-08-17,34,8,2017,"Young Adults",Couples,160.31
+2020-08-17,34,8,2017,unknown,unknown,40.33
+2020-08-17,34,8,2017,"Middle Aged",Family,143.44
+2020-08-17,34,8,2017,"Young Adults",Couples,36.81
+2020-08-17,34,8,2017,"Young Adults",Couples,40.96
+2020-08-17,34,8,2017,unknown,unknown,179.29
+2020-08-17,34,8,2017,"Young Adults",Couples,27.97
+2020-08-17,34,8,2017,Retirees,Couples,184.56
+2020-08-17,34,8,2017,"Young Adults",Couples,29.32
+2020-08-17,34,8,2017,unknown,unknown,210.89
+2020-08-17,34,8,2017,unknown,unknown,43.19
+2020-08-17,34,8,2017,"Young Adults",Couples,122.21
+2020-08-17,34,8,2017,Retirees,Couples,48.42
+2020-08-17,34,8,2017,Retirees,Couples,233.21
+2020-08-17,34,8,2017,"Middle Aged",Couples,26.70
+2020-08-17,34,8,2017,Retirees,Couples,177.92
+2020-08-17,34,8,2017,"Young Adults",Couples,133.42
+2020-08-17,34,8,2017,"Young Adults",Family,37.82
+2020-08-17,34,8,2017,Retirees,Couples,161.20
+2020-08-17,34,8,2017,Retirees,Couples,212.34
+2020-08-17,34,8,2017,"Middle Aged",Couples,43.13
+2020-08-17,34,8,2017,unknown,unknown,194.89
+2020-08-17,34,8,2017,Retirees,Couples,142.54
+2020-08-17,34,8,2017,Retirees,Family,208.50
+2020-08-10,33,8,2010,unknown,unknown,48.46
+2020-08-10,33,8,2010,"Young Adults",Couples,36.86
+2020-08-10,33,8,2010,"Young Adults",Couples,164.14
+2020-08-10,33,8,2010,unknown,unknown,247.13
+2020-08-10,33,8,2010,"Young Adults",Family,219.24
+2020-08-10,33,8,2010,"Middle Aged",Couples,31.00
+2020-08-10,33,8,2010,Retirees,Family,31.16
+2020-08-10,33,8,2010,"Young Adults",Family,36.41
+2020-08-10,33,8,2010,Retirees,Couples,35.34
+2020-08-10,33,8,2010,Retirees,Couples,161.05
+2020-08-10,33,8,2010,Retirees,Couples,192.00
+2020-08-10,33,8,2010,"Young Adults",Couples,29.97
+2020-08-10,33,8,2010,unknown,unknown,168.06
+2020-08-10,33,8,2010,Retirees,Couples,37.77
+2020-08-10,33,8,2010,Retirees,Couples,40.07
+2020-08-10,33,8,2010,"Middle Aged",Couples,33.81
+2020-08-10,33,8,2010,unknown,unknown,27.64
+2020-08-10,33,8,2010,Retirees,Family,212.21
+2020-08-10,33,8,2010,"Middle Aged",Family,58.44
+2020-08-10,33,8,2010,"Young Adults",Family,36.33
+2020-08-10,33,8,2010,"Young Adults",Family,136.06
+2020-08-10,33,8,2010,unknown,unknown,47.80
+2020-08-10,33,8,2010,"Young Adults",Family,170.13
+2020-08-10,33,8,2010,unknown,unknown,167.57
+2020-08-10,33,8,2010,unknown,unknown,34.01
+2020-08-10,33,8,2010,Retirees,Family,55.48
+2020-08-10,33,8,2010,Retirees,Family,38.31
+2020-08-10,33,8,2010,"Middle Aged",Couples,132.15
+2020-08-10,33,8,2010,"Young Adults",Family,220.11
+2020-08-10,33,8,2010,"Middle Aged",Couples,38.10
+2020-08-10,33,8,2010,"Middle Aged",Family,145.33
+2020-08-10,33,8,2010,Retirees,Couples,55.34
+2020-08-10,33,8,2010,"Young Adults",Family,184.62
+2020-08-10,33,8,2010,"Middle Aged",Couples,279.16
+2020-08-10,33,8,2010,Retirees,Family,157.00
+2020-08-10,33,8,2010,"Middle Aged",Couples,167.89
+2020-08-10,33,8,2010,Retirees,Family,46.54
+2020-08-10,33,8,2010,"Young Adults",Family,149.27
+2020-08-10,33,8,2010,unknown,unknown,168.59
+2020-08-10,33,8,2010,unknown,unknown,28.53
+2020-08-10,33,8,2010,"Middle Aged",Family,200.98
+2020-08-10,33,8,2010,unknown,unknown,41.46
+2020-08-10,33,8,2010,unknown,unknown,185.93
+2020-08-10,33,8,2010,"Middle Aged",Couples,162.97
+2020-08-10,33,8,2010,unknown,unknown,190.60
+2020-08-10,33,8,2010,"Middle Aged",Couples,186.13
+2020-08-10,33,8,2010,"Young Adults",Family,190.09
+2020-08-10,33,8,2010,"Young Adults",Family,32.08
+2020-08-10,33,8,2010,"Middle Aged",Couples,28.47
+2020-08-10,33,8,2010,Retirees,Couples,45.61
+2020-08-10,33,8,2010,"Middle Aged",Couples,48.19
+2020-08-10,33,8,2010,Retirees,Family,55.38
+2020-08-10,33,8,2010,Retirees,Family,34.70
+2020-08-10,33,8,2010,"Young Adults",Family,182.21
+2020-08-10,33,8,2010,"Young Adults",Family,166.00
+2020-08-10,33,8,2010,"Middle Aged",Couples,42.77
+2020-08-10,33,8,2010,"Middle Aged",Family,184.87
+2020-08-10,33,8,2010,"Young Adults",Couples,27.77
+2020-08-10,33,8,2010,Retirees,Couples,35.60
+2020-08-10,33,8,2010,Retirees,Couples,50.57
+2020-08-10,33,8,2010,Retirees,Family,33.69
+2020-08-10,33,8,2010,unknown,unknown,33.18
+2020-08-10,33,8,2010,Retirees,Couples,192.16
+2020-08-10,33,8,2010,"Middle Aged",Family,52.40
+2020-08-10,33,8,2010,Retirees,Couples,38.43
+2020-08-10,33,8,2010,Retirees,Couples,46.90
+2020-08-10,33,8,2010,Retirees,Couples,53.02
+2020-08-10,33,8,2010,unknown,unknown,180.03
+2020-08-10,33,8,2010,Retirees,Family,195.60
+2020-08-10,33,8,2010,"Middle Aged",Couples,188.59
+2020-08-10,33,8,2010,"Young Adults",Family,144.62
+2020-08-10,33,8,2010,"Middle Aged",Couples,177.39
+2020-08-10,33,8,2010,Retirees,Couples,144.45
+2020-08-10,33,8,2010,"Young Adults",Couples,35.50
+2020-08-10,33,8,2010,"Young Adults",Couples,208.19
+2020-08-10,33,8,2010,"Middle Aged",Family,153.03
+2020-08-10,33,8,2010,Retirees,Couples,160.14
+2020-08-10,33,8,2010,Retirees,Couples,107.67
+2020-08-10,33,8,2010,Retirees,Couples,32.34
+2020-08-10,33,8,2010,"Middle Aged",Couples,38.38
+2020-08-10,33,8,2010,Retirees,Couples,254.71
+2020-08-10,33,8,2010,unknown,unknown,43.09
+2020-08-10,33,8,2010,"Young Adults",Family,39.57
+2020-08-10,33,8,2010,unknown,unknown,30.55
+2020-08-10,33,8,2010,unknown,unknown,46.41
+2020-08-10,33,8,2010,"Middle Aged",Family,160.88
+2020-08-10,33,8,2010,"Young Adults",Family,226.78
+2020-08-10,33,8,2010,Retirees,Family,59.83
+2020-08-10,33,8,2010,unknown,unknown,40.78
+2020-08-10,33,8,2010,unknown,unknown,271.37
+2020-08-10,33,8,2010,"Middle Aged",Family,188.65
+2020-08-10,33,8,2010,"Middle Aged",Family,55.58
+2020-08-10,33,8,2010,Retirees,Couples,35.62
+2020-08-10,33,8,2010,"Young Adults",Couples,134.95
+2020-08-10,33,8,2010,Retirees,Couples,154.99
+2020-08-10,33,8,2010,Retirees,Family,59.62
+2020-08-10,33,8,2010,Retirees,Couples,170.57
+2020-08-10,33,8,2010,Retirees,Family,206.06
+2020-08-10,33,8,2010,"Young Adults",Family,146.64
+2020-08-10,33,8,2010,Retirees,Couples,203.00
+2020-08-10,33,8,2010,Retirees,Family,153.88
+2020-08-10,33,8,2010,"Young Adults",Couples,172.34
+2020-08-10,33,8,2010,"Middle Aged",Family,34.82
+2020-08-10,33,8,2010,Retirees,Family,35.38
+2020-08-10,33,8,2010,"Young Adults",Family,34.95
+2020-08-10,33,8,2010,"Middle Aged",Couples,181.00
+2020-08-10,33,8,2010,"Young Adults",Couples,129.35
+2020-08-10,33,8,2010,unknown,unknown,40.23
+2020-08-10,33,8,2010,"Middle Aged",Family,264.25
+2020-08-10,33,8,2010,"Young Adults",Couples,20.72
+2020-08-10,33,8,2010,"Young Adults",Family,172.64
+2020-08-10,33,8,2010,"Middle Aged",Family,144.89
+2020-08-10,33,8,2010,Retirees,Couples,203.45
+2020-08-10,33,8,2010,Retirees,Family,54.18
+2020-08-10,33,8,2010,"Middle Aged",Couples,131.46
+2020-08-10,33,8,2010,"Middle Aged",Family,167.10
+2020-08-10,33,8,2010,"Young Adults",Couples,133.90
+2020-08-10,33,8,2010,"Middle Aged",Family,32.91
+2020-08-10,33,8,2010,"Young Adults",Couples,25.64
+2020-08-10,33,8,2010,"Young Adults",Couples,171.34
+2020-08-10,33,8,2010,"Middle Aged",Family,144.62
+2020-08-10,33,8,2010,unknown,unknown,28.99
+2020-08-10,33,8,2010,"Middle Aged",Couples,42.80
+2020-08-10,33,8,2010,Retirees,Couples,112.77
+2020-08-10,33,8,2010,"Young Adults",Couples,42.36
+2020-08-10,33,8,2010,"Middle Aged",Couples,26.34
+2020-08-10,33,8,2010,"Middle Aged",Family,37.23
+2020-08-10,33,8,2010,"Middle Aged",Family,45.14
+2020-08-10,33,8,2010,unknown,unknown,179.63
+2020-08-10,33,8,2010,"Young Adults",Couples,40.80
+2020-08-10,33,8,2010,Retirees,Couples,200.92
+2020-08-10,33,8,2010,unknown,unknown,162.39
+2020-08-10,33,8,2010,"Young Adults",Family,57.65
+2020-08-10,33,8,2010,"Middle Aged",Couples,33.38
+2020-08-10,33,8,2010,"Middle Aged",Couples,199.59
+2020-08-10,33,8,2010,unknown,unknown,179.74
+2020-08-10,33,8,2010,"Young Adults",Couples,27.04
+2020-08-10,33,8,2010,"Young Adults",Couples,22.57
+2020-08-10,33,8,2010,"Young Adults",Couples,176.33
+2020-08-10,33,8,2010,Retirees,Couples,164.85
+2020-08-10,33,8,2010,Retirees,Couples,48.94
+2020-08-10,33,8,2010,Retirees,Couples,240.10
+2020-08-10,33,8,2010,unknown,unknown,43.51
+2020-08-10,33,8,2010,"Young Adults",Family,56.12
+2020-08-10,33,8,2010,unknown,unknown,40.34
+2020-08-10,33,8,2010,"Middle Aged",Couples,38.81
+2020-08-10,33,8,2010,"Young Adults",Couples,41.17
+2020-08-10,33,8,2010,"Middle Aged",Couples,147.31
+2020-08-10,33,8,2010,Retirees,Couples,41.67
+2020-08-10,33,8,2010,"Young Adults",Family,52.49
+2020-08-10,33,8,2010,Retirees,Couples,48.24
+2020-08-10,33,8,2010,Retirees,Couples,320.60
+2020-08-10,33,8,2010,"Young Adults",Couples,171.13
+2020-08-10,33,8,2010,Retirees,Couples,170.49
+2020-08-10,33,8,2010,unknown,unknown,174.16
+2020-08-10,33,8,2010,Retirees,Couples,172.33
+2020-08-10,33,8,2010,unknown,unknown,228.31
+2020-08-10,33,8,2010,Retirees,Couples,49.34
+2020-08-10,33,8,2010,Retirees,Couples,50.69
+2020-08-10,33,8,2010,unknown,unknown,161.32
+2020-08-10,33,8,2010,unknown,unknown,25.47
+2020-08-10,33,8,2010,"Middle Aged",Family,230.00
+2020-08-10,33,8,2010,Retirees,Couples,34.55
+2020-08-10,33,8,2010,Retirees,Couples,53.83
+2020-08-10,33,8,2010,Retirees,Couples,30.65
+2020-08-10,33,8,2010,Retirees,Family,142.19
+2020-08-10,33,8,2010,"Middle Aged",Couples,169.63
+2020-08-10,33,8,2010,unknown,unknown,34.21
+2020-08-10,33,8,2010,"Middle Aged",Family,192.38
+2020-08-10,33,8,2010,"Young Adults",Family,40.64
+2020-08-10,33,8,2010,"Young Adults",Family,48.62
+2020-08-10,33,8,2010,Retirees,Couples,33.62
+2020-08-10,33,8,2010,Retirees,Family,50.47
+2020-08-10,33,8,2010,"Young Adults",Family,33.17
+2020-08-10,33,8,2010,Retirees,Couples,176.61
+2020-08-10,33,8,2010,Retirees,Couples,150.40
+2020-08-10,33,8,2010,"Middle Aged",Couples,36.40
+2020-08-10,33,8,2010,unknown,unknown,38.69
+2020-08-10,33,8,2010,Retirees,Family,203.69
+2020-08-10,33,8,2010,Retirees,Family,128.00
+2020-08-10,33,8,2010,Retirees,Family,159.89
+2020-08-10,33,8,2010,"Middle Aged",Couples,26.81
+2020-08-10,33,8,2010,"Young Adults",Family,39.22
+2020-08-10,33,8,2010,"Middle Aged",Family,30.59
+2020-08-10,33,8,2010,"Young Adults",Family,53.50
+2020-08-10,33,8,2010,Retirees,Family,33.92
+2020-08-10,33,8,2010,Retirees,Couples,31.31
+2020-08-10,33,8,2010,Retirees,Couples,160.33
+2020-08-10,33,8,2010,Retirees,Couples,316.00
+2020-08-10,33,8,2010,"Young Adults",Family,49.70
+2020-08-10,33,8,2010,"Middle Aged",Couples,47.94
+2020-08-10,33,8,2010,"Young Adults",Couples,132.26
+2020-08-10,33,8,2010,Retirees,Family,207.09
+2020-08-10,33,8,2010,"Middle Aged",Family,34.48
+2020-08-10,33,8,2010,Retirees,Family,192.78
+2020-08-10,33,8,2010,"Young Adults",Couples,175.46
+2020-08-10,33,8,2010,"Middle Aged",Family,35.55
+2020-08-10,33,8,2010,"Middle Aged",Family,48.04
+2020-08-10,33,8,2010,Retirees,Couples,132.06
+2020-08-10,33,8,2010,"Middle Aged",Family,51.18
+2020-08-10,33,8,2010,"Middle Aged",Family,212.83
+2020-08-10,33,8,2010,Retirees,Family,185.41
+2020-08-10,33,8,2010,unknown,unknown,210.06
+2020-08-10,33,8,2010,"Young Adults",Family,136.10
+2020-08-10,33,8,2010,unknown,unknown,212.33
+2020-08-10,33,8,2010,unknown,unknown,189.54
+2020-08-10,33,8,2010,Retirees,Couples,45.15
+2020-08-10,33,8,2010,"Young Adults",Couples,162.14
+2020-08-10,33,8,2010,"Middle Aged",Family,198.48
+2020-08-10,33,8,2010,unknown,unknown,35.92
+2020-08-10,33,8,2010,Retirees,Couples,44.49
+2020-08-10,33,8,2010,"Middle Aged",Family,52.77
+2020-08-10,33,8,2010,"Young Adults",Couples,160.77
+2020-08-10,33,8,2010,Retirees,Couples,148.84
+2020-08-10,33,8,2010,"Young Adults",Couples,21.78
+2020-08-10,33,8,2010,"Middle Aged",Family,42.22
+2020-08-10,33,8,2010,Retirees,Couples,168.73
+2020-08-10,33,8,2010,Retirees,Family,42.81
+2020-08-10,33,8,2010,unknown,unknown,152.27
+2020-08-10,33,8,2010,Retirees,Family,268.69
+2020-08-10,33,8,2010,Retirees,Couples,50.63
+2020-08-10,33,8,2010,"Middle Aged",Couples,206.92
+2020-08-10,33,8,2010,Retirees,Couples,197.88
+2020-08-10,33,8,2010,unknown,unknown,160.61
+2020-08-10,33,8,2010,Retirees,Family,155.59
+2020-08-10,33,8,2010,"Young Adults",Couples,33.78
+2020-08-10,33,8,2010,unknown,unknown,38.60
+2020-08-10,33,8,2010,Retirees,Couples,28.77
+2020-08-10,33,8,2010,Retirees,Couples,32.67
+2020-08-10,33,8,2010,Retirees,Couples,173.84
+2020-08-10,33,8,2010,unknown,unknown,165.87
+2020-08-10,33,8,2010,Retirees,Couples,53.79
+2020-08-10,33,8,2010,unknown,unknown,26.07
+2020-08-10,33,8,2010,"Young Adults",Couples,124.88
+2020-08-10,33,8,2010,Retirees,Couples,206.76
+2020-08-10,33,8,2010,unknown,unknown,184.86
+2020-08-10,33,8,2010,"Young Adults",Couples,25.08
+2020-08-10,33,8,2010,"Middle Aged",Couples,190.95
+2020-08-03,33,8,3,Retirees,Couples,211.97
+2020-08-03,33,8,3,"Young Adults",Family,48.80
+2020-08-03,33,8,3,"Middle Aged",Couples,42.61
+2020-08-03,33,8,3,"Young Adults",Family,203.67
+2020-08-03,33,8,3,"Young Adults",Family,32.71
+2020-08-03,33,8,3,"Young Adults",Couples,158.06
+2020-08-03,33,8,3,"Middle Aged",Couples,288.81
+2020-08-03,33,8,3,Retirees,Couples,33.51
+2020-08-03,33,8,3,unknown,unknown,175.20
+2020-08-03,33,8,3,Retirees,Couples,239.29
+2020-08-03,33,8,3,Retirees,Couples,50.67
+2020-08-03,33,8,3,unknown,unknown,156.90
+2020-08-03,33,8,3,unknown,unknown,26.26
+2020-08-03,33,8,3,unknown,unknown,25.33
+2020-08-03,33,8,3,Retirees,Family,192.00
+2020-08-03,33,8,3,Retirees,Family,50.55
+2020-08-03,33,8,3,"Young Adults",Couples,123.80
+2020-08-03,33,8,3,"Young Adults",Family,35.54
+2020-08-03,33,8,3,"Middle Aged",Family,30.39
+2020-08-03,33,8,3,unknown,unknown,223.53
+2020-08-03,33,8,3,"Middle Aged",Family,35.96
+2020-08-03,33,8,3,"Middle Aged",Family,56.62
+2020-08-03,33,8,3,"Young Adults",Couples,44.46
+2020-08-03,33,8,3,Retirees,Couples,146.11
+2020-08-03,33,8,3,"Middle Aged",Family,222.88
+2020-08-03,33,8,3,Retirees,Family,151.68
+2020-08-03,33,8,3,Retirees,Couples,45.64
+2020-08-03,33,8,3,"Middle Aged",Couples,36.19
+2020-08-03,33,8,3,unknown,unknown,28.56
+2020-08-03,33,8,3,"Middle Aged",Family,193.86
+2020-08-03,33,8,3,"Middle Aged",Family,200.88
+2020-08-03,33,8,3,Retirees,Couples,48.79
+2020-08-03,33,8,3,unknown,unknown,181.15
+2020-08-03,33,8,3,Retirees,Couples,286.86
+2020-08-03,33,8,3,unknown,unknown,39.17
+2020-08-03,33,8,3,unknown,unknown,152.00
+2020-08-03,33,8,3,Retirees,Family,44.27
+2020-08-03,33,8,3,"Young Adults",Couples,27.18
+2020-08-03,33,8,3,Retirees,Couples,47.87
+2020-08-03,33,8,3,"Middle Aged",Family,44.66
+2020-08-03,33,8,3,Retirees,Couples,183.83
+2020-08-03,33,8,3,"Young Adults",Couples,25.68
+2020-08-03,33,8,3,"Middle Aged",Family,48.22
+2020-08-03,33,8,3,Retirees,Couples,35.53
+2020-08-03,33,8,3,"Middle Aged",Family,136.90
+2020-08-03,33,8,3,"Middle Aged",Family,187.18
+2020-08-03,33,8,3,"Young Adults",Family,31.43
+2020-08-03,33,8,3,Retirees,Family,55.10
+2020-08-03,33,8,3,"Middle Aged",Family,168.17

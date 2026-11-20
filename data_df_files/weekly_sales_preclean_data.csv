@@ -1,0 +1,1001 @@
+week_dates,region,platform,segment,customer_type,transactions,sales,dates,week_number,month_number,calendar_year,age_band,demographic,avg_sales
+31/8/20,ASIA,Retail,C3,New,120631,3656163,2020-08-31,33,8,2031,Retirees,Couples,30.31
+31/8/20,ASIA,Retail,F1,New,31574,996575,2020-08-31,33,8,2031,"Young Adults",Family,31.56
+31/8/20,USA,Retail,null,Guest,529151,16509610,2020-08-31,33,8,2031,unknown,unknown,31.20
+31/8/20,EUROPE,Retail,C1,New,4517,141942,2020-08-31,33,8,2031,"Young Adults",Couples,31.42
+31/8/20,AFRICA,Retail,C2,New,58046,1758388,2020-08-31,33,8,2031,"Middle Aged",Couples,30.29
+31/8/20,CANADA,Shopify,F2,Existing,1336,243878,2020-08-31,33,8,2031,"Middle Aged",Family,182.54
+31/8/20,AFRICA,Shopify,F3,Existing,2514,519502,2020-08-31,33,8,2031,Retirees,Family,206.64
+31/8/20,ASIA,Shopify,F1,Existing,2158,371417,2020-08-31,33,8,2031,"Young Adults",Family,172.11
+31/8/20,AFRICA,Shopify,F2,New,318,49557,2020-08-31,33,8,2031,"Middle Aged",Family,155.84
+31/8/20,AFRICA,Retail,C3,New,111032,3888162,2020-08-31,33,8,2031,Retirees,Couples,35.02
+31/8/20,USA,Shopify,F1,Existing,1398,260773,2020-08-31,33,8,2031,"Young Adults",Family,186.53
+31/8/20,OCEANIA,Shopify,C2,Existing,4661,882690,2020-08-31,33,8,2031,"Middle Aged",Couples,189.38
+31/8/20,"SOUTH AMERICA",Retail,C2,Existing,1029,38762,2020-08-31,33,8,2031,"Middle Aged",Couples,37.67
+31/8/20,"SOUTH AMERICA",Shopify,C4,New,6,917,2020-08-31,33,8,2031,Retirees,Couples,152.83
+31/8/20,EUROPE,Shopify,F3,Existing,115,35215,2020-08-31,33,8,2031,Retirees,Family,306.22
+31/8/20,OCEANIA,Retail,F3,Existing,551905,30371770,2020-08-31,33,8,2031,Retirees,Family,55.03
+31/8/20,ASIA,Shopify,C3,Existing,1969,374327,2020-08-31,33,8,2031,Retirees,Couples,190.11
+31/8/20,AFRICA,Retail,F1,Existing,97604,5185233,2020-08-31,33,8,2031,"Young Adults",Family,53.13
+31/8/20,OCEANIA,Retail,C2,New,111219,2980673,2020-08-31,33,8,2031,"Middle Aged",Couples,26.80
+31/8/20,USA,Retail,F1,New,11820,463738,2020-08-31,33,8,2031,"Young Adults",Family,39.23
+31/8/20,"SOUTH AMERICA",Retail,F3,Existing,1363,65730,2020-08-31,33,8,2031,Retirees,Family,48.22
+31/8/20,AFRICA,Retail,C3,Existing,284971,14430196,2020-08-31,33,8,2031,Retirees,Couples,50.64
+31/8/20,ASIA,Retail,F2,New,70496,2176980,2020-08-31,33,8,2031,"Middle Aged",Family,30.88
+31/8/20,AFRICA,Shopify,F1,Existing,2678,478756,2020-08-31,33,8,2031,"Young Adults",Family,178.77
+31/8/20,USA,Shopify,C4,New,22,3319,2020-08-31,33,8,2031,Retirees,Couples,150.86
+31/8/20,CANADA,Retail,F3,Existing,94274,5306746,2020-08-31,33,8,2031,Retirees,Family,56.29
+31/8/20,ASIA,Retail,F1,Existing,94287,4511841,2020-08-31,33,8,2031,"Young Adults",Family,47.85
+31/8/20,EUROPE,Retail,null,New,3064,134249,2020-08-31,33,8,2031,unknown,unknown,43.81
+31/8/20,EUROPE,Shopify,F1,New,7,1579,2020-08-31,33,8,2031,"Young Adults",Family,225.57
+31/8/20,"SOUTH AMERICA",Retail,C4,New,329,11451,2020-08-31,33,8,2031,Retirees,Couples,34.81
+31/8/20,"SOUTH AMERICA",Retail,F1,Existing,854,31589,2020-08-31,33,8,2031,"Young Adults",Family,36.99
+31/8/20,EUROPE,Shopify,C2,Existing,180,53567,2020-08-31,33,8,2031,"Middle Aged",Couples,297.59
+31/8/20,EUROPE,Shopify,F2,New,15,4023,2020-08-31,33,8,2031,"Middle Aged",Family,268.20
+31/8/20,AFRICA,Retail,C2,Existing,112361,4768214,2020-08-31,33,8,2031,"Middle Aged",Couples,42.44
+31/8/20,ASIA,Shopify,C2,Existing,2269,396909,2020-08-31,33,8,2031,"Middle Aged",Couples,174.93
+31/8/20,AFRICA,Shopify,C4,New,58,8562,2020-08-31,33,8,2031,Retirees,Couples,147.62
+31/8/20,USA,Retail,F3,Existing,142898,8723663,2020-08-31,33,8,2031,Retirees,Family,61.05
+31/8/20,OCEANIA,Shopify,C3,Existing,4703,957939,2020-08-31,33,8,2031,Retirees,Couples,203.69
+31/8/20,"SOUTH AMERICA",Shopify,null,New,40,7625,2020-08-31,33,8,2031,unknown,unknown,190.63
+31/8/20,USA,Shopify,C1,New,164,20635,2020-08-31,33,8,2031,"Young Adults",Couples,125.82
+31/8/20,"SOUTH AMERICA",Shopify,C1,New,20,2265,2020-08-31,33,8,2031,"Young Adults",Couples,113.25
+31/8/20,EUROPE,Retail,C1,Existing,14583,633917,2020-08-31,33,8,2031,"Young Adults",Couples,43.47
+31/8/20,OCEANIA,Shopify,F2,New,452,72293,2020-08-31,33,8,2031,"Middle Aged",Family,159.94
+31/8/20,"SOUTH AMERICA",Retail,F2,New,382,13839,2020-08-31,33,8,2031,"Middle Aged",Family,36.23
+31/8/20,"SOUTH AMERICA",Retail,C3,Existing,1503,68009,2020-08-31,33,8,2031,Retirees,Couples,45.25
+31/8/20,CANADA,Retail,F1,New,7033,269176,2020-08-31,33,8,2031,"Young Adults",Family,38.27
+31/8/20,"SOUTH AMERICA",Retail,null,Existing,329,10874,2020-08-31,33,8,2031,unknown,unknown,33.05
+31/8/20,CANADA,Retail,F1,Existing,24153,1306932,2020-08-31,33,8,2031,"Young Adults",Family,54.11
+31/8/20,EUROPE,Shopify,null,Existing,15,3507,2020-08-31,33,8,2031,unknown,unknown,233.80
+31/8/20,EUROPE,Retail,F3,Existing,18676,1144376,2020-08-31,33,8,2031,Retirees,Family,61.28
+31/8/20,"SOUTH AMERICA",Shopify,C3,New,19,3325,2020-08-31,33,8,2031,Retirees,Couples,175.00
+31/8/20,CANADA,Shopify,null,Existing,87,15074,2020-08-31,33,8,2031,unknown,unknown,173.26
+31/8/20,CANADA,Retail,C4,Existing,29577,1473178,2020-08-31,33,8,2031,Retirees,Couples,49.81
+31/8/20,OCEANIA,Retail,F1,New,41631,1369115,2020-08-31,33,8,2031,"Young Adults",Family,32.89
+31/8/20,ASIA,Retail,F3,Existing,402652,20255591,2020-08-31,33,8,2031,Retirees,Family,50.31
+31/8/20,ASIA,Retail,null,Guest,1936351,48773122,2020-08-31,33,8,2031,unknown,unknown,25.19
+31/8/20,ASIA,Shopify,C2,New,413,55780,2020-08-31,33,8,2031,"Middle Aged",Couples,135.06
+31/8/20,EUROPE,Shopify,F3,New,4,554,2020-08-31,33,8,2031,Retirees,Family,138.50
+31/8/20,USA,Retail,C2,Existing,43493,2126153,2020-08-31,33,8,2031,"Middle Aged",Couples,48.88
+31/8/20,OCEANIA,Retail,C2,Existing,169157,6603287,2020-08-31,33,8,2031,"Middle Aged",Couples,39.04
+31/8/20,AFRICA,Shopify,null,Guest,5893,1026838,2020-08-31,33,8,2031,unknown,unknown,174.25
+31/8/20,ASIA,Retail,C3,Existing,245151,11086427,2020-08-31,33,8,2031,Retirees,Couples,45.22
+31/8/20,CANADA,Shopify,C4,Existing,119,19049,2020-08-31,33,8,2031,Retirees,Couples,160.08
+31/8/20,ASIA,Shopify,F2,Existing,2983,564306,2020-08-31,33,8,2031,"Middle Aged",Family,189.17
+31/8/20,"SOUTH AMERICA",Shopify,F3,Existing,32,7331,2020-08-31,33,8,2031,Retirees,Family,229.09
+31/8/20,USA,Retail,F1,Existing,40076,2272687,2020-08-31,33,8,2031,"Young Adults",Family,56.71
+31/8/20,"SOUTH AMERICA",Shopify,C4,Existing,7,1562,2020-08-31,33,8,2031,Retirees,Couples,223.14
+31/8/20,CANADA,Shopify,null,New,88,12836,2020-08-31,33,8,2031,unknown,unknown,145.86
+31/8/20,AFRICA,Retail,C4,New,46545,1548637,2020-08-31,33,8,2031,Retirees,Couples,33.27
+31/8/20,USA,Shopify,C2,New,228,45518,2020-08-31,33,8,2031,"Middle Aged",Couples,199.64
+31/8/20,"SOUTH AMERICA",Retail,C3,New,1045,37786,2020-08-31,33,8,2031,Retirees,Couples,36.16
+31/8/20,ASIA,Shopify,C4,Existing,279,48624,2020-08-31,33,8,2031,Retirees,Couples,174.28
+31/8/20,ASIA,Retail,null,New,66042,2156778,2020-08-31,33,8,2031,unknown,unknown,32.66
+31/8/20,AFRICA,Retail,C4,Existing,117018,5941067,2020-08-31,33,8,2031,Retirees,Couples,50.77
+31/8/20,EUROPE,Retail,F1,Existing,6769,395877,2020-08-31,33,8,2031,"Young Adults",Family,58.48
+31/8/20,AFRICA,Retail,F3,Existing,403810,22712143,2020-08-31,33,8,2031,Retirees,Family,56.24
+31/8/20,"SOUTH AMERICA",Shopify,F1,Existing,74,16149,2020-08-31,33,8,2031,"Young Adults",Family,218.23
+31/8/20,CANADA,Retail,F2,Existing,61517,3322211,2020-08-31,33,8,2031,"Middle Aged",Family,54.00
+31/8/20,EUROPE,Retail,F3,New,1655,66422,2020-08-31,33,8,2031,Retirees,Family,40.13
+31/8/20,AFRICA,Shopify,F1,New,201,27184,2020-08-31,33,8,2031,"Young Adults",Family,135.24
+31/8/20,ASIA,Shopify,null,Guest,5794,979807,2020-08-31,33,8,2031,unknown,unknown,169.11
+31/8/20,AFRICA,Retail,F1,New,23416,833470,2020-08-31,33,8,2031,"Young Adults",Family,35.59
+31/8/20,OCEANIA,Retail,F1,Existing,144056,7178808,2020-08-31,33,8,2031,"Young Adults",Family,49.83
+31/8/20,OCEANIA,Retail,C4,Existing,151673,7422165,2020-08-31,33,8,2031,Retirees,Couples,48.94
+31/8/20,CANADA,Shopify,C1,Existing,585,91616,2020-08-31,33,8,2031,"Young Adults",Couples,156.61
+31/8/20,CANADA,Retail,F2,New,18180,661362,2020-08-31,33,8,2031,"Middle Aged",Family,36.38
+31/8/20,CANADA,Retail,C1,New,30402,786613,2020-08-31,33,8,2031,"Young Adults",Couples,25.87
+31/8/20,"SOUTH AMERICA",Shopify,C1,Existing,69,11755,2020-08-31,33,8,2031,"Young Adults",Couples,170.36
+31/8/20,USA,Retail,C2,New,26620,883573,2020-08-31,33,8,2031,"Middle Aged",Couples,33.19
+31/8/20,AFRICA,Retail,null,New,58165,2232935,2020-08-31,33,8,2031,unknown,unknown,38.39
+31/8/20,CANADA,Shopify,C1,New,97,12438,2020-08-31,33,8,2031,"Young Adults",Couples,128.23
+31/8/20,"SOUTH AMERICA",Shopify,F2,Existing,37,8473,2020-08-31,33,8,2031,"Middle Aged",Family,229.00
+31/8/20,EUROPE,Retail,C2,New,2857,104677,2020-08-31,33,8,2031,"Middle Aged",Couples,36.64
+31/8/20,OCEANIA,Retail,C4,New,65594,2016930,2020-08-31,33,8,2031,Retirees,Couples,30.75
+31/8/20,EUROPE,Retail,C2,Existing,9710,461694,2020-08-31,33,8,2031,"Middle Aged",Couples,47.55
+31/8/20,EUROPE,Shopify,C4,New,3,1221,2020-08-31,33,8,2031,Retirees,Couples,407.00
+31/8/20,OCEANIA,Shopify,C3,New,567,95547,2020-08-31,33,8,2031,Retirees,Couples,168.51
+31/8/20,USA,Retail,C1,New,36069,990085,2020-08-31,33,8,2031,"Young Adults",Couples,27.45
+31/8/20,ASIA,Retail,F2,Existing,220712,10624187,2020-08-31,33,8,2031,"Middle Aged",Family,48.14
+31/8/20,OCEANIA,Shopify,null,Guest,11218,2078649,2020-08-31,33,8,2031,unknown,unknown,185.30
+31/8/20,USA,Shopify,C3,New,205,33536,2020-08-31,33,8,2031,Retirees,Couples,163.59
+31/8/20,AFRICA,Shopify,C1,New,299,35957,2020-08-31,33,8,2031,"Young Adults",Couples,120.26
+31/8/20,EUROPE,Retail,F1,New,953,40760,2020-08-31,33,8,2031,"Young Adults",Family,42.77
+31/8/20,"SOUTH AMERICA",Shopify,C2,New,45,8917,2020-08-31,33,8,2031,"Middle Aged",Couples,198.16
+31/8/20,CANADA,Shopify,C3,Existing,846,154393,2020-08-31,33,8,2031,Retirees,Couples,182.50
+31/8/20,USA,Retail,C1,Existing,57648,2393490,2020-08-31,33,8,2031,"Young Adults",Couples,41.52
+31/8/20,EUROPE,Shopify,C1,New,21,3288,2020-08-31,33,8,2031,"Young Adults",Couples,156.57
+31/8/20,"SOUTH AMERICA",Shopify,F2,New,9,1437,2020-08-31,33,8,2031,"Middle Aged",Family,159.67
+31/8/20,OCEANIA,Shopify,F3,New,190,30264,2020-08-31,33,8,2031,Retirees,Family,159.28
+31/8/20,AFRICA,Shopify,C3,Existing,2647,530397,2020-08-31,33,8,2031,Retirees,Couples,200.38
+31/8/20,CANADA,Shopify,C4,New,21,2494,2020-08-31,33,8,2031,Retirees,Couples,118.76
+31/8/20,OCEANIA,Retail,F2,New,91435,3101538,2020-08-31,33,8,2031,"Middle Aged",Family,33.92
+31/8/20,EUROPE,Retail,C3,New,3843,158799,2020-08-31,33,8,2031,Retirees,Couples,41.32
+31/8/20,USA,Retail,F3,New,28987,1096531,2020-08-31,33,8,2031,Retirees,Family,37.83
+31/8/20,ASIA,Shopify,F2,New,245,35519,2020-08-31,33,8,2031,"Middle Aged",Family,144.98
+31/8/20,OCEANIA,Retail,C3,Existing,339633,16520774,2020-08-31,33,8,2031,Retirees,Couples,48.64
+31/8/20,EUROPE,Shopify,C3,Existing,182,45036,2020-08-31,33,8,2031,Retirees,Couples,247.45
+31/8/20,CANADA,Shopify,F3,Existing,659,126801,2020-08-31,33,8,2031,Retirees,Family,192.41
+31/8/20,AFRICA,Shopify,C3,New,340,56734,2020-08-31,33,8,2031,Retirees,Couples,166.86
+31/8/20,ASIA,Retail,C1,Existing,187781,6218547,2020-08-31,33,8,2031,"Young Adults",Couples,33.12
+31/8/20,OCEANIA,Shopify,F2,Existing,6870,1373529,2020-08-31,33,8,2031,"Middle Aged",Family,199.93
+31/8/20,OCEANIA,Retail,C1,New,172521,3964262,2020-08-31,33,8,2031,"Young Adults",Couples,22.98
+31/8/20,CANADA,Shopify,C2,New,105,14694,2020-08-31,33,8,2031,"Middle Aged",Couples,139.94
+31/8/20,CANADA,Retail,F3,New,19524,690966,2020-08-31,33,8,2031,Retirees,Family,35.39
+31/8/20,ASIA,Retail,C4,New,53286,1520060,2020-08-31,33,8,2031,Retirees,Couples,28.53
+31/8/20,"SOUTH AMERICA",Retail,C1,New,2466,52421,2020-08-31,33,8,2031,"Young Adults",Couples,21.26
+31/8/20,EUROPE,Retail,null,Guest,97001,3352338,2020-08-31,33,8,2031,unknown,unknown,34.56
+31/8/20,CANADA,Shopify,F3,New,36,6107,2020-08-31,33,8,2031,Retirees,Family,169.64
+31/8/20,USA,Shopify,F2,Existing,2031,402380,2020-08-31,33,8,2031,"Middle Aged",Family,198.12
+31/8/20,AFRICA,Retail,F2,Existing,277600,14910405,2020-08-31,33,8,2031,"Middle Aged",Family,53.71
+31/8/20,USA,Shopify,F2,New,157,25858,2020-08-31,33,8,2031,"Middle Aged",Family,164.70
+31/8/20,EUROPE,Shopify,null,New,20,4085,2020-08-31,33,8,2031,unknown,unknown,204.25
+31/8/20,OCEANIA,Shopify,C1,Existing,2801,481198,2020-08-31,33,8,2031,"Young Adults",Couples,171.80
+31/8/20,CANADA,Retail,null,Guest,396145,11133538,2020-08-31,33,8,2031,unknown,unknown,28.10
+31/8/20,USA,Retail,F2,New,28592,1063716,2020-08-31,33,8,2031,"Middle Aged",Family,37.20
+31/8/20,CANADA,Retail,C2,Existing,23062,1001335,2020-08-31,33,8,2031,"Middle Aged",Couples,43.42
+31/8/20,OCEANIA,Retail,null,Guest,2437738,63989387,2020-08-31,33,8,2031,unknown,unknown,26.25
+31/8/20,EUROPE,Shopify,null,Guest,343,79359,2020-08-31,33,8,2031,unknown,unknown,231.37
+31/8/20,OCEANIA,Shopify,F3,Existing,3920,836865,2020-08-31,33,8,2031,Retirees,Family,213.49
+31/8/20,ASIA,Shopify,null,Existing,384,67279,2020-08-31,33,8,2031,unknown,unknown,175.21
+31/8/20,"SOUTH AMERICA",Retail,F3,New,329,11863,2020-08-31,33,8,2031,Retirees,Family,36.06
+31/8/20,EUROPE,Retail,F2,New,1738,72565,2020-08-31,33,8,2031,"Middle Aged",Family,41.75
+31/8/20,OCEANIA,Retail,F3,New,110894,3749562,2020-08-31,33,8,2031,Retirees,Family,33.81
+31/8/20,USA,Shopify,null,Existing,196,40740,2020-08-31,33,8,2031,unknown,unknown,207.86
+31/8/20,USA,Retail,C3,Existing,102736,5786447,2020-08-31,33,8,2031,Retirees,Couples,56.32
+31/8/20,EUROPE,Retail,C4,Existing,4652,250536,2020-08-31,33,8,2031,Retirees,Couples,53.86
+31/8/20,OCEANIA,Retail,null,Existing,50786,2056315,2020-08-31,33,8,2031,unknown,unknown,40.49
+31/8/20,"SOUTH AMERICA",Shopify,F3,New,3,372,2020-08-31,33,8,2031,Retirees,Family,124.00
+31/8/20,OCEANIA,Shopify,C4,Existing,731,136743,2020-08-31,33,8,2031,Retirees,Couples,187.06
+31/8/20,CANADA,Shopify,C3,New,115,16103,2020-08-31,33,8,2031,Retirees,Couples,140.03
+31/8/20,"SOUTH AMERICA",Shopify,null,Guest,2172,407861,2020-08-31,33,8,2031,unknown,unknown,187.78
+31/8/20,USA,Shopify,F3,New,63,10501,2020-08-31,33,8,2031,Retirees,Family,166.68
+31/8/20,CANADA,Retail,C4,New,13579,451994,2020-08-31,33,8,2031,Retirees,Couples,33.29
+31/8/20,USA,Shopify,C4,Existing,164,29757,2020-08-31,33,8,2031,Retirees,Couples,181.45
+31/8/20,CANADA,Shopify,C2,Existing,726,125653,2020-08-31,33,8,2031,"Middle Aged",Couples,173.08
+31/8/20,ASIA,Shopify,C3,New,247,35572,2020-08-31,33,8,2031,Retirees,Couples,144.02
+31/8/20,ASIA,Shopify,C1,New,277,35314,2020-08-31,33,8,2031,"Young Adults",Couples,127.49
+31/8/20,OCEANIA,Shopify,null,New,507,83877,2020-08-31,33,8,2031,unknown,unknown,165.44
+31/8/20,ASIA,Retail,C1,New,132545,2819145,2020-08-31,33,8,2031,"Young Adults",Couples,21.27
+31/8/20,ASIA,Retail,F3,New,89785,2770220,2020-08-31,33,8,2031,Retirees,Family,30.85
+31/8/20,USA,Shopify,F3,Existing,1083,224778,2020-08-31,33,8,2031,Retirees,Family,207.55
+31/8/20,ASIA,Shopify,C1,Existing,1282,210754,2020-08-31,33,8,2031,"Young Adults",Couples,164.39
+31/8/20,AFRICA,Shopify,null,New,300,51883,2020-08-31,33,8,2031,unknown,unknown,172.94
+31/8/20,OCEANIA,Shopify,C4,New,100,15077,2020-08-31,33,8,2031,Retirees,Couples,150.77
+31/8/20,"SOUTH AMERICA",Retail,C4,Existing,414,18437,2020-08-31,33,8,2031,Retirees,Couples,44.53
+31/8/20,"SOUTH AMERICA",Shopify,null,Existing,3,472,2020-08-31,33,8,2031,unknown,unknown,157.33
+31/8/20,CANADA,Retail,null,Existing,8410,411147,2020-08-31,33,8,2031,unknown,unknown,48.89
+31/8/20,EUROPE,Shopify,F2,Existing,249,55333,2020-08-31,33,8,2031,"Middle Aged",Family,222.22
+31/8/20,"SOUTH AMERICA",Retail,C1,Existing,3087,85926,2020-08-31,33,8,2031,"Young Adults",Couples,27.83
+31/8/20,AFRICA,Shopify,F3,New,122,20927,2020-08-31,33,8,2031,Retirees,Family,171.53
+31/8/20,AFRICA,Retail,null,Existing,37883,1657269,2020-08-31,33,8,2031,unknown,unknown,43.75
+31/8/20,ASIA,Shopify,C4,New,46,6147,2020-08-31,33,8,2031,Retirees,Couples,133.63
+31/8/20,ASIA,Retail,C4,Existing,110176,4894437,2020-08-31,33,8,2031,Retirees,Couples,44.42
+31/8/20,AFRICA,Retail,null,Guest,1547309,44346247,2020-08-31,33,8,2031,unknown,unknown,28.66
+31/8/20,OCEANIA,Shopify,F1,Existing,4498,839437,2020-08-31,33,8,2031,"Young Adults",Family,186.62
+31/8/20,CANADA,Shopify,F1,Existing,789,134990,2020-08-31,33,8,2031,"Young Adults",Family,171.09
+31/8/20,"SOUTH AMERICA",Shopify,C3,Existing,109,23057,2020-08-31,33,8,2031,Retirees,Couples,211.53
+31/8/20,EUROPE,Retail,C4,New,1352,49263,2020-08-31,33,8,2031,Retirees,Couples,36.44
+31/8/20,ASIA,Retail,null,Existing,38663,1493771,2020-08-31,33,8,2031,unknown,unknown,38.64
+31/8/20,AFRICA,Shopify,C2,New,389,57455,2020-08-31,33,8,2031,"Middle Aged",Couples,147.70
+31/8/20,CANADA,Retail,null,New,14685,561282,2020-08-31,33,8,2031,unknown,unknown,38.22
+31/8/20,USA,Retail,null,New,22186,930478,2020-08-31,33,8,2031,unknown,unknown,41.94
+31/8/20,OCEANIA,Shopify,C2,New,842,132424,2020-08-31,33,8,2031,"Middle Aged",Couples,157.27
+31/8/20,USA,Shopify,F1,New,135,20860,2020-08-31,33,8,2031,"Young Adults",Family,154.52
+31/8/20,AFRICA,Retail,C1,Existing,186404,6891042,2020-08-31,33,8,2031,"Young Adults",Couples,36.97
+31/8/20,AFRICA,Shopify,C1,Existing,1689,269373,2020-08-31,33,8,2031,"Young Adults",Couples,159.49
+31/8/20,"SOUTH AMERICA",Retail,null,Guest,413244,16755039,2020-08-31,33,8,2031,unknown,unknown,40.55
+31/8/20,ASIA,Shopify,F1,New,228,33200,2020-08-31,33,8,2031,"Young Adults",Family,145.61
+31/8/20,OCEANIA,Retail,C1,Existing,260181,9284850,2020-08-31,33,8,2031,"Young Adults",Couples,35.69
+31/8/20,EUROPE,Retail,F2,Existing,14482,887564,2020-08-31,33,8,2031,"Middle Aged",Family,61.29
+31/8/20,EUROPE,Shopify,C1,Existing,118,27732,2020-08-31,33,8,2031,"Young Adults",Couples,235.02
+31/8/20,AFRICA,Retail,C1,New,97673,2423159,2020-08-31,33,8,2031,"Young Adults",Couples,24.81
+31/8/20,ASIA,Shopify,F3,New,113,15927,2020-08-31,33,8,2031,Retirees,Family,140.95
+31/8/20,"SOUTH AMERICA",Retail,null,New,1266,44500,2020-08-31,33,8,2031,unknown,unknown,35.15
+31/8/20,"SOUTH AMERICA",Shopify,F1,New,6,623,2020-08-31,33,8,2031,"Young Adults",Family,103.83
+31/8/20,USA,Retail,C3,New,46838,1769576,2020-08-31,33,8,2031,Retirees,Couples,37.78
+31/8/20,USA,Retail,C4,New,18774,665292,2020-08-31,33,8,2031,Retirees,Couples,35.44
+31/8/20,USA,Retail,C4,Existing,40024,2186307,2020-08-31,33,8,2031,Retirees,Couples,54.62
+31/8/20,USA,Shopify,C2,Existing,1420,277104,2020-08-31,33,8,2031,"Middle Aged",Couples,195.14
+31/8/20,ASIA,Retail,C2,New,87269,2234801,2020-08-31,33,8,2031,"Middle Aged",Couples,25.61
+31/8/20,USA,Shopify,null,New,154,25762,2020-08-31,33,8,2031,unknown,unknown,167.29
+31/8/20,USA,Shopify,C3,Existing,1501,312519,2020-08-31,33,8,2031,Retirees,Couples,208.21
+31/8/20,EUROPE,Shopify,C4,Existing,22,4971,2020-08-31,33,8,2031,Retirees,Couples,225.95
+31/8/20,CANADA,Retail,C3,Existing,62206,3227065,2020-08-31,33,8,2031,Retirees,Couples,51.88
+31/8/20,CANADA,Shopify,null,Guest,1621,269863,2020-08-31,33,8,2031,unknown,unknown,166.48
+31/8/20,AFRICA,Retail,F2,New,65304,2291992,2020-08-31,33,8,2031,"Middle Aged",Family,35.10
+31/8/20,EUROPE,Retail,null,Existing,3211,150741,2020-08-31,33,8,2031,unknown,unknown,46.95
+31/8/20,ASIA,Shopify,null,New,278,46931,2020-08-31,33,8,2031,unknown,unknown,168.82
+31/8/20,EUROPE,Shopify,F1,Existing,138,30015,2020-08-31,33,8,2031,"Young Adults",Family,217.50
+31/8/20,USA,Retail,F2,Existing,96079,5527494,2020-08-31,33,8,2031,"Middle Aged",Family,57.53
+31/8/20,USA,Shopify,C1,Existing,739,128749,2020-08-31,33,8,2031,"Young Adults",Couples,174.22
+31/8/20,"SOUTH AMERICA",Retail,F2,Existing,1098,48912,2020-08-31,33,8,2031,"Middle Aged",Family,44.55
+31/8/20,OCEANIA,Retail,null,New,83764,2829225,2020-08-31,33,8,2031,unknown,unknown,33.78
+31/8/20,EUROPE,Retail,C3,Existing,14816,815588,2020-08-31,33,8,2031,Retirees,Couples,55.05
+31/8/20,AFRICA,Shopify,C2,Existing,2568,471837,2020-08-31,33,8,2031,"Middle Aged",Couples,183.74
+31/8/20,ASIA,Shopify,F3,Existing,1916,372983,2020-08-31,33,8,2031,Retirees,Family,194.67
+31/8/20,OCEANIA,Shopify,F1,New,333,48796,2020-08-31,33,8,2031,"Young Adults",Family,146.53
+31/8/20,"SOUTH AMERICA",Retail,C2,New,906,25570,2020-08-31,33,8,2031,"Middle Aged",Couples,28.22
+31/8/20,USA,Retail,null,Existing,14146,694767,2020-08-31,33,8,2031,unknown,unknown,49.11
+31/8/20,OCEANIA,Shopify,null,Existing,621,121005,2020-08-31,33,8,2031,unknown,unknown,194.86
+31/8/20,AFRICA,Shopify,F2,Existing,4911,944157,2020-08-31,33,8,2031,"Middle Aged",Family,192.25
+31/8/20,CANADA,Retail,C1,Existing,56256,2299419,2020-08-31,33,8,2031,"Young Adults",Couples,40.87
+31/8/20,OCEANIA,Retail,F2,Existing,345420,18073554,2020-08-31,33,8,2031,"Middle Aged",Family,52.32
+31/8/20,USA,Shopify,null,Guest,2647,479002,2020-08-31,33,8,2031,unknown,unknown,180.96
+31/8/20,CANADA,Retail,C2,New,14915,458589,2020-08-31,33,8,2031,"Middle Aged",Couples,30.75
+31/8/20,AFRICA,Shopify,C4,Existing,438,80612,2020-08-31,33,8,2031,Retirees,Couples,184.05
+31/8/20,AFRICA,Retail,F3,New,69632,2472247,2020-08-31,33,8,2031,Retirees,Family,35.50
+31/8/20,OCEANIA,Shopify,C1,New,522,69079,2020-08-31,33,8,2031,"Young Adults",Couples,132.34
+31/8/20,"SOUTH AMERICA",Retail,F1,New,312,11256,2020-08-31,33,8,2031,"Young Adults",Family,36.08
+31/8/20,EUROPE,Shopify,C2,New,17,2340,2020-08-31,33,8,2031,"Middle Aged",Couples,137.65
+31/8/20,CANADA,Shopify,F1,New,61,8381,2020-08-31,33,8,2031,"Young Adults",Family,137.39
+31/8/20,OCEANIA,Retail,C3,New,153925,4929679,2020-08-31,33,8,2031,Retirees,Couples,32.03
+31/8/20,ASIA,Retail,C2,Existing,129513,4917788,2020-08-31,33,8,2031,"Middle Aged",Couples,37.97
+31/8/20,EUROPE,Shopify,C3,New,12,1924,2020-08-31,33,8,2031,Retirees,Couples,160.33
+31/8/20,AFRICA,Shopify,null,Existing,376,70596,2020-08-31,33,8,2031,unknown,unknown,187.76
+31/8/20,CANADA,Retail,C3,New,29338,1026555,2020-08-31,33,8,2031,Retirees,Couples,34.99
+31/8/20,CANADA,Shopify,F2,New,98,14789,2020-08-31,33,8,2031,"Middle Aged",Family,150.91
+31/8/20,"SOUTH AMERICA",Shopify,C2,Existing,134,26393,2020-08-31,33,8,2031,"Middle Aged",Couples,196.96
+24/8/20,AFRICA,Retail,null,Guest,1548059,44081216,2020-08-24,33,8,2024,unknown,unknown,28.48
+24/8/20,USA,Shopify,F2,Existing,1898,397206,2020-08-24,33,8,2024,"Middle Aged",Family,209.28
+24/8/20,AFRICA,Shopify,F1,Existing,2592,489706,2020-08-24,33,8,2024,"Young Adults",Family,188.93
+24/8/20,CANADA,Shopify,F2,Existing,1350,258395,2020-08-24,33,8,2024,"Middle Aged",Family,191.40
+24/8/20,USA,Retail,F2,New,28566,1082176,2020-08-24,33,8,2024,"Middle Aged",Family,37.88
+24/8/20,OCEANIA,Shopify,null,New,430,71730,2020-08-24,33,8,2024,unknown,unknown,166.81
+24/8/20,CANADA,Retail,C1,New,30970,809732,2020-08-24,33,8,2024,"Young Adults",Couples,26.15
+24/8/20,USA,Shopify,C1,Existing,773,138404,2020-08-24,33,8,2024,"Young Adults",Couples,179.05
+24/8/20,EUROPE,Retail,null,Existing,2986,136429,2020-08-24,33,8,2024,unknown,unknown,45.69
+24/8/20,CANADA,Retail,C4,Existing,29326,1464490,2020-08-24,33,8,2024,Retirees,Couples,49.94
+24/8/20,EUROPE,Retail,null,Guest,98743,3383683,2020-08-24,33,8,2024,unknown,unknown,34.27
+24/8/20,CANADA,Retail,C4,New,13219,437390,2020-08-24,33,8,2024,Retirees,Couples,33.09
+24/8/20,USA,Shopify,C4,Existing,167,32507,2020-08-24,33,8,2024,Retirees,Couples,194.65
+24/8/20,"SOUTH AMERICA",Shopify,C4,Existing,5,988,2020-08-24,33,8,2024,Retirees,Couples,197.60
+24/8/20,"SOUTH AMERICA",Shopify,C2,New,46,7823,2020-08-24,33,8,2024,"Middle Aged",Couples,170.07
+24/8/20,OCEANIA,Retail,C4,New,65546,2023506,2020-08-24,33,8,2024,Retirees,Couples,30.87
+24/8/20,EUROPE,Retail,F1,New,932,40229,2020-08-24,33,8,2024,"Young Adults",Family,43.16
+24/8/20,"SOUTH AMERICA",Shopify,F2,Existing,30,6585,2020-08-24,33,8,2024,"Middle Aged",Family,219.50
+24/8/20,EUROPE,Shopify,F1,Existing,132,26362,2020-08-24,33,8,2024,"Young Adults",Family,199.71
+24/8/20,ASIA,Shopify,null,New,318,50284,2020-08-24,33,8,2024,unknown,unknown,158.13
+24/8/20,AFRICA,Retail,C3,Existing,287091,14534326,2020-08-24,33,8,2024,Retirees,Couples,50.63
+24/8/20,"SOUTH AMERICA",Retail,F2,Existing,1127,50201,2020-08-24,33,8,2024,"Middle Aged",Family,44.54
+24/8/20,AFRICA,Retail,F3,New,69461,2470906,2020-08-24,33,8,2024,Retirees,Family,35.57
+24/8/20,CANADA,Retail,F2,New,18109,637913,2020-08-24,33,8,2024,"Middle Aged",Family,35.23
+24/8/20,CANADA,Shopify,null,Existing,76,13605,2020-08-24,33,8,2024,unknown,unknown,179.01
+24/8/20,ASIA,Retail,C2,Existing,129144,4996901,2020-08-24,33,8,2024,"Middle Aged",Couples,38.69
+24/8/20,ASIA,Shopify,C4,New,40,6803,2020-08-24,33,8,2024,Retirees,Couples,170.08
+24/8/20,EUROPE,Shopify,C3,New,14,3295,2020-08-24,33,8,2024,Retirees,Couples,235.36
+24/8/20,OCEANIA,Shopify,F2,Existing,6502,1307272,2020-08-24,33,8,2024,"Middle Aged",Family,201.06
+24/8/20,ASIA,Shopify,C1,New,269,35424,2020-08-24,33,8,2024,"Young Adults",Couples,131.69
+24/8/20,OCEANIA,Shopify,C1,Existing,2673,471401,2020-08-24,33,8,2024,"Young Adults",Couples,176.36
+24/8/20,USA,Shopify,C1,New,151,21917,2020-08-24,33,8,2024,"Young Adults",Couples,145.15
+24/8/20,"SOUTH AMERICA",Shopify,C1,New,16,2666,2020-08-24,33,8,2024,"Young Adults",Couples,166.63
+24/8/20,"SOUTH AMERICA",Retail,F2,New,446,17385,2020-08-24,33,8,2024,"Middle Aged",Family,38.98
+24/8/20,USA,Retail,null,New,21594,919265,2020-08-24,33,8,2024,unknown,unknown,42.57
+24/8/20,AFRICA,Shopify,F2,Existing,4689,928412,2020-08-24,33,8,2024,"Middle Aged",Family,198.00
+24/8/20,CANADA,Shopify,C4,Existing,89,16312,2020-08-24,33,8,2024,Retirees,Couples,183.28
+24/8/20,EUROPE,Retail,F3,Existing,18657,1116468,2020-08-24,33,8,2024,Retirees,Family,59.84
+24/8/20,"SOUTH AMERICA",Retail,C2,New,949,29642,2020-08-24,33,8,2024,"Middle Aged",Couples,31.23
+24/8/20,OCEANIA,Shopify,C2,New,762,126151,2020-08-24,33,8,2024,"Middle Aged",Couples,165.55
+24/8/20,OCEANIA,Retail,C2,Existing,169736,6645099,2020-08-24,33,8,2024,"Middle Aged",Couples,39.15
+24/8/20,USA,Retail,F1,Existing,40597,2371526,2020-08-24,33,8,2024,"Young Adults",Family,58.42
+24/8/20,OCEANIA,Shopify,C4,New,96,13461,2020-08-24,33,8,2024,Retirees,Couples,140.22
+24/8/20,AFRICA,Shopify,C1,New,293,39564,2020-08-24,33,8,2024,"Young Adults",Couples,135.03
+24/8/20,CANADA,Shopify,C2,Existing,695,120729,2020-08-24,33,8,2024,"Middle Aged",Couples,173.71
+24/8/20,AFRICA,Shopify,C1,Existing,1658,270496,2020-08-24,33,8,2024,"Young Adults",Couples,163.15
+24/8/20,ASIA,Shopify,C3,New,301,45870,2020-08-24,33,8,2024,Retirees,Couples,152.39
+24/8/20,CANADA,Shopify,null,New,84,13692,2020-08-24,33,8,2024,unknown,unknown,163.00
+24/8/20,AFRICA,Shopify,C4,New,62,10269,2020-08-24,33,8,2024,Retirees,Couples,165.63
+24/8/20,"SOUTH AMERICA",Shopify,null,Existing,5,760,2020-08-24,33,8,2024,unknown,unknown,152.00
+24/8/20,CANADA,Shopify,F3,New,27,3387,2020-08-24,33,8,2024,Retirees,Family,125.44
+24/8/20,ASIA,Shopify,F2,Existing,2947,567165,2020-08-24,33,8,2024,"Middle Aged",Family,192.46
+24/8/20,ASIA,Retail,C3,Existing,244816,11196782,2020-08-24,33,8,2024,Retirees,Couples,45.74
+24/8/20,USA,Shopify,null,Existing,154,34932,2020-08-24,33,8,2024,unknown,unknown,226.83
+24/8/20,OCEANIA,Shopify,C4,Existing,687,125849,2020-08-24,33,8,2024,Retirees,Couples,183.19
+24/8/20,USA,Retail,C4,Existing,40986,2227688,2020-08-24,33,8,2024,Retirees,Couples,54.35
+24/8/20,ASIA,Retail,C1,New,134550,3010765,2020-08-24,33,8,2024,"Young Adults",Couples,22.38
+24/8/20,"SOUTH AMERICA",Retail,F1,Existing,773,31067,2020-08-24,33,8,2024,"Young Adults",Family,40.19
+24/8/20,EUROPE,Shopify,C2,Existing,151,47032,2020-08-24,33,8,2024,"Middle Aged",Couples,311.47
+24/8/20,"SOUTH AMERICA",Retail,null,Existing,314,9372,2020-08-24,33,8,2024,unknown,unknown,29.85
+24/8/20,OCEANIA,Retail,C4,Existing,152920,7470104,2020-08-24,33,8,2024,Retirees,Couples,48.85
+24/8/20,USA,Shopify,C3,Existing,1420,310461,2020-08-24,33,8,2024,Retirees,Couples,218.63
+24/8/20,EUROPE,Shopify,C4,Existing,20,6265,2020-08-24,33,8,2024,Retirees,Couples,313.25
+24/8/20,AFRICA,Retail,C2,Existing,113188,4841694,2020-08-24,33,8,2024,"Middle Aged",Couples,42.78
+24/8/20,ASIA,Retail,C4,New,53411,1547953,2020-08-24,33,8,2024,Retirees,Couples,28.98
+24/8/20,"SOUTH AMERICA",Retail,C1,New,2393,52387,2020-08-24,33,8,2024,"Young Adults",Couples,21.89
+24/8/20,USA,Shopify,C2,New,238,36620,2020-08-24,33,8,2024,"Middle Aged",Couples,153.87
+24/8/20,CANADA,Shopify,C1,Existing,555,89309,2020-08-24,33,8,2024,"Young Adults",Couples,160.92
+24/8/20,EUROPE,Retail,C3,Existing,15076,813088,2020-08-24,33,8,2024,Retirees,Couples,53.93
+24/8/20,"SOUTH AMERICA",Shopify,null,New,38,7671,2020-08-24,33,8,2024,unknown,unknown,201.87
+24/8/20,"SOUTH AMERICA",Retail,C1,Existing,3053,82693,2020-08-24,33,8,2024,"Young Adults",Couples,27.09
+24/8/20,AFRICA,Shopify,C2,New,386,58239,2020-08-24,33,8,2024,"Middle Aged",Couples,150.88
+24/8/20,OCEANIA,Retail,F2,Existing,348114,18083790,2020-08-24,33,8,2024,"Middle Aged",Family,51.95
+24/8/20,CANADA,Retail,F1,New,6852,266751,2020-08-24,33,8,2024,"Young Adults",Family,38.93
+24/8/20,EUROPE,Retail,F1,Existing,6739,378826,2020-08-24,33,8,2024,"Young Adults",Family,56.21
+24/8/20,ASIA,Retail,null,New,64558,2208090,2020-08-24,33,8,2024,unknown,unknown,34.20
+24/8/20,EUROPE,Retail,F2,New,1652,74178,2020-08-24,33,8,2024,"Middle Aged",Family,44.90
+24/8/20,"SOUTH AMERICA",Retail,F1,New,292,11098,2020-08-24,33,8,2024,"Young Adults",Family,38.01
+24/8/20,CANADA,Shopify,C3,Existing,799,152027,2020-08-24,33,8,2024,Retirees,Couples,190.27
+24/8/20,EUROPE,Retail,C1,Existing,14862,625492,2020-08-24,33,8,2024,"Young Adults",Couples,42.09
+24/8/20,AFRICA,Shopify,null,Existing,338,66080,2020-08-24,33,8,2024,unknown,unknown,195.50
+24/8/20,OCEANIA,Retail,C1,Existing,261672,9346295,2020-08-24,33,8,2024,"Young Adults",Couples,35.72
+24/8/20,"SOUTH AMERICA",Shopify,C3,New,17,2140,2020-08-24,33,8,2024,Retirees,Couples,125.88
+24/8/20,CANADA,Shopify,F1,New,55,8698,2020-08-24,33,8,2024,"Young Adults",Family,158.15
+24/8/20,CANADA,Retail,F3,New,19493,680924,2020-08-24,33,8,2024,Retirees,Family,34.93
+24/8/20,USA,Retail,C4,New,18943,679544,2020-08-24,33,8,2024,Retirees,Couples,35.87
+24/8/20,"SOUTH AMERICA",Retail,C4,New,279,10733,2020-08-24,33,8,2024,Retirees,Couples,38.47
+24/8/20,"SOUTH AMERICA",Retail,null,New,1202,42883,2020-08-24,33,8,2024,unknown,unknown,35.68
+24/8/20,"SOUTH AMERICA",Shopify,F1,New,7,1292,2020-08-24,33,8,2024,"Young Adults",Family,184.57
+24/8/20,"SOUTH AMERICA",Shopify,F3,Existing,36,8036,2020-08-24,33,8,2024,Retirees,Family,223.22
+24/8/20,USA,Shopify,C4,New,28,4463,2020-08-24,33,8,2024,Retirees,Couples,159.39
+24/8/20,EUROPE,Retail,F2,Existing,14483,840537,2020-08-24,33,8,2024,"Middle Aged",Family,58.04
+24/8/20,USA,Retail,F3,New,29273,1096534,2020-08-24,33,8,2024,Retirees,Family,37.46
+24/8/20,EUROPE,Shopify,C1,Existing,96,20686,2020-08-24,33,8,2024,"Young Adults",Couples,215.48
+24/8/20,OCEANIA,Shopify,null,Guest,10804,1931973,2020-08-24,33,8,2024,unknown,unknown,178.82
+24/8/20,USA,Retail,F2,Existing,96492,5452817,2020-08-24,33,8,2024,"Middle Aged",Family,56.51
+24/8/20,USA,Shopify,null,New,128,20669,2020-08-24,33,8,2024,unknown,unknown,161.48
+24/8/20,USA,Retail,C1,Existing,58184,2456263,2020-08-24,33,8,2024,"Young Adults",Couples,42.22
+24/8/20,EUROPE,Retail,C2,New,2918,106346,2020-08-24,33,8,2024,"Middle Aged",Couples,36.44
+24/8/20,"SOUTH AMERICA",Shopify,F2,New,5,641,2020-08-24,33,8,2024,"Middle Aged",Family,128.20
+24/8/20,AFRICA,Retail,F2,New,65760,2337007,2020-08-24,33,8,2024,"Middle Aged",Family,35.54
+24/8/20,ASIA,Retail,F1,Existing,94451,4573475,2020-08-24,33,8,2024,"Young Adults",Family,48.42
+24/8/20,AFRICA,Retail,F2,Existing,279576,14854110,2020-08-24,33,8,2024,"Middle Aged",Family,53.13
+24/8/20,CANADA,Retail,C2,Existing,23267,1015278,2020-08-24,33,8,2024,"Middle Aged",Couples,43.64
+24/8/20,AFRICA,Retail,C1,Existing,188391,6906988,2020-08-24,33,8,2024,"Young Adults",Couples,36.66
+24/8/20,ASIA,Shopify,F2,New,239,34728,2020-08-24,33,8,2024,"Middle Aged",Family,145.31
+24/8/20,ASIA,Retail,C3,New,121636,3741035,2020-08-24,33,8,2024,Retirees,Couples,30.76
+24/8/20,ASIA,Retail,F3,New,90129,2819086,2020-08-24,33,8,2024,Retirees,Family,31.28
+24/8/20,CANADA,Retail,F2,Existing,61805,3241876,2020-08-24,33,8,2024,"Middle Aged",Family,52.45
+24/8/20,EUROPE,Retail,F3,New,1735,71648,2020-08-24,33,8,2024,Retirees,Family,41.30
+24/8/20,ASIA,Shopify,C4,Existing,287,52221,2020-08-24,33,8,2024,Retirees,Couples,181.95
+24/8/20,"SOUTH AMERICA",Shopify,F3,New,4,809,2020-08-24,33,8,2024,Retirees,Family,202.25
+24/8/20,EUROPE,Shopify,null,New,14,3630,2020-08-24,33,8,2024,unknown,unknown,259.29
+24/8/20,CANADA,Retail,C1,Existing,56667,2280564,2020-08-24,33,8,2024,"Young Adults",Couples,40.25
+24/8/20,OCEANIA,Shopify,null,Existing,563,115870,2020-08-24,33,8,2024,unknown,unknown,205.81
+24/8/20,AFRICA,Shopify,null,Guest,5776,1033296,2020-08-24,33,8,2024,unknown,unknown,178.89
+24/8/20,AFRICA,Shopify,C2,Existing,2603,500046,2020-08-24,33,8,2024,"Middle Aged",Couples,192.10
+24/8/20,EUROPE,Shopify,F3,Existing,113,29492,2020-08-24,33,8,2024,Retirees,Family,260.99
+24/8/20,CANADA,Shopify,C2,New,93,14157,2020-08-24,33,8,2024,"Middle Aged",Couples,152.23
+24/8/20,"SOUTH AMERICA",Retail,F3,Existing,1330,64047,2020-08-24,33,8,2024,Retirees,Family,48.16
+24/8/20,USA,Shopify,C3,New,160,26524,2020-08-24,33,8,2024,Retirees,Couples,165.78
+24/8/20,OCEANIA,Retail,null,Guest,2433987,64142815,2020-08-24,33,8,2024,unknown,unknown,26.35
+24/8/20,ASIA,Shopify,C1,Existing,1254,214075,2020-08-24,33,8,2024,"Young Adults",Couples,170.71
+24/8/20,AFRICA,Shopify,null,New,311,54039,2020-08-24,33,8,2024,unknown,unknown,173.76
+24/8/20,OCEANIA,Retail,F1,Existing,146120,7374481,2020-08-24,33,8,2024,"Young Adults",Family,50.47
+24/8/20,AFRICA,Retail,C4,New,47161,1561210,2020-08-24,33,8,2024,Retirees,Couples,33.10
+24/8/20,EUROPE,Retail,C2,Existing,9838,469133,2020-08-24,33,8,2024,"Middle Aged",Couples,47.69
+24/8/20,"SOUTH AMERICA",Shopify,C1,Existing,67,11980,2020-08-24,33,8,2024,"Young Adults",Couples,178.81
+24/8/20,OCEANIA,Retail,C3,Existing,343102,16616246,2020-08-24,33,8,2024,Retirees,Couples,48.43
+24/8/20,EUROPE,Shopify,C3,Existing,159,43242,2020-08-24,33,8,2024,Retirees,Couples,271.96
+24/8/20,ASIA,Retail,F2,Existing,220882,10645503,2020-08-24,33,8,2024,"Middle Aged",Family,48.20
+24/8/20,AFRICA,Retail,F3,Existing,407927,22769738,2020-08-24,33,8,2024,Retirees,Family,55.82
+24/8/20,ASIA,Retail,F3,Existing,403795,20476242,2020-08-24,33,8,2024,Retirees,Family,50.71
+24/8/20,OCEANIA,Retail,F1,New,42198,1524244,2020-08-24,33,8,2024,"Young Adults",Family,36.12
+24/8/20,EUROPE,Shopify,F1,New,6,1407,2020-08-24,33,8,2024,"Young Adults",Family,234.50
+24/8/20,CANADA,Retail,C2,New,15253,528808,2020-08-24,33,8,2024,"Middle Aged",Couples,34.67
+24/8/20,AFRICA,Shopify,C3,New,315,53692,2020-08-24,33,8,2024,Retirees,Couples,170.45
+24/8/20,OCEANIA,Shopify,F3,New,192,33223,2020-08-24,33,8,2024,Retirees,Family,173.04
+24/8/20,AFRICA,Shopify,C4,Existing,404,78136,2020-08-24,33,8,2024,Retirees,Couples,193.41
+24/8/20,"SOUTH AMERICA",Retail,null,Guest,405864,16290625,2020-08-24,33,8,2024,unknown,unknown,40.14
+24/8/20,USA,Retail,C2,New,27156,996924,2020-08-24,33,8,2024,"Middle Aged",Couples,36.71
+24/8/20,"SOUTH AMERICA",Shopify,F1,Existing,64,13714,2020-08-24,33,8,2024,"Young Adults",Family,214.28
+24/8/20,OCEANIA,Retail,C1,New,176101,4182786,2020-08-24,33,8,2024,"Young Adults",Couples,23.75
+24/8/20,EUROPE,Shopify,C1,New,14,2836,2020-08-24,33,8,2024,"Young Adults",Couples,202.57
+24/8/20,ASIA,Shopify,C2,Existing,2297,413897,2020-08-24,33,8,2024,"Middle Aged",Couples,180.19
+24/8/20,USA,Shopify,F3,New,52,9137,2020-08-24,33,8,2024,Retirees,Family,175.71
+24/8/20,EUROPE,Retail,C3,New,3841,159543,2020-08-24,33,8,2024,Retirees,Couples,41.54
+24/8/20,CANADA,Retail,F1,Existing,24088,1298505,2020-08-24,33,8,2024,"Young Adults",Family,53.91
+24/8/20,CANADA,Retail,null,Guest,394587,10941951,2020-08-24,33,8,2024,unknown,unknown,27.73
+24/8/20,USA,Shopify,F3,Existing,974,207813,2020-08-24,33,8,2024,Retirees,Family,213.36
+24/8/20,AFRICA,Retail,F1,Existing,98813,5239692,2020-08-24,33,8,2024,"Young Adults",Family,53.03
+24/8/20,OCEANIA,Retail,C2,New,112315,3330717,2020-08-24,33,8,2024,"Middle Aged",Couples,29.66
+24/8/20,USA,Retail,F1,New,12337,537132,2020-08-24,33,8,2024,"Young Adults",Family,43.54
+24/8/20,EUROPE,Shopify,C2,New,12,3280,2020-08-24,33,8,2024,"Middle Aged",Couples,273.33
+24/8/20,USA,Retail,C3,Existing,103120,5765461,2020-08-24,33,8,2024,Retirees,Couples,55.91
+24/8/20,EUROPE,Retail,C4,Existing,4953,266237,2020-08-24,33,8,2024,Retirees,Couples,53.75
+24/8/20,CANADA,Shopify,F3,Existing,650,131072,2020-08-24,33,8,2024,Retirees,Family,201.65
+24/8/20,CANADA,Shopify,C1,New,80,10467,2020-08-24,33,8,2024,"Young Adults",Couples,130.84
+24/8/20,"SOUTH AMERICA",Shopify,C2,Existing,124,25194,2020-08-24,33,8,2024,"Middle Aged",Couples,203.18
+24/8/20,USA,Retail,C3,New,47022,1797843,2020-08-24,33,8,2024,Retirees,Couples,38.23
+24/8/20,"SOUTH AMERICA",Retail,C3,New,952,38345,2020-08-24,33,8,2024,Retirees,Couples,40.28
+24/8/20,ASIA,Retail,C1,Existing,188753,6315069,2020-08-24,33,8,2024,"Young Adults",Couples,33.46
+24/8/20,EUROPE,Retail,null,New,2962,129020,2020-08-24,33,8,2024,unknown,unknown,43.56
+24/8/20,AFRICA,Retail,C2,New,58705,1860988,2020-08-24,33,8,2024,"Middle Aged",Couples,31.70
+24/8/20,AFRICA,Shopify,F3,Existing,2331,486331,2020-08-24,33,8,2024,Retirees,Family,208.64
+24/8/20,ASIA,Shopify,F1,New,208,28542,2020-08-24,33,8,2024,"Young Adults",Family,137.22
+24/8/20,"SOUTH AMERICA",Shopify,C3,Existing,91,18712,2020-08-24,33,8,2024,Retirees,Couples,205.63
+24/8/20,OCEANIA,Retail,C3,New,155586,5133194,2020-08-24,33,8,2024,Retirees,Couples,32.99
+24/8/20,ASIA,Retail,C2,New,87964,2462103,2020-08-24,33,8,2024,"Middle Aged",Couples,27.99
+24/8/20,EUROPE,Retail,C4,New,1374,50412,2020-08-24,33,8,2024,Retirees,Couples,36.69
+24/8/20,USA,Retail,C1,New,37271,1064389,2020-08-24,33,8,2024,"Young Adults",Couples,28.56
+24/8/20,USA,Retail,null,Existing,13157,697708,2020-08-24,33,8,2024,unknown,unknown,53.03
+24/8/20,AFRICA,Retail,C3,New,111964,3967870,2020-08-24,33,8,2024,Retirees,Couples,35.44
+24/8/20,ASIA,Retail,F1,New,31513,1032953,2020-08-24,33,8,2024,"Young Adults",Family,32.78
+24/8/20,OCEANIA,Shopify,C2,Existing,4527,863537,2020-08-24,33,8,2024,"Middle Aged",Couples,190.75
+24/8/20,USA,Shopify,F1,Existing,1334,258305,2020-08-24,33,8,2024,"Young Adults",Family,193.63
+24/8/20,EUROPE,Retail,C1,New,4520,135256,2020-08-24,33,8,2024,"Young Adults",Couples,29.92
+24/8/20,CANADA,Shopify,C3,New,106,16974,2020-08-24,33,8,2024,Retirees,Couples,160.13
+24/8/20,OCEANIA,Retail,null,Existing,45824,1869997,2020-08-24,33,8,2024,unknown,unknown,40.81
+24/8/20,ASIA,Shopify,null,Guest,5867,976399,2020-08-24,33,8,2024,unknown,unknown,166.42
+24/8/20,EUROPE,Shopify,F2,Existing,216,47335,2020-08-24,33,8,2024,"Middle Aged",Family,219.14
+24/8/20,CANADA,Retail,null,Existing,7536,360482,2020-08-24,33,8,2024,unknown,unknown,47.83
+24/8/20,CANADA,Shopify,F1,Existing,769,133782,2020-08-24,33,8,2024,"Young Adults",Family,173.97
+24/8/20,OCEANIA,Shopify,C3,New,536,86927,2020-08-24,33,8,2024,Retirees,Couples,162.18
+24/8/20,ASIA,Shopify,F3,New,115,17670,2020-08-24,33,8,2024,Retirees,Family,153.65
+24/8/20,"SOUTH AMERICA",Retail,C2,Existing,987,38556,2020-08-24,33,8,2024,"Middle Aged",Couples,39.06
+24/8/20,"SOUTH AMERICA",Shopify,C4,New,4,486,2020-08-24,33,8,2024,Retirees,Couples,121.50
+24/8/20,ASIA,Retail,null,Guest,1912461,48873892,2020-08-24,33,8,2024,unknown,unknown,25.56
+24/8/20,OCEANIA,Retail,F2,New,92755,3192813,2020-08-24,33,8,2024,"Middle Aged",Family,34.42
+24/8/20,OCEANIA,Shopify,F2,New,413,64341,2020-08-24,33,8,2024,"Middle Aged",Family,155.79
+24/8/20,USA,Shopify,F1,New,130,20685,2020-08-24,33,8,2024,"Young Adults",Family,159.12
+24/8/20,USA,Retail,null,Guest,527116,16395314,2020-08-24,33,8,2024,unknown,unknown,31.10
+24/8/20,ASIA,Shopify,F3,Existing,1879,387214,2020-08-24,33,8,2024,Retirees,Family,206.07
+24/8/20,OCEANIA,Shopify,F1,New,365,55996,2020-08-24,33,8,2024,"Young Adults",Family,153.41
+24/8/20,OCEANIA,Shopify,F1,Existing,4361,836190,2020-08-24,33,8,2024,"Young Adults",Family,191.74
+24/8/20,EUROPE,Shopify,null,Guest,370,89676,2020-08-24,33,8,2024,unknown,unknown,242.37
+24/8/20,CANADA,Retail,C3,Existing,62514,3154333,2020-08-24,33,8,2024,Retirees,Couples,50.46
+24/8/20,CANADA,Shopify,null,Guest,1697,288470,2020-08-24,33,8,2024,unknown,unknown,169.99
+24/8/20,OCEANIA,Shopify,F3,Existing,3720,777026,2020-08-24,33,8,2024,Retirees,Family,208.88
+24/8/20,AFRICA,Retail,C1,New,99449,2478289,2020-08-24,33,8,2024,"Young Adults",Couples,24.92
+24/8/20,ASIA,Shopify,null,Existing,375,70227,2020-08-24,33,8,2024,unknown,unknown,187.27
+24/8/20,CANADA,Retail,F3,Existing,94749,5212768,2020-08-24,33,8,2024,Retirees,Family,55.02
+24/8/20,USA,Shopify,C2,Existing,1367,267523,2020-08-24,33,8,2024,"Middle Aged",Couples,195.70
+24/8/20,ASIA,Shopify,C3,Existing,2056,408353,2020-08-24,33,8,2024,Retirees,Couples,198.62
+24/8/20,OCEANIA,Shopify,C1,New,478,67176,2020-08-24,33,8,2024,"Young Adults",Couples,140.54
+24/8/20,"SOUTH AMERICA",Retail,C3,Existing,1355,64705,2020-08-24,33,8,2024,Retirees,Couples,47.75
+24/8/20,EUROPE,Shopify,F2,New,4,679,2020-08-24,33,8,2024,"Middle Aged",Family,169.75
+24/8/20,OCEANIA,Shopify,C3,Existing,4465,914171,2020-08-24,33,8,2024,Retirees,Couples,204.74
+24/8/20,AFRICA,Shopify,F1,New,190,29672,2020-08-24,33,8,2024,"Young Adults",Family,156.17
+24/8/20,"SOUTH AMERICA",Retail,C4,Existing,363,17632,2020-08-24,33,8,2024,Retirees,Couples,48.57
+24/8/20,AFRICA,Retail,F1,New,23414,885333,2020-08-24,33,8,2024,"Young Adults",Family,37.81
+24/8/20,CANADA,Shopify,C4,New,14,1685,2020-08-24,33,8,2024,Retirees,Couples,120.36
+24/8/20,"SOUTH AMERICA",Shopify,null,Guest,2035,386494,2020-08-24,33,8,2024,unknown,unknown,189.92
+24/8/20,OCEANIA,Retail,F3,New,112414,3787305,2020-08-24,33,8,2024,Retirees,Family,33.69
+24/8/20,EUROPE,Shopify,F3,New,2,318,2020-08-24,33,8,2024,Retirees,Family,159.00
+24/8/20,ASIA,Retail,C4,Existing,110173,4928018,2020-08-24,33,8,2024,Retirees,Couples,44.73
+24/8/20,USA,Retail,F3,Existing,143829,8667351,2020-08-24,33,8,2024,Retirees,Family,60.26
+24/8/20,"SOUTH AMERICA",Retail,F3,New,325,11312,2020-08-24,33,8,2024,Retirees,Family,34.81
+24/8/20,CANADA,Shopify,F2,New,104,17346,2020-08-24,33,8,2024,"Middle Aged",Family,166.79
+24/8/20,AFRICA,Shopify,F3,New,120,18969,2020-08-24,33,8,2024,Retirees,Family,158.08
+24/8/20,AFRICA,Retail,C4,Existing,118980,6032018,2020-08-24,33,8,2024,Retirees,Couples,50.70
+24/8/20,USA,Shopify,null,Guest,2535,457814,2020-08-24,33,8,2024,unknown,unknown,180.60
+24/8/20,EUROPE,Shopify,null,Existing,16,4271,2020-08-24,33,8,2024,unknown,unknown,266.94
+24/8/20,CANADA,Retail,C3,New,29000,1015962,2020-08-24,33,8,2024,Retirees,Couples,35.03
+24/8/20,USA,Retail,C2,Existing,43328,2165779,2020-08-24,33,8,2024,"Middle Aged",Couples,49.99
+24/8/20,CANADA,Retail,null,New,14408,557640,2020-08-24,33,8,2024,unknown,unknown,38.70
+24/8/20,ASIA,Shopify,C2,New,446,60937,2020-08-24,33,8,2024,"Middle Aged",Couples,136.63
+24/8/20,OCEANIA,Retail,null,New,81630,2814143,2020-08-24,33,8,2024,unknown,unknown,34.47
+24/8/20,AFRICA,Retail,null,Existing,34476,1488390,2020-08-24,33,8,2024,unknown,unknown,43.17
+24/8/20,OCEANIA,Retail,F3,Existing,556915,30166464,2020-08-24,33,8,2024,Retirees,Family,54.17
+24/8/20,ASIA,Retail,null,Existing,35097,1414999,2020-08-24,33,8,2024,unknown,unknown,40.32
+24/8/20,AFRICA,Shopify,C3,Existing,2677,546690,2020-08-24,33,8,2024,Retirees,Couples,204.22
+24/8/20,ASIA,Retail,F2,New,70410,2267164,2020-08-24,33,8,2024,"Middle Aged",Family,32.20
+24/8/20,ASIA,Shopify,F1,Existing,2149,383717,2020-08-24,33,8,2024,"Young Adults",Family,178.56
+24/8/20,AFRICA,Shopify,F2,New,265,41345,2020-08-24,33,8,2024,"Middle Aged",Family,156.02
+24/8/20,AFRICA,Retail,null,New,56867,2211329,2020-08-24,33,8,2024,unknown,unknown,38.89
+24/8/20,USA,Shopify,F2,New,147,24784,2020-08-24,33,8,2024,"Middle Aged",Family,168.60
+17/8/20,AFRICA,Retail,C2,New,58185,1773019,2020-08-17,34,8,2017,"Middle Aged",Couples,30.47
+17/8/20,USA,Retail,null,Guest,522222,16139861,2020-08-17,34,8,2017,unknown,unknown,30.91
+17/8/20,EUROPE,Shopify,F3,New,2,199,2020-08-17,34,8,2017,Retirees,Family,99.50
+17/8/20,AFRICA,Retail,C3,New,110560,3828901,2020-08-17,34,8,2017,Retirees,Couples,34.63
+17/8/20,"SOUTH AMERICA",Retail,C2,Existing,1057,40596,2020-08-17,34,8,2017,"Middle Aged",Couples,38.41
+17/8/20,USA,Shopify,C4,New,25,4001,2020-08-17,34,8,2017,Retirees,Couples,160.04
+17/8/20,EUROPE,Retail,C3,New,3943,166106,2020-08-17,34,8,2017,Retirees,Couples,42.13
+17/8/20,CANADA,Retail,null,Guest,394129,10905332,2020-08-17,34,8,2017,unknown,unknown,27.67
+17/8/20,ASIA,Retail,F3,New,86288,2644212,2020-08-17,34,8,2017,Retirees,Family,30.64
+17/8/20,EUROPE,Shopify,F3,Existing,125,32059,2020-08-17,34,8,2017,Retirees,Family,256.47
+17/8/20,ASIA,Shopify,C3,Existing,2023,398543,2020-08-17,34,8,2017,Retirees,Couples,197.01
+17/8/20,OCEANIA,Shopify,C2,Existing,4440,835663,2020-08-17,34,8,2017,"Middle Aged",Couples,188.21
+17/8/20,USA,Shopify,F1,Existing,1318,244502,2020-08-17,34,8,2017,"Young Adults",Family,185.51
+17/8/20,AFRICA,Shopify,F3,Existing,2391,486614,2020-08-17,34,8,2017,Retirees,Family,203.52
+17/8/20,OCEANIA,Shopify,C4,New,100,13673,2020-08-17,34,8,2017,Retirees,Couples,136.73
+17/8/20,EUROPE,Shopify,C2,Existing,160,50681,2020-08-17,34,8,2017,"Middle Aged",Couples,316.76
+17/8/20,OCEANIA,Shopify,F1,Existing,4324,800804,2020-08-17,34,8,2017,"Young Adults",Family,185.20
+17/8/20,EUROPE,Shopify,F2,New,8,1412,2020-08-17,34,8,2017,"Middle Aged",Family,176.50
+17/8/20,"SOUTH AMERICA",Shopify,null,New,47,8678,2020-08-17,34,8,2017,unknown,unknown,184.64
+17/8/20,"SOUTH AMERICA",Retail,C4,New,257,9779,2020-08-17,34,8,2017,Retirees,Couples,38.05
+17/8/20,USA,Shopify,F2,New,146,22610,2020-08-17,34,8,2017,"Middle Aged",Family,154.86
+17/8/20,CANADA,Retail,F2,New,17290,596390,2020-08-17,34,8,2017,"Middle Aged",Family,34.49
+17/8/20,"SOUTH AMERICA",Shopify,F2,Existing,38,7745,2020-08-17,34,8,2017,"Middle Aged",Family,203.82
+17/8/20,OCEANIA,Retail,F3,Existing,547839,29942596,2020-08-17,34,8,2017,Retirees,Family,54.66
+17/8/20,ASIA,Retail,null,Existing,31425,1266247,2020-08-17,34,8,2017,unknown,unknown,40.29
+17/8/20,AFRICA,Retail,F1,Existing,97251,5073372,2020-08-17,34,8,2017,"Young Adults",Family,52.17
+17/8/20,ASIA,Retail,C3,Existing,241748,10896424,2020-08-17,34,8,2017,Retirees,Couples,45.07
+17/8/20,AFRICA,Shopify,C2,Existing,2472,466859,2020-08-17,34,8,2017,"Middle Aged",Couples,188.86
+17/8/20,ASIA,Retail,F1,New,29713,916054,2020-08-17,34,8,2017,"Young Adults",Family,30.83
+17/8/20,ASIA,Retail,F2,New,67417,2037182,2020-08-17,34,8,2017,"Middle Aged",Family,30.22
+17/8/20,USA,Shopify,F2,Existing,1913,373940,2020-08-17,34,8,2017,"Middle Aged",Family,195.47
+17/8/20,OCEANIA,Shopify,F2,New,393,65504,2020-08-17,34,8,2017,"Middle Aged",Family,166.68
+17/8/20,AFRICA,Retail,F3,Existing,406435,22773234,2020-08-17,34,8,2017,Retirees,Family,56.03
+17/8/20,OCEANIA,Shopify,C3,Existing,4507,913223,2020-08-17,34,8,2017,Retirees,Couples,202.62
+17/8/20,USA,Retail,F2,New,27467,983842,2020-08-17,34,8,2017,"Middle Aged",Family,35.82
+17/8/20,"SOUTH AMERICA",Retail,F2,New,408,14221,2020-08-17,34,8,2017,"Middle Aged",Family,34.86
+17/8/20,"SOUTH AMERICA",Retail,F1,Existing,781,32930,2020-08-17,34,8,2017,"Young Adults",Family,42.16
+17/8/20,CANADA,Shopify,C4,Existing,105,18084,2020-08-17,34,8,2017,Retirees,Couples,172.23
+17/8/20,USA,Shopify,C1,New,141,21468,2020-08-17,34,8,2017,"Young Adults",Couples,152.26
+17/8/20,EUROPE,Retail,C4,Existing,5022,265997,2020-08-17,34,8,2017,Retirees,Couples,52.97
+17/8/20,"SOUTH AMERICA",Retail,C3,Existing,1315,60436,2020-08-17,34,8,2017,Retirees,Couples,45.96
+17/8/20,OCEANIA,Retail,null,Existing,41040,1675283,2020-08-17,34,8,2017,unknown,unknown,40.82
+17/8/20,EUROPE,Shopify,null,Existing,14,3020,2020-08-17,34,8,2017,unknown,unknown,215.71
+17/8/20,"SOUTH AMERICA",Retail,null,New,1212,41059,2020-08-17,34,8,2017,unknown,unknown,33.88
+17/8/20,CANADA,Retail,F1,Existing,23679,1250772,2020-08-17,34,8,2017,"Young Adults",Family,52.82
+17/8/20,AFRICA,Shopify,null,Guest,5686,1002507,2020-08-17,34,8,2017,unknown,unknown,176.31
+17/8/20,ASIA,Retail,null,Guest,1902128,47810123,2020-08-17,34,8,2017,unknown,unknown,25.14
+17/8/20,AFRICA,Retail,F2,New,63188,2153208,2020-08-17,34,8,2017,"Middle Aged",Family,34.08
+17/8/20,EUROPE,Retail,F3,Existing,18778,1134144,2020-08-17,34,8,2017,Retirees,Family,60.40
+17/8/20,ASIA,Retail,F3,Existing,396928,19877010,2020-08-17,34,8,2017,Retirees,Family,50.08
+17/8/20,OCEANIA,Retail,F1,New,39578,1277367,2020-08-17,34,8,2017,"Young Adults",Family,32.27
+17/8/20,CANADA,Retail,F3,Existing,94458,5273053,2020-08-17,34,8,2017,Retirees,Family,55.82
+17/8/20,"SOUTH AMERICA",Shopify,C4,Existing,7,1699,2020-08-17,34,8,2017,Retirees,Couples,242.71
+17/8/20,ASIA,Shopify,F1,Existing,2072,355884,2020-08-17,34,8,2017,"Young Adults",Family,171.76
+17/8/20,AFRICA,Shopify,F2,New,251,41827,2020-08-17,34,8,2017,"Middle Aged",Family,166.64
+17/8/20,OCEANIA,Retail,F3,New,108535,3617509,2020-08-17,34,8,2017,Retirees,Family,33.33
+17/8/20,CANADA,Shopify,C1,New,89,10924,2020-08-17,34,8,2017,"Young Adults",Couples,122.74
+17/8/20,CANADA,Retail,C4,Existing,29124,1446964,2020-08-17,34,8,2017,Retirees,Couples,49.68
+17/8/20,ASIA,Shopify,C1,Existing,1299,212219,2020-08-17,34,8,2017,"Young Adults",Couples,163.37
+17/8/20,AFRICA,Shopify,C3,Existing,2637,524853,2020-08-17,34,8,2017,Retirees,Couples,199.03
+17/8/20,"SOUTH AMERICA",Retail,C3,New,890,31608,2020-08-17,34,8,2017,Retirees,Couples,35.51
+17/8/20,EUROPE,Retail,C4,New,1500,58876,2020-08-17,34,8,2017,Retirees,Couples,39.25
+17/8/20,ASIA,Shopify,C4,Existing,294,53030,2020-08-17,34,8,2017,Retirees,Couples,180.37
+17/8/20,OCEANIA,Retail,null,New,78921,2729635,2020-08-17,34,8,2017,unknown,unknown,34.59
+17/8/20,EUROPE,Shopify,null,New,12,2224,2020-08-17,34,8,2017,unknown,unknown,185.33
+17/8/20,EUROPE,Retail,F1,New,905,38114,2020-08-17,34,8,2017,"Young Adults",Family,42.11
+17/8/20,EUROPE,Shopify,null,Guest,337,84305,2020-08-17,34,8,2017,unknown,unknown,250.16
+17/8/20,EUROPE,Retail,F3,New,1748,74690,2020-08-17,34,8,2017,Retirees,Family,42.73
+17/8/20,CANADA,Retail,F2,Existing,61465,3274278,2020-08-17,34,8,2017,"Middle Aged",Family,53.27
+17/8/20,CANADA,Shopify,C4,New,13,1633,2020-08-17,34,8,2017,Retirees,Couples,125.62
+17/8/20,EUROPE,Shopify,F1,New,5,1068,2020-08-17,34,8,2017,"Young Adults",Family,213.60
+17/8/20,OCEANIA,Retail,F1,Existing,142729,7066700,2020-08-17,34,8,2017,"Young Adults",Family,49.51
+17/8/20,CANADA,Shopify,null,Existing,73,12192,2020-08-17,34,8,2017,unknown,unknown,167.01
+17/8/20,ASIA,Shopify,F2,Existing,2966,556672,2020-08-17,34,8,2017,"Middle Aged",Family,187.68
+17/8/20,AFRICA,Shopify,C4,New,64,9569,2020-08-17,34,8,2017,Retirees,Couples,149.52
+17/8/20,OCEANIA,Retail,C4,New,63555,1931124,2020-08-17,34,8,2017,Retirees,Couples,30.39
+17/8/20,EUROPE,Retail,C2,Existing,9865,471211,2020-08-17,34,8,2017,"Middle Aged",Couples,47.77
+17/8/20,EUROPE,Shopify,C4,New,2,593,2020-08-17,34,8,2017,Retirees,Couples,296.50
+17/8/20,AFRICA,Shopify,C3,New,308,46232,2020-08-17,34,8,2017,Retirees,Couples,150.10
+17/8/20,USA,Retail,C2,New,25953,880164,2020-08-17,34,8,2017,"Middle Aged",Couples,33.91
+17/8/20,AFRICA,Retail,F1,New,22013,766933,2020-08-17,34,8,2017,"Young Adults",Family,34.84
+17/8/20,CANADA,Retail,C2,New,14892,483235,2020-08-17,34,8,2017,"Middle Aged",Couples,32.45
+17/8/20,AFRICA,Retail,null,New,55825,2166279,2020-08-17,34,8,2017,unknown,unknown,38.80
+17/8/20,OCEANIA,Shopify,F3,New,195,35185,2020-08-17,34,8,2017,Retirees,Family,180.44
+17/8/20,ASIA,Shopify,C2,New,434,61480,2020-08-17,34,8,2017,"Middle Aged",Couples,141.66
+17/8/20,ASIA,Retail,C4,New,51138,1441867,2020-08-17,34,8,2017,Retirees,Couples,28.20
+17/8/20,"SOUTH AMERICA",Retail,C1,New,2471,52721,2020-08-17,34,8,2017,"Young Adults",Couples,21.34
+17/8/20,OCEANIA,Retail,C2,Existing,167670,6472772,2020-08-17,34,8,2017,"Middle Aged",Couples,38.60
+17/8/20,USA,Retail,F1,Existing,39435,2224654,2020-08-17,34,8,2017,"Young Adults",Family,56.41
+17/8/20,USA,Retail,C2,Existing,42876,2078217,2020-08-17,34,8,2017,"Middle Aged",Couples,48.47
+17/8/20,AFRICA,Retail,C2,Existing,112344,4764104,2020-08-17,34,8,2017,"Middle Aged",Couples,42.41
+17/8/20,ASIA,Retail,C2,Existing,127517,4804807,2020-08-17,34,8,2017,"Middle Aged",Couples,37.68
+17/8/20,ASIA,Shopify,C4,New,40,5799,2020-08-17,34,8,2017,Retirees,Couples,144.98
+17/8/20,CANADA,Shopify,null,New,77,12880,2020-08-17,34,8,2017,unknown,unknown,167.27
+17/8/20,"SOUTH AMERICA",Shopify,F3,Existing,25,5742,2020-08-17,34,8,2017,Retirees,Family,229.68
+17/8/20,CANADA,Retail,C3,New,27988,958584,2020-08-17,34,8,2017,Retirees,Couples,34.25
+17/8/20,"SOUTH AMERICA",Shopify,C3,Existing,100,20831,2020-08-17,34,8,2017,Retirees,Couples,208.31
+17/8/20,"SOUTH AMERICA",Shopify,F3,New,2,354,2020-08-17,34,8,2017,Retirees,Family,177.00
+17/8/20,USA,Retail,C1,Existing,57901,2396327,2020-08-17,34,8,2017,"Young Adults",Couples,41.39
+17/8/20,USA,Shopify,F3,Existing,950,196866,2020-08-17,34,8,2017,Retirees,Family,207.23
+17/8/20,EUROPE,Retail,C1,Existing,15063,659557,2020-08-17,34,8,2017,"Young Adults",Couples,43.79
+17/8/20,ASIA,Shopify,C2,Existing,2292,405589,2020-08-17,34,8,2017,"Middle Aged",Couples,176.96
+17/8/20,OCEANIA,Shopify,null,Guest,10825,1941072,2020-08-17,34,8,2017,unknown,unknown,179.31
+17/8/20,OCEANIA,Retail,C3,Existing,340247,16388534,2020-08-17,34,8,2017,Retirees,Couples,48.17
+17/8/20,ASIA,Retail,F1,Existing,92564,4369157,2020-08-17,34,8,2017,"Young Adults",Family,47.20
+17/8/20,ASIA,Shopify,C1,New,277,34274,2020-08-17,34,8,2017,"Young Adults",Couples,123.73
+17/8/20,AFRICA,Retail,C3,Existing,287567,14503756,2020-08-17,34,8,2017,Retirees,Couples,50.44
+17/8/20,EUROPE,Retail,C2,New,2972,105769,2020-08-17,34,8,2017,"Middle Aged",Couples,35.59
+17/8/20,OCEANIA,Shopify,C3,New,547,94505,2020-08-17,34,8,2017,Retirees,Couples,172.77
+17/8/20,OCEANIA,Retail,C1,New,173936,3912906,2020-08-17,34,8,2017,"Young Adults",Couples,22.50
+17/8/20,CANADA,Retail,null,Existing,6918,317465,2020-08-17,34,8,2017,unknown,unknown,45.89
+17/8/20,CANADA,Shopify,F1,Existing,760,128297,2020-08-17,34,8,2017,"Young Adults",Family,168.81
+17/8/20,CANADA,Shopify,F3,Existing,658,123399,2020-08-17,34,8,2017,Retirees,Family,187.54
+17/8/20,"SOUTH AMERICA",Shopify,C2,Existing,139,28697,2020-08-17,34,8,2017,"Middle Aged",Couples,206.45
+17/8/20,CANADA,Retail,C3,Existing,61676,3137725,2020-08-17,34,8,2017,Retirees,Couples,50.87
+17/8/20,USA,Shopify,null,New,134,22123,2020-08-17,34,8,2017,unknown,unknown,165.10
+17/8/20,"SOUTH AMERICA",Shopify,C1,New,16,2710,2020-08-17,34,8,2017,"Young Adults",Couples,169.38
+17/8/20,OCEANIA,Shopify,null,New,521,87587,2020-08-17,34,8,2017,unknown,unknown,168.11
+17/8/20,"SOUTH AMERICA",Shopify,C2,New,40,6347,2020-08-17,34,8,2017,"Middle Aged",Couples,158.68
+17/8/20,USA,Shopify,C2,Existing,1375,268347,2020-08-17,34,8,2017,"Middle Aged",Couples,195.16
+17/8/20,"SOUTH AMERICA",Shopify,F1,Existing,70,16176,2020-08-17,34,8,2017,"Young Adults",Family,231.09
+17/8/20,OCEANIA,Retail,F2,New,88458,2921332,2020-08-17,34,8,2017,"Middle Aged",Family,33.03
+17/8/20,CANADA,Retail,C1,New,30947,779071,2020-08-17,34,8,2017,"Young Adults",Couples,25.17
+17/8/20,"SOUTH AMERICA",Shopify,C1,Existing,73,12524,2020-08-17,34,8,2017,"Young Adults",Couples,171.56
+17/8/20,ASIA,Shopify,null,Existing,318,57614,2020-08-17,34,8,2017,unknown,unknown,181.18
+17/8/20,ASIA,Retail,C4,Existing,108966,4808790,2020-08-17,34,8,2017,Retirees,Couples,44.13
+17/8/20,EUROPE,Shopify,C1,New,13,3213,2020-08-17,34,8,2017,"Young Adults",Couples,247.15
+17/8/20,AFRICA,Retail,C4,New,47020,1559841,2020-08-17,34,8,2017,Retirees,Couples,33.17
+17/8/20,USA,Retail,C3,Existing,102513,5717894,2020-08-17,34,8,2017,Retirees,Couples,55.78
+17/8/20,CANADA,Retail,F3,New,18740,644709,2020-08-17,34,8,2017,Retirees,Family,34.40
+17/8/20,ASIA,Retail,null,New,62751,2058152,2020-08-17,34,8,2017,unknown,unknown,32.80
+17/8/20,AFRICA,Retail,C4,Existing,120050,6051427,2020-08-17,34,8,2017,Retirees,Couples,50.41
+17/8/20,EUROPE,Retail,F1,Existing,6764,387318,2020-08-17,34,8,2017,"Young Adults",Family,57.26
+17/8/20,ASIA,Shopify,F1,New,171,23675,2020-08-17,34,8,2017,"Young Adults",Family,138.45
+17/8/20,EUROPE,Retail,C3,Existing,15347,845338,2020-08-17,34,8,2017,Retirees,Couples,55.08
+17/8/20,AFRICA,Retail,C1,New,98263,2416174,2020-08-17,34,8,2017,"Young Adults",Couples,24.59
+17/8/20,ASIA,Shopify,null,New,270,45713,2020-08-17,34,8,2017,unknown,unknown,169.31
+17/8/20,EUROPE,Retail,F2,Existing,14536,874082,2020-08-17,34,8,2017,"Middle Aged",Family,60.13
+17/8/20,USA,Retail,F3,New,27543,1057891,2020-08-17,34,8,2017,Retirees,Family,38.41
+17/8/20,USA,Shopify,C2,New,226,33141,2020-08-17,34,8,2017,"Middle Aged",Couples,146.64
+17/8/20,AFRICA,Shopify,F1,New,178,26023,2020-08-17,34,8,2017,"Young Adults",Family,146.20
+17/8/20,"SOUTH AMERICA",Shopify,F2,New,8,1599,2020-08-17,34,8,2017,"Middle Aged",Family,199.88
+17/8/20,ASIA,Retail,C1,Existing,186330,6123591,2020-08-17,34,8,2017,"Young Adults",Couples,32.86
+17/8/20,"SOUTH AMERICA",Retail,C4,Existing,348,15761,2020-08-17,34,8,2017,Retirees,Couples,45.29
+17/8/20,USA,Retail,C4,New,18029,621053,2020-08-17,34,8,2017,Retirees,Couples,34.45
+17/8/20,CANADA,Shopify,F3,New,35,5845,2020-08-17,34,8,2017,Retirees,Family,167.00
+17/8/20,OCEANIA,Shopify,C4,Existing,680,123917,2020-08-17,34,8,2017,Retirees,Couples,182.23
+17/8/20,OCEANIA,Retail,null,Guest,2412388,63334453,2020-08-17,34,8,2017,unknown,unknown,26.25
+17/8/20,USA,Retail,null,New,21347,894642,2020-08-17,34,8,2017,unknown,unknown,41.91
+17/8/20,EUROPE,Retail,null,Guest,98851,3448590,2020-08-17,34,8,2017,unknown,unknown,34.89
+17/8/20,"SOUTH AMERICA",Shopify,F1,New,8,1077,2020-08-17,34,8,2017,"Young Adults",Family,134.63
+17/8/20,ASIA,Retail,C2,New,85880,2200563,2020-08-17,34,8,2017,"Middle Aged",Couples,25.62
+17/8/20,"SOUTH AMERICA",Retail,null,Existing,241,7415,2020-08-17,34,8,2017,unknown,unknown,30.77
+17/8/20,ASIA,Shopify,F3,Existing,1898,368572,2020-08-17,34,8,2017,Retirees,Family,194.19
+17/8/20,OCEANIA,Shopify,F1,New,319,49916,2020-08-17,34,8,2017,"Young Adults",Family,156.48
+17/8/20,CANADA,Retail,C4,New,12616,404619,2020-08-17,34,8,2017,Retirees,Couples,32.07
+17/8/20,USA,Shopify,C4,Existing,151,27185,2020-08-17,34,8,2017,Retirees,Couples,180.03
+17/8/20,AFRICA,Shopify,C4,Existing,393,73925,2020-08-17,34,8,2017,Retirees,Couples,188.10
+17/8/20,AFRICA,Shopify,C2,New,382,55995,2020-08-17,34,8,2017,"Middle Aged",Couples,146.58
+17/8/20,ASIA,Shopify,F3,New,108,18426,2020-08-17,34,8,2017,Retirees,Family,170.61
+17/8/20,ASIA,Retail,F2,Existing,216067,10304393,2020-08-17,34,8,2017,"Middle Aged",Family,47.69
+17/8/20,AFRICA,Shopify,null,New,298,48155,2020-08-17,34,8,2017,unknown,unknown,161.59
+17/8/20,"SOUTH AMERICA",Shopify,null,Guest,2054,384548,2020-08-17,34,8,2017,unknown,unknown,187.22
+17/8/20,USA,Shopify,F3,New,50,8256,2020-08-17,34,8,2017,Retirees,Family,165.12
+17/8/20,AFRICA,Shopify,F2,Existing,4649,885237,2020-08-17,34,8,2017,"Middle Aged",Family,190.41
+17/8/20,CANADA,Shopify,C3,New,107,15916,2020-08-17,34,8,2017,Retirees,Couples,148.75
+17/8/20,USA,Retail,C1,New,36127,980601,2020-08-17,34,8,2017,"Young Adults",Couples,27.14
+17/8/20,USA,Retail,C3,New,45550,1695344,2020-08-17,34,8,2017,Retirees,Couples,37.22
+17/8/20,EUROPE,Retail,null,Existing,2834,130673,2020-08-17,34,8,2017,unknown,unknown,46.11
+17/8/20,EUROPE,Shopify,F1,Existing,144,34939,2020-08-17,34,8,2017,"Young Adults",Family,242.63
+17/8/20,CANADA,Retail,null,New,14079,545091,2020-08-17,34,8,2017,unknown,unknown,38.72
+17/8/20,CANADA,Shopify,F1,New,47,6906,2020-08-17,34,8,2017,"Young Adults",Family,146.94
+17/8/20,"SOUTH AMERICA",Shopify,null,Existing,2,187,2020-08-17,34,8,2017,unknown,unknown,93.50
+17/8/20,OCEANIA,Retail,C3,New,152071,4848872,2020-08-17,34,8,2017,Retirees,Couples,31.89
+17/8/20,EUROPE,Shopify,C3,New,16,5734,2020-08-17,34,8,2017,Retirees,Couples,358.38
+17/8/20,AFRICA,Shopify,F1,Existing,2589,469577,2020-08-17,34,8,2017,"Young Adults",Family,181.37
+17/8/20,EUROPE,Retail,F2,New,1757,73775,2020-08-17,34,8,2017,"Middle Aged",Family,41.99
+17/8/20,OCEANIA,Shopify,null,Existing,550,108996,2020-08-17,34,8,2017,unknown,unknown,198.17
+17/8/20,ASIA,Shopify,null,Guest,5780,963016,2020-08-17,34,8,2017,unknown,unknown,166.61
+17/8/20,USA,Shopify,C1,Existing,752,130572,2020-08-17,34,8,2017,"Young Adults",Couples,173.63
+17/8/20,AFRICA,Retail,null,Guest,1546278,44301952,2020-08-17,34,8,2017,unknown,unknown,28.65
+17/8/20,"SOUTH AMERICA",Retail,F1,New,255,8408,2020-08-17,34,8,2017,"Young Adults",Family,32.97
+17/8/20,EUROPE,Shopify,C2,New,21,4506,2020-08-17,34,8,2017,"Middle Aged",Couples,214.57
+17/8/20,"SOUTH AMERICA",Retail,F3,New,316,11766,2020-08-17,34,8,2017,Retirees,Family,37.23
+17/8/20,OCEANIA,Shopify,C1,Existing,2715,464078,2020-08-17,34,8,2017,"Young Adults",Couples,170.93
+17/8/20,ASIA,Retail,C1,New,133361,2838862,2020-08-17,34,8,2017,"Young Adults",Couples,21.29
+17/8/20,AFRICA,Retail,F2,Existing,275106,14564224,2020-08-17,34,8,2017,"Middle Aged",Family,52.94
+17/8/20,AFRICA,Retail,F3,New,68899,2422702,2020-08-17,34,8,2017,Retirees,Family,35.16
+17/8/20,EUROPE,Shopify,C1,Existing,115,24158,2020-08-17,34,8,2017,"Young Adults",Couples,210.07
+17/8/20,AFRICA,Shopify,F3,New,115,19159,2020-08-17,34,8,2017,Retirees,Family,166.60
+17/8/20,CANADA,Shopify,F2,New,85,13301,2020-08-17,34,8,2017,"Middle Aged",Family,156.48
+17/8/20,CANADA,Shopify,F2,Existing,1288,239332,2020-08-17,34,8,2017,"Middle Aged",Family,185.82
+17/8/20,OCEANIA,Retail,F2,Existing,340742,17601663,2020-08-17,34,8,2017,"Middle Aged",Family,51.66
+17/8/20,EUROPE,Shopify,F2,Existing,242,52204,2020-08-17,34,8,2017,"Middle Aged",Family,215.72
+17/8/20,USA,Retail,null,Existing,11812,581819,2020-08-17,34,8,2017,unknown,unknown,49.26
+17/8/20,CANADA,Retail,F1,New,6634,237160,2020-08-17,34,8,2017,"Young Adults",Family,35.75
+17/8/20,CANADA,Shopify,C2,Existing,734,128072,2020-08-17,34,8,2017,"Middle Aged",Couples,174.49
+17/8/20,USA,Retail,C4,Existing,40439,2165593,2020-08-17,34,8,2017,Retirees,Couples,53.55
+17/8/20,OCEANIA,Shopify,C2,New,737,114229,2020-08-17,34,8,2017,"Middle Aged",Couples,154.99
+17/8/20,USA,Shopify,F1,New,117,18101,2020-08-17,34,8,2017,"Young Adults",Family,154.71
+17/8/20,USA,Retail,F3,Existing,142421,8634287,2020-08-17,34,8,2017,Retirees,Family,60.63
+17/8/20,"SOUTH AMERICA",Retail,F3,Existing,1296,62113,2020-08-17,34,8,2017,Retirees,Family,47.93
+17/8/20,EUROPE,Shopify,C3,Existing,175,54266,2020-08-17,34,8,2017,Retirees,Couples,310.09
+17/8/20,"SOUTH AMERICA",Retail,F2,Existing,1124,49047,2020-08-17,34,8,2017,"Middle Aged",Family,43.64
+17/8/20,ASIA,Retail,C3,New,116905,3505589,2020-08-17,34,8,2017,Retirees,Couples,29.99
+17/8/20,CANADA,Shopify,null,Guest,1591,263342,2020-08-17,34,8,2017,unknown,unknown,165.52
+17/8/20,EUROPE,Retail,null,New,2945,132755,2020-08-17,34,8,2017,unknown,unknown,45.08
+17/8/20,"SOUTH AMERICA",Retail,C2,New,905,26856,2020-08-17,34,8,2017,"Middle Aged",Couples,29.68
+17/8/20,OCEANIA,Shopify,F2,Existing,6600,1321634,2020-08-17,34,8,2017,"Middle Aged",Family,200.25
+17/8/20,CANADA,Shopify,C1,Existing,564,87885,2020-08-17,34,8,2017,"Young Adults",Couples,155.82
+17/8/20,USA,Retail,F2,Existing,93845,5322541,2020-08-17,34,8,2017,"Middle Aged",Family,56.72
+17/8/20,CANADA,Shopify,C2,New,95,13519,2020-08-17,34,8,2017,"Middle Aged",Couples,142.31
+17/8/20,OCEANIA,Retail,C1,Existing,259111,9224860,2020-08-17,34,8,2017,"Young Adults",Couples,35.60
+17/8/20,USA,Shopify,C3,New,207,35386,2020-08-17,34,8,2017,Retirees,Couples,170.95
+17/8/20,AFRICA,Shopify,C1,Existing,1603,256974,2020-08-17,34,8,2017,"Young Adults",Couples,160.31
+17/8/20,"SOUTH AMERICA",Retail,null,Guest,406131,16378438,2020-08-17,34,8,2017,unknown,unknown,40.33
+17/8/20,ASIA,Shopify,F2,New,224,32131,2020-08-17,34,8,2017,"Middle Aged",Family,143.44
+17/8/20,AFRICA,Retail,C1,Existing,187177,6889807,2020-08-17,34,8,2017,"Young Adults",Couples,36.81
+17/8/20,CANADA,Retail,C1,Existing,56486,2313650,2020-08-17,34,8,2017,"Young Adults",Couples,40.96
+17/8/20,USA,Shopify,null,Guest,2549,457017,2020-08-17,34,8,2017,unknown,unknown,179.29
+17/8/20,"SOUTH AMERICA",Retail,C1,Existing,3234,90457,2020-08-17,34,8,2017,"Young Adults",Couples,27.97
+17/8/20,CANADA,Shopify,C3,Existing,777,143406,2020-08-17,34,8,2017,Retirees,Couples,184.56
+17/8/20,EUROPE,Retail,C1,New,4629,135718,2020-08-17,34,8,2017,"Young Adults",Couples,29.32
+17/8/20,USA,Shopify,null,Existing,152,32055,2020-08-17,34,8,2017,unknown,unknown,210.89
+17/8/20,AFRICA,Retail,null,Existing,31550,1362736,2020-08-17,34,8,2017,unknown,unknown,43.19
+17/8/20,AFRICA,Shopify,C1,New,278,33973,2020-08-17,34,8,2017,"Young Adults",Couples,122.21
+17/8/20,OCEANIA,Retail,C4,Existing,152133,7366089,2020-08-17,34,8,2017,Retirees,Couples,48.42
+17/8/20,EUROPE,Shopify,C4,Existing,19,4431,2020-08-17,34,8,2017,Retirees,Couples,233.21
+17/8/20,OCEANIA,Retail,C2,New,109303,2918338,2020-08-17,34,8,2017,"Middle Aged",Couples,26.70
+17/8/20,"SOUTH AMERICA",Shopify,C3,New,25,4448,2020-08-17,34,8,2017,Retirees,Couples,177.92
+17/8/20,OCEANIA,Shopify,C1,New,505,67376,2020-08-17,34,8,2017,"Young Adults",Couples,133.42
+17/8/20,USA,Retail,F1,New,11428,432164,2020-08-17,34,8,2017,"Young Adults",Family,37.82
+17/8/20,"SOUTH AMERICA",Shopify,C4,New,5,806,2020-08-17,34,8,2017,Retirees,Couples,161.20
+17/8/20,USA,Shopify,C3,Existing,1423,302157,2020-08-17,34,8,2017,Retirees,Couples,212.34
+17/8/20,CANADA,Retail,C2,Existing,23219,1001518,2020-08-17,34,8,2017,"Middle Aged",Couples,43.13
+17/8/20,AFRICA,Shopify,null,Existing,319,62170,2020-08-17,34,8,2017,unknown,unknown,194.89
+17/8/20,ASIA,Shopify,C3,New,262,37346,2020-08-17,34,8,2017,Retirees,Couples,142.54
+17/8/20,OCEANIA,Shopify,F3,Existing,3813,795013,2020-08-17,34,8,2017,Retirees,Family,208.50
+10/8/20,USA,Retail,null,Existing,15577,754876,2020-08-10,33,8,2010,unknown,unknown,48.46
+10/8/20,AFRICA,Retail,C1,Existing,182887,6740764,2020-08-10,33,8,2010,"Young Adults",Couples,36.86
+10/8/20,ASIA,Shopify,C1,Existing,1285,210922,2020-08-10,33,8,2010,"Young Adults",Couples,164.14
+10/8/20,EUROPE,Shopify,null,New,15,3707,2020-08-10,33,8,2010,unknown,unknown,247.13
+10/8/20,"SOUTH AMERICA",Shopify,F1,Existing,66,14470,2020-08-10,33,8,2010,"Young Adults",Family,219.24
+10/8/20,AFRICA,Retail,C2,New,56951,1765560,2020-08-10,33,8,2010,"Middle Aged",Couples,31.00
+10/8/20,ASIA,Retail,F3,New,84863,2644705,2020-08-10,33,8,2010,Retirees,Family,31.16
+10/8/20,CANADA,Retail,F1,New,6479,235905,2020-08-10,33,8,2010,"Young Adults",Family,36.41
+10/8/20,"SOUTH AMERICA",Retail,C3,New,881,31132,2020-08-10,33,8,2010,Retirees,Couples,35.34
+10/8/20,AFRICA,Shopify,C3,New,314,50571,2020-08-10,33,8,2010,Retirees,Couples,161.05
+10/8/20,CANADA,Shopify,C3,Existing,799,153407,2020-08-10,33,8,2010,Retirees,Couples,192.00
+10/8/20,EUROPE,Retail,C1,New,4610,138141,2020-08-10,33,8,2010,"Young Adults",Couples,29.97
+10/8/20,AFRICA,Shopify,null,New,279,46890,2020-08-10,33,8,2010,unknown,unknown,168.06
+10/8/20,USA,Retail,C3,New,45956,1735568,2020-08-10,33,8,2010,Retirees,Couples,37.77
+10/8/20,EUROPE,Retail,C4,New,1529,61261,2020-08-10,33,8,2010,Retirees,Couples,40.07
+10/8/20,USA,Retail,C2,New,25709,869093,2020-08-10,33,8,2010,"Middle Aged",Couples,33.81
+10/8/20,CANADA,Retail,null,Guest,389009,10752020,2020-08-10,33,8,2010,unknown,unknown,27.64
+10/8/20,USA,Shopify,F3,Existing,958,203301,2020-08-10,33,8,2010,Retirees,Family,212.21
+10/8/20,EUROPE,Retail,F2,Existing,14083,823074,2020-08-10,33,8,2010,"Middle Aged",Family,58.44
+10/8/20,AFRICA,Retail,F1,New,22274,809294,2020-08-10,33,8,2010,"Young Adults",Family,36.33
+10/8/20,ASIA,Shopify,F1,New,175,23810,2020-08-10,33,8,2010,"Young Adults",Family,136.06
+10/8/20,CANADA,Retail,null,Existing,8956,428086,2020-08-10,33,8,2010,unknown,unknown,47.80
+10/8/20,CANADA,Shopify,F1,Existing,786,133725,2020-08-10,33,8,2010,"Young Adults",Family,170.13
+10/8/20,CANADA,Shopify,null,Existing,108,18098,2020-08-10,33,8,2010,unknown,unknown,167.57
+10/8/20,OCEANIA,Retail,null,New,87190,2965317,2020-08-10,33,8,2010,unknown,unknown,34.01
+10/8/20,AFRICA,Retail,F3,Existing,397434,22048568,2020-08-10,33,8,2010,Retirees,Family,55.48
+10/8/20,USA,Retail,F3,New,27674,1060153,2020-08-10,33,8,2010,Retirees,Family,38.31
+10/8/20,ASIA,Shopify,C2,New,440,58146,2020-08-10,33,8,2010,"Middle Aged",Couples,132.15
+10/8/20,"SOUTH AMERICA",Shopify,F1,New,9,1981,2020-08-10,33,8,2010,"Young Adults",Family,220.11
+10/8/20,"SOUTH AMERICA",Retail,C2,Existing,984,37488,2020-08-10,33,8,2010,"Middle Aged",Couples,38.10
+10/8/20,"SOUTH AMERICA",Shopify,F2,New,6,872,2020-08-10,33,8,2010,"Middle Aged",Family,145.33
+10/8/20,USA,Retail,C3,Existing,102124,5651652,2020-08-10,33,8,2010,Retirees,Couples,55.34
+10/8/20,OCEANIA,Shopify,F1,Existing,4287,791461,2020-08-10,33,8,2010,"Young Adults",Family,184.62
+10/8/20,EUROPE,Shopify,C2,Existing,170,47457,2020-08-10,33,8,2010,"Middle Aged",Couples,279.16
+10/8/20,EUROPE,Shopify,F3,New,2,314,2020-08-10,33,8,2010,Retirees,Family,157.00
+10/8/20,CANADA,Shopify,C2,Existing,694,116515,2020-08-10,33,8,2010,"Middle Aged",Couples,167.89
+10/8/20,"SOUTH AMERICA",Retail,F3,Existing,1304,60683,2020-08-10,33,8,2010,Retirees,Family,46.54
+10/8/20,USA,Shopify,F1,New,131,19555,2020-08-10,33,8,2010,"Young Adults",Family,149.27
+10/8/20,ASIA,Shopify,null,Guest,5856,987237,2020-08-10,33,8,2010,unknown,unknown,168.59
+10/8/20,AFRICA,Retail,null,Guest,1552707,44304726,2020-08-10,33,8,2010,unknown,unknown,28.53
+10/8/20,USA,Shopify,F2,Existing,1913,384475,2020-08-10,33,8,2010,"Middle Aged",Family,200.98
+10/8/20,USA,Retail,null,New,23420,971003,2020-08-10,33,8,2010,unknown,unknown,41.46
+10/8/20,AFRICA,Shopify,null,Existing,382,71027,2020-08-10,33,8,2010,unknown,unknown,185.93
+10/8/20,OCEANIA,Shopify,C2,New,770,125489,2020-08-10,33,8,2010,"Middle Aged",Couples,162.97
+10/8/20,"SOUTH AMERICA",Shopify,null,Guest,2062,393008,2020-08-10,33,8,2010,unknown,unknown,190.60
+10/8/20,OCEANIA,Shopify,C2,Existing,4391,817285,2020-08-10,33,8,2010,"Middle Aged",Couples,186.13
+10/8/20,USA,Shopify,F1,Existing,1335,253770,2020-08-10,33,8,2010,"Young Adults",Family,190.09
+10/8/20,ASIA,Retail,F1,New,29421,943870,2020-08-10,33,8,2010,"Young Adults",Family,32.08
+10/8/20,"SOUTH AMERICA",Retail,C2,New,899,25595,2020-08-10,33,8,2010,"Middle Aged",Couples,28.47
+10/8/20,ASIA,Retail,C3,Existing,240218,10955770,2020-08-10,33,8,2010,Retirees,Couples,45.61
+10/8/20,USA,Retail,C2,Existing,42860,2065404,2020-08-10,33,8,2010,"Middle Aged",Couples,48.19
+10/8/20,CANADA,Retail,F3,Existing,92147,5103156,2020-08-10,33,8,2010,Retirees,Family,55.38
+10/8/20,CANADA,Retail,F3,New,18179,630749,2020-08-10,33,8,2010,Retirees,Family,34.70
+10/8/20,AFRICA,Shopify,F1,Existing,2542,463189,2020-08-10,33,8,2010,"Young Adults",Family,182.21
+10/8/20,EUROPE,Shopify,F1,New,6,996,2020-08-10,33,8,2010,"Young Adults",Family,166.00
+10/8/20,AFRICA,Retail,C2,Existing,112254,4800959,2020-08-10,33,8,2010,"Middle Aged",Couples,42.77
+10/8/20,CANADA,Shopify,F2,Existing,1296,239593,2020-08-10,33,8,2010,"Middle Aged",Family,184.87
+10/8/20,"SOUTH AMERICA",Retail,C1,Existing,3010,83594,2020-08-10,33,8,2010,"Young Adults",Couples,27.77
+10/8/20,AFRICA,Retail,C3,New,109938,3913341,2020-08-10,33,8,2010,Retirees,Couples,35.60
+10/8/20,AFRICA,Retail,C4,Existing,119055,6021186,2020-08-10,33,8,2010,Retirees,Couples,50.57
+10/8/20,OCEANIA,Retail,F3,New,108523,3656004,2020-08-10,33,8,2010,Retirees,Family,33.69
+10/8/20,ASIA,Retail,null,New,67978,2255669,2020-08-10,33,8,2010,unknown,unknown,33.18
+10/8/20,ASIA,Shopify,C3,Existing,2017,387583,2020-08-10,33,8,2010,Retirees,Couples,192.16
+10/8/20,CANADA,Retail,F2,Existing,60106,3149550,2020-08-10,33,8,2010,"Middle Aged",Family,52.40
+10/8/20,"SOUTH AMERICA",Retail,C4,New,227,8724,2020-08-10,33,8,2010,Retirees,Couples,38.43
+10/8/20,"SOUTH AMERICA",Retail,C3,Existing,1356,63599,2020-08-10,33,8,2010,Retirees,Couples,46.90
+10/8/20,EUROPE,Retail,C4,Existing,5110,270941,2020-08-10,33,8,2010,Retirees,Couples,53.02
+10/8/20,USA,Shopify,null,Guest,2515,452765,2020-08-10,33,8,2010,unknown,unknown,180.03
+10/8/20,ASIA,Shopify,F3,Existing,1880,367732,2020-08-10,33,8,2010,Retirees,Family,195.60
+10/8/20,AFRICA,Shopify,C2,Existing,2421,456586,2020-08-10,33,8,2010,"Middle Aged",Couples,188.59
+10/8/20,OCEANIA,Shopify,F1,New,337,48736,2020-08-10,33,8,2010,"Young Adults",Family,144.62
+10/8/20,ASIA,Shopify,C2,Existing,2263,401444,2020-08-10,33,8,2010,"Middle Aged",Couples,177.39
+10/8/20,ASIA,Shopify,C3,New,292,42180,2020-08-10,33,8,2010,Retirees,Couples,144.45
+10/8/20,OCEANIA,Retail,C1,Existing,255118,9056376,2020-08-10,33,8,2010,"Young Adults",Couples,35.50
+10/8/20,EUROPE,Shopify,C1,Existing,94,19570,2020-08-10,33,8,2010,"Young Adults",Couples,208.19
+10/8/20,USA,Shopify,F2,New,145,22190,2020-08-10,33,8,2010,"Middle Aged",Family,153.03
+10/8/20,USA,Shopify,C4,New,22,3523,2020-08-10,33,8,2010,Retirees,Couples,160.14
+10/8/20,"SOUTH AMERICA",Shopify,C4,New,6,646,2020-08-10,33,8,2010,Retirees,Couples,107.67
+10/8/20,OCEANIA,Retail,C3,New,152821,4942858,2020-08-10,33,8,2010,Retirees,Couples,32.34
+10/8/20,ASIA,Retail,C2,Existing,127598,4897462,2020-08-10,33,8,2010,"Middle Aged",Couples,38.38
+10/8/20,EUROPE,Shopify,C3,New,14,3566,2020-08-10,33,8,2010,Retirees,Couples,254.71
+10/8/20,EUROPE,Retail,null,New,3095,133349,2020-08-10,33,8,2010,unknown,unknown,43.09
+10/8/20,"SOUTH AMERICA",Retail,F1,Existing,691,27346,2020-08-10,33,8,2010,"Young Adults",Family,39.57
+10/8/20,USA,Retail,null,Guest,526413,16081303,2020-08-10,33,8,2010,unknown,unknown,30.55
+10/8/20,EUROPE,Retail,null,Existing,3386,157151,2020-08-10,33,8,2010,unknown,unknown,46.41
+10/8/20,OCEANIA,Shopify,F2,New,389,62581,2020-08-10,33,8,2010,"Middle Aged",Family,160.88
+10/8/20,EUROPE,Shopify,F1,Existing,137,31069,2020-08-10,33,8,2010,"Young Adults",Family,226.78
+10/8/20,USA,Retail,F3,Existing,139861,8367986,2020-08-10,33,8,2010,Retirees,Family,59.83
+10/8/20,OCEANIA,Retail,null,Existing,53361,2176256,2020-08-10,33,8,2010,unknown,unknown,40.78
+10/8/20,EUROPE,Shopify,null,Existing,27,7327,2020-08-10,33,8,2010,unknown,unknown,271.37
+10/8/20,ASIA,Shopify,F2,Existing,2914,549728,2020-08-10,33,8,2010,"Middle Aged",Family,188.65
+10/8/20,USA,Retail,F2,Existing,92910,5163812,2020-08-10,33,8,2010,"Middle Aged",Family,55.58
+10/8/20,USA,Retail,C4,New,18008,641430,2020-08-10,33,8,2010,Retirees,Couples,35.62
+10/8/20,OCEANIA,Shopify,C1,New,461,62213,2020-08-10,33,8,2010,"Young Adults",Couples,134.95
+10/8/20,OCEANIA,Shopify,C4,New,103,15964,2020-08-10,33,8,2010,Retirees,Couples,154.99
+10/8/20,EUROPE,Retail,F3,Existing,18491,1102488,2020-08-10,33,8,2010,Retirees,Family,59.62
+10/8/20,ASIA,Shopify,C4,Existing,281,47931,2020-08-10,33,8,2010,Retirees,Couples,170.57
+10/8/20,"SOUTH AMERICA",Shopify,F3,Existing,36,7418,2020-08-10,33,8,2010,Retirees,Family,206.06
+10/8/20,AFRICA,Shopify,F1,New,193,28301,2020-08-10,33,8,2010,"Young Adults",Family,146.64
+10/8/20,OCEANIA,Shopify,C3,Existing,4422,897675,2020-08-10,33,8,2010,Retirees,Couples,203.00
+10/8/20,AFRICA,Shopify,F3,New,102,15696,2020-08-10,33,8,2010,Retirees,Family,153.88
+10/8/20,OCEANIA,Shopify,C1,Existing,2643,455488,2020-08-10,33,8,2010,"Young Adults",Couples,172.34
+10/8/20,CANADA,Retail,F2,New,16716,582076,2020-08-10,33,8,2010,"Middle Aged",Family,34.82
+10/8/20,AFRICA,Retail,F3,New,67758,2397332,2020-08-10,33,8,2010,Retirees,Family,35.38
+10/8/20,"SOUTH AMERICA",Retail,F1,New,296,10344,2020-08-10,33,8,2010,"Young Adults",Family,34.95
+10/8/20,EUROPE,Shopify,C2,New,17,3077,2020-08-10,33,8,2010,"Middle Aged",Couples,181.00
+10/8/20,USA,Shopify,C1,New,140,18109,2020-08-10,33,8,2010,"Young Adults",Couples,129.35
+10/8/20,ASIA,Retail,null,Existing,40666,1636144,2020-08-10,33,8,2010,unknown,unknown,40.23
+10/8/20,EUROPE,Shopify,F2,New,8,2114,2020-08-10,33,8,2010,"Middle Aged",Family,264.25
+10/8/20,"SOUTH AMERICA",Retail,C1,New,2509,51980,2020-08-10,33,8,2010,"Young Adults",Couples,20.72
+10/8/20,ASIA,Shopify,F1,Existing,2134,368422,2020-08-10,33,8,2010,"Young Adults",Family,172.64
+10/8/20,ASIA,Shopify,F2,New,219,31731,2020-08-10,33,8,2010,"Middle Aged",Family,144.89
+10/8/20,AFRICA,Shopify,C3,Existing,2528,514328,2020-08-10,33,8,2010,Retirees,Couples,203.45
+10/8/20,OCEANIA,Retail,F3,Existing,541385,29331524,2020-08-10,33,8,2010,Retirees,Family,54.18
+10/8/20,CANADA,Shopify,C2,New,98,12883,2020-08-10,33,8,2010,"Middle Aged",Couples,131.46
+10/8/20,AFRICA,Shopify,F2,New,202,33755,2020-08-10,33,8,2010,"Middle Aged",Family,167.10
+10/8/20,AFRICA,Shopify,C1,New,272,36422,2020-08-10,33,8,2010,"Young Adults",Couples,133.90
+10/8/20,OCEANIA,Retail,F2,New,87993,2895594,2020-08-10,33,8,2010,"Middle Aged",Family,32.91
+10/8/20,CANADA,Retail,C1,New,29661,760457,2020-08-10,33,8,2010,"Young Adults",Couples,25.64
+10/8/20,"SOUTH AMERICA",Shopify,C1,Existing,68,11651,2020-08-10,33,8,2010,"Young Adults",Couples,171.34
+10/8/20,CANADA,Shopify,F2,New,77,11136,2020-08-10,33,8,2010,"Middle Aged",Family,144.62
+10/8/20,"SOUTH AMERICA",Retail,null,Existing,338,9797,2020-08-10,33,8,2010,unknown,unknown,28.99
+10/8/20,CANADA,Retail,C2,Existing,23194,992630,2020-08-10,33,8,2010,"Middle Aged",Couples,42.80
+10/8/20,CANADA,Shopify,C4,New,13,1466,2020-08-10,33,8,2010,Retirees,Couples,112.77
+10/8/20,EUROPE,Retail,C1,Existing,14786,626319,2020-08-10,33,8,2010,"Young Adults",Couples,42.36
+10/8/20,ASIA,Retail,C2,New,84460,2224285,2020-08-10,33,8,2010,"Middle Aged",Couples,26.34
+10/8/20,"SOUTH AMERICA",Retail,F2,New,370,13774,2020-08-10,33,8,2010,"Middle Aged",Family,37.23
+10/8/20,"SOUTH AMERICA",Retail,F2,Existing,1089,49162,2020-08-10,33,8,2010,"Middle Aged",Family,45.14
+10/8/20,"SOUTH AMERICA",Shopify,null,New,46,8263,2020-08-10,33,8,2010,unknown,unknown,179.63
+10/8/20,USA,Retail,C1,Existing,57001,2325464,2020-08-10,33,8,2010,"Young Adults",Couples,40.80
+10/8/20,"SOUTH AMERICA",Shopify,C3,Existing,103,20695,2020-08-10,33,8,2010,Retirees,Couples,200.92
+10/8/20,USA,Shopify,null,New,159,25820,2020-08-10,33,8,2010,unknown,unknown,162.39
+10/8/20,EUROPE,Retail,F1,Existing,6493,374312,2020-08-10,33,8,2010,"Young Adults",Family,57.65
+10/8/20,CANADA,Retail,C2,New,14607,487625,2020-08-10,33,8,2010,"Middle Aged",Couples,33.38
+10/8/20,"SOUTH AMERICA",Shopify,C2,Existing,113,22554,2020-08-10,33,8,2010,"Middle Aged",Couples,199.59
+10/8/20,OCEANIA,Shopify,null,Guest,10661,1916228,2020-08-10,33,8,2010,unknown,unknown,179.74
+10/8/20,USA,Retail,C1,New,35798,967881,2020-08-10,33,8,2010,"Young Adults",Couples,27.04
+10/8/20,OCEANIA,Retail,C1,New,171259,3864876,2020-08-10,33,8,2010,"Young Adults",Couples,22.57
+10/8/20,EUROPE,Shopify,C1,New,12,2116,2020-08-10,33,8,2010,"Young Adults",Couples,176.33
+10/8/20,OCEANIA,Shopify,C3,New,541,89186,2020-08-10,33,8,2010,Retirees,Couples,164.85
+10/8/20,OCEANIA,Retail,C4,Existing,151426,7411317,2020-08-10,33,8,2010,Retirees,Couples,48.94
+10/8/20,EUROPE,Shopify,C4,Existing,20,4802,2020-08-10,33,8,2010,Retirees,Couples,240.10
+10/8/20,AFRICA,Retail,null,Existing,40870,1778458,2020-08-10,33,8,2010,unknown,unknown,43.51
+10/8/20,USA,Retail,F1,Existing,39437,2213190,2020-08-10,33,8,2010,"Young Adults",Family,56.12
+10/8/20,"SOUTH AMERICA",Retail,null,Guest,400399,16151059,2020-08-10,33,8,2010,unknown,unknown,40.34
+10/8/20,OCEANIA,Retail,C2,Existing,167770,6511989,2020-08-10,33,8,2010,"Middle Aged",Couples,38.81
+10/8/20,CANADA,Retail,C1,Existing,55437,2282598,2020-08-10,33,8,2010,"Young Adults",Couples,41.17
+10/8/20,AFRICA,Shopify,C2,New,389,57303,2020-08-10,33,8,2010,"Middle Aged",Couples,147.31
+10/8/20,EUROPE,Retail,C3,New,4171,173817,2020-08-10,33,8,2010,Retirees,Couples,41.67
+10/8/20,AFRICA,Retail,F1,Existing,96439,5061797,2020-08-10,33,8,2010,"Young Adults",Family,52.49
+10/8/20,OCEANIA,Retail,C3,Existing,339785,16391442,2020-08-10,33,8,2010,Retirees,Couples,48.24
+10/8/20,EUROPE,Shopify,C3,Existing,161,51616,2020-08-10,33,8,2010,Retirees,Couples,320.60
+10/8/20,"SOUTH AMERICA",Shopify,C1,New,16,2738,2020-08-10,33,8,2010,"Young Adults",Couples,171.13
+10/8/20,CANADA,Shopify,C4,Existing,107,18242,2020-08-10,33,8,2010,Retirees,Couples,170.49
+10/8/20,AFRICA,Shopify,null,Guest,5588,973232,2020-08-10,33,8,2010,unknown,unknown,174.16
+10/8/20,"SOUTH AMERICA",Shopify,C4,Existing,6,1034,2020-08-10,33,8,2010,Retirees,Couples,172.33
+10/8/20,EUROPE,Shopify,null,Guest,327,74656,2020-08-10,33,8,2010,unknown,unknown,228.31
+10/8/20,CANADA,Retail,C4,Existing,28577,1409891,2020-08-10,33,8,2010,Retirees,Couples,49.34
+10/8/20,CANADA,Retail,C3,Existing,61727,3128812,2020-08-10,33,8,2010,Retirees,Couples,50.69
+10/8/20,OCEANIA,Shopify,null,New,498,80339,2020-08-10,33,8,2010,unknown,unknown,161.32
+10/8/20,ASIA,Retail,null,Guest,1887143,48068626,2020-08-10,33,8,2010,unknown,unknown,25.47
+10/8/20,"SOUTH AMERICA",Shopify,F2,Existing,28,6440,2020-08-10,33,8,2010,"Middle Aged",Family,230.00
+10/8/20,CANADA,Retail,C3,New,28235,975579,2020-08-10,33,8,2010,Retirees,Couples,34.55
+10/8/20,USA,Retail,C4,Existing,40096,2158541,2020-08-10,33,8,2010,Retirees,Couples,53.83
+10/8/20,ASIA,Retail,C3,New,116758,3578742,2020-08-10,33,8,2010,Retirees,Couples,30.65
+10/8/20,ASIA,Shopify,F3,New,124,17632,2020-08-10,33,8,2010,Retirees,Family,142.19
+10/8/20,"SOUTH AMERICA",Shopify,C2,New,59,10008,2020-08-10,33,8,2010,"Middle Aged",Couples,169.63
+10/8/20,EUROPE,Retail,null,Guest,100757,3447184,2020-08-10,33,8,2010,unknown,unknown,34.21
+10/8/20,AFRICA,Shopify,F2,Existing,4563,877826,2020-08-10,33,8,2010,"Middle Aged",Family,192.38
+10/8/20,EUROPE,Retail,F1,New,926,37629,2020-08-10,33,8,2010,"Young Adults",Family,40.64
+10/8/20,ASIA,Retail,F1,Existing,91936,4470218,2020-08-10,33,8,2010,"Young Adults",Family,48.62
+10/8/20,AFRICA,Retail,C4,New,46821,1574081,2020-08-10,33,8,2010,Retirees,Couples,33.62
+10/8/20,ASIA,Retail,F3,Existing,389314,19648444,2020-08-10,33,8,2010,Retirees,Family,50.47
+10/8/20,OCEANIA,Retail,F1,New,40089,1329921,2020-08-10,33,8,2010,"Young Adults",Family,33.17
+10/8/20,OCEANIA,Shopify,C4,Existing,675,119212,2020-08-10,33,8,2010,Retirees,Couples,176.61
+10/8/20,CANADA,Shopify,C3,New,106,15942,2020-08-10,33,8,2010,Retirees,Couples,150.40
+10/8/20,EUROPE,Retail,C2,New,2835,103204,2020-08-10,33,8,2010,"Middle Aged",Couples,36.40
+10/8/20,CANADA,Retail,null,New,14901,576552,2020-08-10,33,8,2010,unknown,unknown,38.69
+10/8/20,AFRICA,Shopify,F3,Existing,2304,469306,2020-08-10,33,8,2010,Retirees,Family,203.69
+10/8/20,"SOUTH AMERICA",Shopify,F3,New,2,256,2020-08-10,33,8,2010,Retirees,Family,128.00
+10/8/20,CANADA,Shopify,F3,New,28,4477,2020-08-10,33,8,2010,Retirees,Family,159.89
+10/8/20,OCEANIA,Retail,C2,New,108970,2921528,2020-08-10,33,8,2010,"Middle Aged",Couples,26.81
+10/8/20,USA,Retail,F1,New,11433,448436,2020-08-10,33,8,2010,"Young Adults",Family,39.22
+10/8/20,ASIA,Retail,F2,New,65694,2009834,2020-08-10,33,8,2010,"Middle Aged",Family,30.59
+10/8/20,CANADA,Retail,F1,Existing,23790,1272871,2020-08-10,33,8,2010,"Young Adults",Family,53.50
+10/8/20,"SOUTH AMERICA",Retail,F3,New,292,9904,2020-08-10,33,8,2010,Retirees,Family,33.92
+10/8/20,OCEANIA,Retail,C4,New,63925,2001478,2020-08-10,33,8,2010,Retirees,Couples,31.31
+10/8/20,USA,Shopify,C3,New,182,29180,2020-08-10,33,8,2010,Retirees,Couples,160.33
+10/8/20,EUROPE,Shopify,C4,New,2,632,2020-08-10,33,8,2010,Retirees,Couples,316.00
+10/8/20,OCEANIA,Retail,F1,Existing,143771,7144721,2020-08-10,33,8,2010,"Young Adults",Family,49.70
+10/8/20,EUROPE,Retail,C2,Existing,9893,474293,2020-08-10,33,8,2010,"Middle Aged",Couples,47.94
+10/8/20,CANADA,Shopify,C1,New,94,12432,2020-08-10,33,8,2010,"Young Adults",Couples,132.26
+10/8/20,OCEANIA,Shopify,F3,Existing,3700,766241,2020-08-10,33,8,2010,Retirees,Family,207.09
+10/8/20,AFRICA,Retail,F2,New,62201,2144477,2020-08-10,33,8,2010,"Middle Aged",Family,34.48
+10/8/20,CANADA,Shopify,F3,Existing,643,123959,2020-08-10,33,8,2010,Retirees,Family,192.78
+10/8/20,USA,Shopify,C1,Existing,725,127212,2020-08-10,33,8,2010,"Young Adults",Couples,175.46
+10/8/20,USA,Retail,F2,New,26643,947244,2020-08-10,33,8,2010,"Middle Aged",Family,35.55
+10/8/20,ASIA,Retail,F2,Existing,212049,10186501,2020-08-10,33,8,2010,"Middle Aged",Family,48.04
+10/8/20,ASIA,Shopify,C4,New,51,6735,2020-08-10,33,8,2010,Retirees,Couples,132.06
+10/8/20,OCEANIA,Retail,F2,Existing,337725,17283430,2020-08-10,33,8,2010,"Middle Aged",Family,51.18
+10/8/20,EUROPE,Shopify,F2,Existing,208,44269,2020-08-10,33,8,2010,"Middle Aged",Family,212.83
+10/8/20,USA,Shopify,F3,New,49,9085,2020-08-10,33,8,2010,Retirees,Family,185.41
+10/8/20,USA,Shopify,null,Existing,187,39281,2020-08-10,33,8,2010,unknown,unknown,210.06
+10/8/20,CANADA,Shopify,F1,New,58,7894,2020-08-10,33,8,2010,"Young Adults",Family,136.10
+10/8/20,"SOUTH AMERICA",Shopify,null,Existing,6,1274,2020-08-10,33,8,2010,unknown,unknown,212.33
+10/8/20,OCEANIA,Shopify,null,Existing,654,123959,2020-08-10,33,8,2010,unknown,unknown,189.54
+10/8/20,"SOUTH AMERICA",Retail,C4,Existing,374,16886,2020-08-10,33,8,2010,Retirees,Couples,45.15
+10/8/20,CANADA,Shopify,C1,Existing,547,88689,2020-08-10,33,8,2010,"Young Adults",Couples,162.14
+10/8/20,OCEANIA,Shopify,F2,Existing,6333,1256976,2020-08-10,33,8,2010,"Middle Aged",Family,198.48
+10/8/20,"SOUTH AMERICA",Retail,null,New,1294,46478,2020-08-10,33,8,2010,unknown,unknown,35.92
+10/8/20,ASIA,Retail,C4,Existing,107398,4778226,2020-08-10,33,8,2010,Retirees,Couples,44.49
+10/8/20,AFRICA,Retail,F2,Existing,269162,14203517,2020-08-10,33,8,2010,"Middle Aged",Family,52.77
+10/8/20,AFRICA,Shopify,C1,Existing,1578,253694,2020-08-10,33,8,2010,"Young Adults",Couples,160.77
+10/8/20,AFRICA,Shopify,C4,New,58,8633,2020-08-10,33,8,2010,Retirees,Couples,148.84
+10/8/20,ASIA,Retail,C1,New,129054,2810314,2020-08-10,33,8,2010,"Young Adults",Couples,21.78
+10/8/20,EUROPE,Retail,F2,New,1710,72189,2020-08-10,33,8,2010,"Middle Aged",Family,42.22
+10/8/20,"SOUTH AMERICA",Shopify,C3,New,22,3712,2020-08-10,33,8,2010,Retirees,Couples,168.73
+10/8/20,EUROPE,Retail,F3,New,1735,74278,2020-08-10,33,8,2010,Retirees,Family,42.81
+10/8/20,CANADA,Shopify,null,New,79,12029,2020-08-10,33,8,2010,unknown,unknown,152.27
+10/8/20,EUROPE,Shopify,F3,Existing,103,27675,2020-08-10,33,8,2010,Retirees,Family,268.69
+10/8/20,AFRICA,Retail,C3,Existing,285399,14450180,2020-08-10,33,8,2010,Retirees,Couples,50.63
+10/8/20,USA,Shopify,C2,New,220,45523,2020-08-10,33,8,2010,"Middle Aged",Couples,206.92
+10/8/20,AFRICA,Shopify,C4,Existing,386,76381,2020-08-10,33,8,2010,Retirees,Couples,197.88
+10/8/20,ASIA,Shopify,null,New,342,54929,2020-08-10,33,8,2010,unknown,unknown,160.61
+10/8/20,OCEANIA,Shopify,F3,New,194,30184,2020-08-10,33,8,2010,Retirees,Family,155.59
+10/8/20,ASIA,Retail,C1,Existing,181625,6134984,2020-08-10,33,8,2010,"Young Adults",Couples,33.78
+10/8/20,AFRICA,Retail,null,New,59847,2309908,2020-08-10,33,8,2010,unknown,unknown,38.60
+10/8/20,ASIA,Retail,C4,New,50182,1443978,2020-08-10,33,8,2010,Retirees,Couples,28.77
+10/8/20,CANADA,Retail,C4,New,12668,413810,2020-08-10,33,8,2010,Retirees,Couples,32.67
+10/8/20,USA,Shopify,C4,Existing,171,29727,2020-08-10,33,8,2010,Retirees,Couples,173.84
+10/8/20,CANADA,Shopify,null,Guest,1600,265390,2020-08-10,33,8,2010,unknown,unknown,165.87
+10/8/20,EUROPE,Retail,C3,Existing,15618,840062,2020-08-10,33,8,2010,Retirees,Couples,53.79
+10/8/20,OCEANIA,Retail,null,Guest,2434028,63455857,2020-08-10,33,8,2010,unknown,unknown,26.07
+10/8/20,ASIA,Shopify,C1,New,257,32094,2020-08-10,33,8,2010,"Young Adults",Couples,124.88
+10/8/20,USA,Shopify,C3,Existing,1380,285329,2020-08-10,33,8,2010,Retirees,Couples,206.76
+10/8/20,ASIA,Shopify,null,Existing,433,80045,2020-08-10,33,8,2010,unknown,unknown,184.86
+10/8/20,AFRICA,Retail,C1,New,96368,2417332,2020-08-10,33,8,2010,"Young Adults",Couples,25.08
+10/8/20,USA,Shopify,C2,Existing,1386,264650,2020-08-10,33,8,2010,"Middle Aged",Couples,190.95
+3/8/20,USA,Shopify,C3,Existing,1394,295484,2020-08-03,33,8,3,Retirees,Couples,211.97
+3/8/20,ASIA,Retail,F1,Existing,88727,4330025,2020-08-03,33,8,3,"Young Adults",Family,48.80
+3/8/20,AFRICA,Retail,C2,Existing,108181,4609445,2020-08-03,33,8,3,"Middle Aged",Couples,42.61
+3/8/20,EUROPE,Shopify,F1,New,6,1222,2020-08-03,33,8,3,"Young Adults",Family,203.67
+3/8/20,OCEANIA,Retail,F1,New,37300,1220181,2020-08-03,33,8,3,"Young Adults",Family,32.71
+3/8/20,CANADA,Shopify,C1,Existing,543,85829,2020-08-03,33,8,3,"Young Adults",Couples,158.06
+3/8/20,EUROPE,Shopify,C2,Existing,181,52274,2020-08-03,33,8,3,"Middle Aged",Couples,288.81
+3/8/20,CANADA,Retail,C4,New,12248,410446,2020-08-03,33,8,3,Retirees,Couples,33.51
+3/8/20,AFRICA,Shopify,null,Guest,5387,943794,2020-08-03,33,8,3,unknown,unknown,175.20
+3/8/20,"SOUTH AMERICA",Shopify,C4,Existing,7,1675,2020-08-03,33,8,3,Retirees,Couples,239.29
+3/8/20,AFRICA,Retail,C3,Existing,279564,14164525,2020-08-03,33,8,3,Retirees,Couples,50.67
+3/8/20,CANADA,Shopify,null,New,78,12238,2020-08-03,33,8,3,unknown,unknown,156.90
+3/8/20,OCEANIA,Retail,null,Guest,2347521,61642928,2020-08-03,33,8,3,unknown,unknown,26.26
+3/8/20,ASIA,Retail,null,Guest,1816979,46017560,2020-08-03,33,8,3,unknown,unknown,25.33
+3/8/20,"SOUTH AMERICA",Shopify,F3,New,6,1152,2020-08-03,33,8,3,Retirees,Family,192.00
+3/8/20,ASIA,Retail,F3,Existing,379452,19180184,2020-08-03,33,8,3,Retirees,Family,50.55
+3/8/20,USA,Shopify,C1,New,133,16466,2020-08-03,33,8,3,"Young Adults",Couples,123.80
+3/8/20,AFRICA,Retail,F1,New,20712,736052,2020-08-03,33,8,3,"Young Adults",Family,35.54
+3/8/20,ASIA,Retail,F2,New,63029,1915643,2020-08-03,33,8,3,"Middle Aged",Family,30.39
+3/8/20,EUROPE,Shopify,null,Guest,371,82928,2020-08-03,33,8,3,unknown,unknown,223.53
+3/8/20,USA,Retail,F2,New,26359,947836,2020-08-03,33,8,3,"Middle Aged",Family,35.96
+3/8/20,USA,Retail,F2,Existing,92243,5223071,2020-08-03,33,8,3,"Middle Aged",Family,56.62
+3/8/20,EUROPE,Retail,C1,Existing,14456,642677,2020-08-03,33,8,3,"Young Adults",Couples,44.46
+3/8/20,ASIA,Shopify,C4,New,38,5552,2020-08-03,33,8,3,Retirees,Couples,146.11
+3/8/20,EUROPE,Shopify,F2,Existing,224,49924,2020-08-03,33,8,3,"Middle Aged",Family,222.88
+3/8/20,USA,Shopify,F3,New,44,6674,2020-08-03,33,8,3,Retirees,Family,151.68
+3/8/20,ASIA,Retail,C3,Existing,234120,10684085,2020-08-03,33,8,3,Retirees,Couples,45.64
+3/8/20,EUROPE,Retail,C2,New,2797,101235,2020-08-03,33,8,3,"Middle Aged",Couples,36.19
+3/8/20,AFRICA,Retail,null,Guest,1499194,42818477,2020-08-03,33,8,3,unknown,unknown,28.56
+3/8/20,USA,Shopify,F2,Existing,1872,362902,2020-08-03,33,8,3,"Middle Aged",Family,193.86
+3/8/20,OCEANIA,Shopify,F2,Existing,6342,1274011,2020-08-03,33,8,3,"Middle Aged",Family,200.88
+3/8/20,OCEANIA,Retail,C3,Existing,331895,16192583,2020-08-03,33,8,3,Retirees,Couples,48.79
+3/8/20,OCEANIA,Shopify,null,Guest,10406,1885049,2020-08-03,33,8,3,unknown,unknown,181.15
+3/8/20,EUROPE,Shopify,C3,Existing,162,46471,2020-08-03,33,8,3,Retirees,Couples,286.86
+3/8/20,CANADA,Retail,null,New,14294,559894,2020-08-03,33,8,3,unknown,unknown,39.17
+3/8/20,"SOUTH AMERICA",Shopify,null,Existing,3,456,2020-08-03,33,8,3,unknown,unknown,152.00
+3/8/20,EUROPE,Retail,F3,New,1836,81274,2020-08-03,33,8,3,Retirees,Family,44.27
+3/8/20,USA,Retail,C1,New,34891,948460,2020-08-03,33,8,3,"Young Adults",Couples,27.18
+3/8/20,"SOUTH AMERICA",Retail,C4,Existing,329,15748,2020-08-03,33,8,3,Retirees,Couples,47.87
+3/8/20,"SOUTH AMERICA",Retail,F2,Existing,1097,48997,2020-08-03,33,8,3,"Middle Aged",Family,44.66
+3/8/20,"SOUTH AMERICA",Shopify,C4,New,6,1103,2020-08-03,33,8,3,Retirees,Couples,183.83
+3/8/20,CANADA,Retail,C1,New,28882,741610,2020-08-03,33,8,3,"Young Adults",Couples,25.68
+3/8/20,ASIA,Retail,F2,Existing,205553,9911498,2020-08-03,33,8,3,"Middle Aged",Family,48.22
+3/8/20,USA,Retail,C4,New,17884,635394,2020-08-03,33,8,3,Retirees,Couples,35.53
+3/8/20,ASIA,Shopify,F2,New,177,24231,2020-08-03,33,8,3,"Middle Aged",Family,136.90
+3/8/20,ASIA,Shopify,F2,Existing,2765,517548,2020-08-03,33,8,3,"Middle Aged",Family,187.18
+3/8/20,ASIA,Retail,F1,New,27282,857603,2020-08-03,33,8,3,"Young Adults",Family,31.43
+3/8/20,OCEANIA,Retail,F3,Existing,528117,29101768,2020-08-03,33,8,3,Retirees,Family,55.10
+3/8/20,AFRICA,Shopify,F2,New,235,39520,2020-08-03,33,8,3,"Middle Aged",Family,168.17
